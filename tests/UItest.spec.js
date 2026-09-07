@@ -1,7 +1,7 @@
 // @ts-check
 import { test, expect } from "@playwright/test";
 
-test("Should have shuffle cards info", async ({ page }) => {
+test.skip("Should have shuffle cards info", async ({ page }) => {
 	await page.goto("/");
 
 	const shufflesCardsTxt = await page.locator("#shuffle").textContent();

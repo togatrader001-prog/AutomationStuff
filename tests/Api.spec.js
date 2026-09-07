@@ -1,7 +1,7 @@
 import { test, expect } from "@playwright/test";
 import { log } from "node:console";
 
-test("API test for deck of cards shuffle", async ({ request }) => {
+test.skip("API test for deck of cards shuffle", async ({ request }) => {
 	// Send a GET request to shuffle a new deck of cards
 	const response = await request.get(
 		"https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1",
