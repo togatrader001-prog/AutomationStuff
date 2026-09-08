@@ -1,7 +1,7 @@
 // @ts-check
 import { test, expect } from "@playwright/test";
 
-test("sample test run", async ({ page }) => {
+test("E2E - User Registration and Deletion", async ({ page }) => {
 	const testEmail = `smellyjapanesegirl${Date.now()}@gmail.com`;
 
 	await page.goto("https://automationexercise.com/");
