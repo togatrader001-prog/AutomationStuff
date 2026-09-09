@@ -46,12 +46,13 @@ jobs:
           name: playwright-report
           path: playwright-report/
           retention-days: 30
-- name: Debug OIDC token claims
+
+      - name: Debug OIDC token claims
         if: always()
         run: |
-          IDTOKEN=$(curl -sS -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
-            "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=sts.amazonaws.com" | jq -r '.value')
+          IDTOKEN=$(curl -sS -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=sts.amazonaws.com" | jq -r '.value')
           echo "$IDTOKEN" | cut -d '.' -f2 | base64 -d 2>/dev/null | jq .
+
       - name: Configure AWS credentials via OIDC
         if: always()
         uses: aws-actions/configure-aws-credentials@v4
@@ -67,10 +68,7 @@ jobs:
           REPORT_BUCKET="playwright-reports-6155a69c"
           CLOUDFRONT_DOMAIN="d17pugk0ekw81q.cloudfront.net"
 
-          aws s3 sync \
-            "playwright-report/" \
-            "s3://${REPORT_BUCKET}/${REPORT_PATH}/" \
-            --delete
+          aws s3 sync "playwright-report/" "s3://${REPORT_BUCKET}/${REPORT_PATH}/" --delete
 
           REPORT_URL="https://${CLOUDFRONT_DOMAIN}/${REPORT_PATH}/index.html"
 
