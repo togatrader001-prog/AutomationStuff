@@ -8,6 +8,9 @@ jobs:
   test:
     timeout-minutes: 60
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-node@v4
@@ -25,3 +28,29 @@ jobs:
         name: playwright-report
         path: playwright-report/
         retention-days: 30
+        - name: Configure AWS credentials via OIDC
+        if: always()
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::864902168755:role/github-actions-playwright-uploader
+          aws-region: us-east-2
+
+      - name: Upload Playwright report to S3
+        if: always()
+        shell: bash
+        run: |
+          REPORT_PATH="${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+
+          aws s3 sync \
+            playwright-report/ \
+            "s3://playwright-reports-6155a69c/${REPORT_PATH}/"
+
+          REPORT_URL="https://d17pugk0ekw81q.cloudfront.net/${REPORT_PATH}/index.html"
+
+          {
+            echo "## Playwright Test Report"
+            echo
+            echo "[Open the Playwright report](${REPORT_URL})"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          echo "REPORT_URL=${REPORT_URL}" >> "$GITHUB_OUTPUT"
