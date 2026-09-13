@@ -1,0 +1,290 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Google News" [ref=e8] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e10]: News
+      - generic [ref=e11]:
+        - search [ref=e13]:
+          - generic [ref=e18]:
+            - combobox "Search for topics, locations & sources" [ref=e20]
+            - status
+          - button [ref=e21] [cursor=pointer]:
+            - generic [ref=e22]:
+              - generic "Advanced search" [ref=e23]
+              - tooltip [ref=e26]: Advanced search
+          - button "Search" [ref=e27] [cursor=pointer]
+        - generic [ref=e31]:
+          - generic [ref=e36]:
+            - button "Help" [ref=e37] [cursor=pointer]
+            - tooltip [ref=e41]: Help
+          - generic [ref=e46]:
+            - button "Settings" [ref=e47] [cursor=pointer]
+            - tooltip [ref=e52]: Settings
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e58] [cursor=pointer]
+        - link "Sign in" [ref=e62] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+  - main [ref=e67]:
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - heading "Your briefing" [level=1] [ref=e73]
+          - paragraph [ref=e74]: Friday, September 11
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - generic [ref=e80]: Today
+              - generic [ref=e82]:
+                - generic [ref=e83]: 89°
+                - generic [ref=e84]: 78°
+            - generic [ref=e85]:
+              - generic [ref=e86]: Sat
+              - generic [ref=e88]:
+                - generic [ref=e89]: 90°
+                - generic [ref=e90]: 78°
+            - generic [ref=e91]:
+              - generic [ref=e92]: Sun
+              - generic [ref=e94]:
+                - generic [ref=e95]: 89°
+                - generic [ref=e96]: 78°
+            - generic [ref=e97]:
+              - generic [ref=e98]: Mon
+              - generic [ref=e100]:
+                - generic [ref=e101]: 90°
+                - generic [ref=e102]: 78°
+          - generic [ref=e103]:
+            - button "Expand to view forecast" [ref=e104] [cursor=pointer]
+            - generic "St. Petersburg, 80°F, thunderstorms" [ref=e107]:
+              - img "thunderstorms" [ref=e108]
+              - generic [ref=e115]:
+                - generic [ref=e116]:
+                  - generic [ref=e117]: St. Petersburg
+                  - button "Use precise location" [ref=e118] [cursor=pointer]
+                - generic [ref=e121]: 80°F
+                - link "Google Weather" [ref=e122] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch/answer/13687874
+      - generic [ref=e124]:
+        - heading [level=3] [ref=e127]:
+          - link "Top stories" [ref=e128] [cursor=pointer]:
+            - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e134]:
+          - link "Donald Trump promises $5,000 voter dividend at GOP convention" [ref=e136] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSRUFIc3V5QmI3eXF5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Donald Trump promises $5,000 voter dividend at GOP convention chevron_right
+          - generic [ref=e137]:
+            - generic [ref=e138]:
+              - link [ref=e140] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e141]
+              - generic [ref=e142]:
+                - generic [ref=e143]: npr.org
+                - generic [ref=e149]:
+                  - generic:
+                    - button "More - Vance, Trump issue plea for Americans to vote Republican on last night of convention" [ref=e150] [cursor=pointer]
+                    - tooltip [ref=e154]: More
+              - link "Vance, Trump issue plea for Americans to vote Republican on last night of convention - npr.org - 13 minutes ago - By Tamara Keith" [ref=e155] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Vance, Trump issue plea for Americans to vote Republican on last night of convention
+              - generic [ref=e156]:
+                - time [ref=e157]: 13 minutes ago
+                - separator [ref=e158]
+                - generic [ref=e159]: By Tamara Keith
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - link [ref=e163] [cursor=pointer]:
+                  - /url: ./read/CBMiaEFVX3lxTE9wQW1WUnFmY2xSMEMxWFgzeWp6NVlNYm44S2diSWVYY3cxZXdWajVTajAxd1NXODl6WmI3VHlPV2NZN1hIMkwtVlBWMER5YVJxUk5SaUJ4amhxbWpWTnlZaEZCWDQ4RV9l?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e164]:
+                  - generic [ref=e165]: CNN
+                  - generic [ref=e171]:
+                    - generic:
+                      - button "More - Trump officials scramble to manage fallout after his $5K check pledge to all Americans" [ref=e172] [cursor=pointer]
+                      - tooltip [ref=e176]: More
+                - link "Trump officials scramble to manage fallout after his $5K check pledge to all Americans - CNN - 6 hours ago - By Adam Cancryn, Tami Luhby & Alayna Treene" [ref=e177] [cursor=pointer]:
+                  - /url: ./read/CBMiaEFVX3lxTE9wQW1WUnFmY2xSMEMxWFgzeWp6NVlNYm44S2diSWVYY3cxZXdWajVTajAxd1NXODl6WmI3VHlPV2NZN1hIMkwtVlBWMER5YVJxUk5SaUJ4amhxbWpWTnlZaEZCWDQ4RV9l?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump officials scramble to manage fallout after his $5K check pledge to all Americans
+                - generic [ref=e178]:
+                  - time [ref=e179]: 6 hours ago
+                  - separator [ref=e180]
+                  - generic [ref=e181]: By Adam Cancryn, Tami Luhby & Alayna Treene
+              - generic [ref=e182]:
+                - link [ref=e184] [cursor=pointer]:
+                  - /url: ./read/CBMi2wFBVV95cUxOVWdOSTFlUjliVHJrbWpvS3ZfM3VySGtGWDVid2dUMGl6VjJmR0dxNndvLUcwc3BlWk1sQ1g2X0pPZHlyZlo4UWJvd0stMzhJYVN3YUFja0VDLU5Edi15SUdmTjdxOUdnRlluOXJFZE41aG1hXzBjTWNWbHEwR1ZOZ2FyN2ZRZjlSS29BcXNka25nZkM3NDJDWDJ3dmJNLWFZUkIycTRTbXVsZ21pUjVaOG9Ia1J2MFBZRExQdEw3d2RzYVg4N05nNXZyZEd4SHUzemtCTWVRdTk0WGc?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e185]:
+                  - generic [ref=e186]: The Times of India
+                  - generic [ref=e192]:
+                    - generic:
+                      - 'button "More - $5,000 DBT scheme in US: Trump says Congress'' approval not needed for payout" [ref=e193] [cursor=pointer]'
+                      - tooltip [ref=e197]: More
+                - 'link "$5,000 DBT scheme in US: Trump says Congress'' approval not needed for payout - The Times of India - 46 minutes ago" [ref=e198] [cursor=pointer]':
+                  - /url: ./read/CBMi2wFBVV95cUxOVWdOSTFlUjliVHJrbWpvS3ZfM3VySGtGWDVid2dUMGl6VjJmR0dxNndvLUcwc3BlWk1sQ1g2X0pPZHlyZlo4UWJvd0stMzhJYVN3YUFja0VDLU5Edi15SUdmTjdxOUdnRlluOXJFZE41aG1hXzBjTWNWbHEwR1ZOZ2FyN2ZRZjlSS29BcXNka25nZkM3NDJDWDJ3dmJNLWFZUkIycTRTbXVsZ21pUjVaOG9Ia1J2MFBZRExQdEw3d2RzYVg4N05nNXZyZEd4SHUzemtCTWVRdTk0WGc?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "$5,000 DBT scheme in US: Trump says Congress' approval not needed for payout"
+                - time [ref=e200]: 46 minutes ago
+              - generic [ref=e201]:
+                - link [ref=e203] [cursor=pointer]:
+                  - /url: ./read/CBMiuAFBVV95cUxNRGJwcmFocG1hc3ZySnUxWDBxUjNIVkMyRWxXSGJLQ0dGZUxrT3p0MHBRMmtWTl9wLUtpMG9FNTVneVV3QUl0dlZQLUNuM1BYczlRSVZyclZXWVI5YklLZUdDOWhuYXZPRG5VVXRyazBHMVFIUmh6TW9TVUNTcUZLaXgwU3pFT3VweW5wSE1TbU5oTHV1QlpjUU9hOGt4RXRucGw2ZFlGMnpPQk1Ydm95S0drTDhUazIw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e204]:
+                  - generic [ref=e205]: WSJ
+                  - generic [ref=e211]:
+                    - generic:
+                      - button "More - $5,000 Checks for Every American? What to Know About Trump’s Latest Promise" [ref=e212] [cursor=pointer]
+                      - tooltip [ref=e216]: More
+                - link "$5,000 Checks for Every American? What to Know About Trump’s Latest Promise - WSJ - 7 hours ago - By Matt Grossman & Richard Rubin" [ref=e217] [cursor=pointer]:
+                  - /url: ./read/CBMiuAFBVV95cUxNRGJwcmFocG1hc3ZySnUxWDBxUjNIVkMyRWxXSGJLQ0dGZUxrT3p0MHBRMmtWTl9wLUtpMG9FNTVneVV3QUl0dlZQLUNuM1BYczlRSVZyclZXWVI5YklLZUdDOWhuYXZPRG5VVXRyazBHMVFIUmh6TW9TVUNTcUZLaXgwU3pFT3VweW5wSE1TbU5oTHV1QlpjUU9hOGt4RXRucGw2ZFlGMnpPQk1Ydm95S0drTDhUazIw?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: $5,000 Checks for Every American? What to Know About Trump’s Latest Promise
+                - generic [ref=e218]:
+                  - time [ref=e219]: 7 hours ago
+                  - separator [ref=e220]
+                  - generic [ref=e221]: By Matt Grossman & Richard Rubin
+          - link "See more headlines & perspectives - Donald Trump promises $5,000 voter dividend at GOP convention" [ref=e224] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSRUFIc3V5QmI3eXF5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e227]: See more headlines & perspectives
+        - generic [ref=e231]:
+          - link "Missouri congressional map legal battle goes to US Supreme Court" [ref=e233] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lneHBuMUVSRjd2blBJaGVqUFBTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Missouri congressional map legal battle goes to US Supreme Court chevron_right
+          - generic [ref=e234]:
+            - generic [ref=e235]:
+              - link [ref=e237] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e238]
+              - generic [ref=e239]:
+                - generic [ref=e240]: The Washington Post
+                - generic [ref=e246]:
+                  - generic:
+                    - button "More - Supreme Court again blocks new Missouri congressional map favoring GOP" [ref=e247] [cursor=pointer]
+                    - tooltip [ref=e251]: More
+              - link "Supreme Court again blocks new Missouri congressional map favoring GOP - The Washington Post - 2 hours ago - By Justin Jouvenal" [ref=e252] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Supreme Court again blocks new Missouri congressional map favoring GOP
+              - generic [ref=e253]:
+                - time [ref=e254]: 2 hours ago
+                - separator [ref=e255]
+                - generic [ref=e256]: By Justin Jouvenal
+            - generic [ref=e257]:
+              - generic [ref=e258]:
+                - link [ref=e260] [cursor=pointer]:
+                  - /url: ./read/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e261]:
+                  - generic [ref=e262]: AP News
+                  - generic [ref=e268]:
+                    - generic:
+                      - button "More - Missouri is poised to revert to former congressional districts after court rejects Trump-backed map" [ref=e269] [cursor=pointer]
+                      - tooltip [ref=e273]: More
+                - link "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map - AP News - 3 hours ago - By David A. Lieb & Lindsay Whitehurst" [ref=e274] [cursor=pointer]:
+                  - /url: ./read/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Missouri is poised to revert to former congressional districts after court rejects Trump-backed map
+                - generic [ref=e275]:
+                  - time [ref=e276]: 3 hours ago
+                  - separator [ref=e277]
+                  - generic [ref=e278]: By David A. Lieb & Lindsay Whitehurst
+              - generic [ref=e279]:
+                - link [ref=e281] [cursor=pointer]:
+                  - /url: ./read/CBMimwFBVV95cUxNelM3SG1tbWtZSFRkcGZ4Wl80VjNEUFNwVXRxN2pBVDlIRlU4aVkyb3BCX0xvdmVSczlwTi1lbU1Td2JZckxwSHpkdjc0ZmJDZE1sbnBoeEhhSG1WU1VMaUI0SjJkWlhzMGtYYnFnb21uUmI2anRSaHZ3YlR1ZkxtNHVxczlPZEl6U0RxYU9SWmlxVm42d0x0eVBCTQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e282]:
+                  - generic [ref=e283]: Politico
+                  - generic [ref=e289]:
+                    - generic:
+                      - button "More - Supreme Court appears to kill GOP redistricting hopes in Missouri" [ref=e290] [cursor=pointer]
+                      - tooltip [ref=e294]: More
+                - link "Supreme Court appears to kill GOP redistricting hopes in Missouri - Politico - 13 hours ago - By Aaron Pellish & Josh Gerstein" [ref=e295] [cursor=pointer]:
+                  - /url: ./read/CBMimwFBVV95cUxNelM3SG1tbWtZSFRkcGZ4Wl80VjNEUFNwVXRxN2pBVDlIRlU4aVkyb3BCX0xvdmVSczlwTi1lbU1Td2JZckxwSHpkdjc0ZmJDZE1sbnBoeEhhSG1WU1VMaUI0SjJkWlhzMGtYYnFnb21uUmI2anRSaHZ3YlR1ZkxtNHVxczlPZEl6U0RxYU9SWmlxVm42d0x0eVBCTQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Supreme Court appears to kill GOP redistricting hopes in Missouri
+                - generic [ref=e296]:
+                  - time [ref=e297]: 13 hours ago
+                  - separator [ref=e298]
+                  - generic [ref=e299]: By Aaron Pellish & Josh Gerstein
+              - generic [ref=e300]:
+                - link [ref=e302] [cursor=pointer]:
+                  - /url: ./read/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e303]:
+                  - generic [ref=e304]: missouriindependent.com
+                  - generic [ref=e310]:
+                    - generic:
+                      - button "More - Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps" [ref=e311] [cursor=pointer]
+                      - tooltip [ref=e315]: More
+                - link "Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps - missouriindependent.com - 4 hours ago - By Rudi Keller" [ref=e316] [cursor=pointer]:
+                  - /url: ./read/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps
+                - generic [ref=e317]:
+                  - time [ref=e318]: 4 hours ago
+                  - separator [ref=e319]
+                  - generic [ref=e320]: By Rudi Keller
+          - link "See more headlines & perspectives - Missouri congressional map legal battle goes to US Supreme Court" [ref=e323] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lneHBuMUVSRjd2blBJaGVqUFBTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e326]: See more headlines & perspectives
+        - generic [ref=e330]:
+          - generic [ref=e331]:
+            - link [ref=e333] [cursor=pointer]:
+              - /url: ./read/CBMitgFBVV95cUxPUkxXc2JVVUxqdmJvWTRPQ3B4eUlfb1NhUHNzZ0pIWF9WZXBOSks2TFdNampOaVA0bnhvbmY3RFBYbW40aFRKaW5WbDBtQnJJeFIxc3ExamVPUE5nVXhDczZEWWJmcDBwZExXSVZWY3JXUjlqcm1mX3hXeGUtQWNJczJiS29qbFlOT3dIV2pzVnh1NThDc29fMEJqbGQtLV80VnM1SXhGQU1qRWkyWkxlaWg1eUhuQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e335]:
+              - generic [ref=e336]:
+                - generic [ref=e337]: The Guardian
+                - generic [ref=e343]:
+                  - generic:
+                    - button "More - Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast" [ref=e344] [cursor=pointer]
+                    - tooltip [ref=e348]: More
+              - link "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - The Guardian - 2 hours ago - By Patrick Wintour" [ref=e349] [cursor=pointer]:
+                - /url: ./read/CBMitgFBVV95cUxPUkxXc2JVVUxqdmJvWTRPQ3B4eUlfb1NhUHNzZ0pIWF9WZXBOSks2TFdNampOaVA0bnhvbmY3RFBYbW40aFRKaW5WbDBtQnJJeFIxc3ExamVPUE5nVXhDczZEWWJmcDBwZExXSVZWY3JXUjlqcm1mX3hXeGUtQWNJczJiS29qbFlOT3dIV2pzVnh1NThDc29fMEJqbGQtLV80VnM1SXhGQU1qRWkyWkxlaWg1eUhuQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast
+            - figure [ref=e350]
+          - generic [ref=e351]:
+            - time [ref=e352]: 2 hours ago
+            - separator [ref=e353]
+            - generic [ref=e354]: By Patrick Wintour
+            - link "See more headlines & perspectives - Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast" [ref=e355] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2paOGVEdEVSRnVLYmpRWW5QMGV5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e358]: See more
+        - generic [ref=e362]:
+          - generic [ref=e363]:
+            - link [ref=e365] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTE5DRXpaVkFWbkxGVHAxMVQtcWdHcXNwT1hPSjZEYkRFNlkybDVtTDNjTFlhVjVObzlZMGVtblY5dTJvRnZ6WmdlNnVqX3BlVWQwTHJNdlVhWDR1Zw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e367]:
+              - generic [ref=e368]:
+                - generic [ref=e369]: BBC
+                - generic [ref=e375]:
+                  - generic:
+                    - 'button "More - Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt" [ref=e376] [cursor=pointer]'
+                    - tooltip [ref=e380]: More
+              - 'link "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC - 4 hours ago - By Frank Gardner" [ref=e381] [cursor=pointer]':
+                - /url: ./read/CBMiWkFVX3lxTE5DRXpaVkFWbkxGVHAxMVQtcWdHcXNwT1hPSjZEYkRFNlkybDVtTDNjTFlhVjVObzlZMGVtblY5dTJvRnZ6WmdlNnVqX3BlVWQwTHJNdlVhWDR1Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt"
+            - figure [ref=e382]
+          - generic [ref=e383]:
+            - time [ref=e384]: 4 hours ago
+            - separator [ref=e385]
+            - generic [ref=e386]: By Frank Gardner
+            - 'link "See more headlines & perspectives - Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt" [ref=e387] [cursor=pointer]':
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lJNnFiNkVSSGd0YlkwMVBiX1RTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e390]: See more
+      - heading [level=3] [ref=e396]:
+        - link "Local news" [ref=e397] [cursor=pointer]:
+          - /url: ./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+  - navigation [ref=e432]:
+    - tablist [ref=e433]:
+      - tab [selected] [ref=e434] [cursor=pointer]:
+        - tab "Home" [selected] [ref=e435]
+      - tab [ref=e436] [cursor=pointer]:
+        - tab "For you" [ref=e437]
+      - tab [ref=e438] [cursor=pointer]:
+        - tab "Following" [ref=e439]
+      - tab [ref=e440] [cursor=pointer]:
+        - tab "News Showcase" [ref=e441]
+      - tab [ref=e444] [cursor=pointer]:
+        - tab "U.S." [ref=e445]
+      - tab [ref=e446] [cursor=pointer]:
+        - tab "World" [ref=e447]
+      - tab [ref=e448] [cursor=pointer]:
+        - tab "Local" [ref=e449]
+      - tab [ref=e450] [cursor=pointer]:
+        - tab "Business" [ref=e451]
+      - tab [ref=e452] [cursor=pointer]:
+        - tab "Technology" [ref=e453]
+      - tab [ref=e454] [cursor=pointer]:
+        - tab "Entertainment" [ref=e455]
+      - tab [ref=e456] [cursor=pointer]:
+        - tab "Sports" [ref=e457]
+      - tab [ref=e458] [cursor=pointer]:
+        - tab "Science" [ref=e459]
+      - tab [ref=e460] [cursor=pointer]:
+        - tab "Health" [ref=e461]

@@ -1,0 +1,1380 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "Google News" [ref=f1e8] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=f1e10]: News
+      - generic [ref=f1e11]:
+        - search [ref=f1e13]:
+          - generic [ref=f1e18]:
+            - combobox "Search for topics, locations & sources" [ref=f1e20]
+            - status
+          - button "Advanced search" [ref=f1e21] [cursor=pointer]:
+            - generic [ref=f1e22]:
+              - generic "Advanced search" [ref=f1e23]
+              - tooltip [ref=f1e26]: Advanced search
+          - button "Search" [ref=f1e27] [cursor=pointer]
+        - generic [ref=f1e31]:
+          - generic [ref=f1e36]:
+            - button "Help" [ref=f1e37] [cursor=pointer]
+            - tooltip [ref=f1e41]: Help
+          - generic [ref=f1e46]:
+            - button "Settings" [ref=f1e47] [cursor=pointer]
+            - tooltip [ref=f1e52]: Settings
+      - generic [ref=f1e54]:
+        - button "Google apps" [ref=f1e58] [cursor=pointer]
+        - link "Sign in" [ref=f1e62] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Fnews.google.com%2Fstories%2FCAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lneHBuMUVSRjd2blBJaGVqUFBTZ0FQAQ%3Fhl%3Den-US%26gl%3DUS%26ceid%3DUS%253Aen&followup=https%3A%2F%2Fnews.google.com%2Fstories%2FCAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lneHBuMUVSRjd2blBJaGVqUFBTZ0FQAQ%3Fhl%3Den-US%26gl%3DUS%26ceid%3DUS%253Aen&hl=en-US&ec=GAZAqgM
+  - navigation [ref=f1e432]:
+    - tablist [ref=f1e433]:
+      - tab [ref=f1e434] [cursor=pointer]:
+        - tab "Home" [ref=f1e435]
+      - tab [ref=f1e436] [cursor=pointer]:
+        - tab "For you" [ref=f1e437]
+      - tab [ref=f1e438] [cursor=pointer]:
+        - tab "Following" [ref=f1e439]
+      - tab [ref=f1e440] [cursor=pointer]:
+        - tab "News Showcase" [ref=f1e441]
+      - tab [ref=f1e444] [cursor=pointer]:
+        - tab "U.S." [ref=f1e445]
+      - tab [ref=f1e446] [cursor=pointer]:
+        - tab "World" [ref=f1e447]
+      - tab [ref=f1e448] [cursor=pointer]:
+        - tab "Local" [ref=f1e449]
+      - tab [ref=f1e450] [cursor=pointer]:
+        - tab "Business" [ref=f1e451]
+      - tab [ref=f1e452] [cursor=pointer]:
+        - tab "Technology" [ref=f1e453]
+      - tab [ref=f1e454] [cursor=pointer]:
+        - tab "Entertainment" [ref=f1e455]
+      - tab [ref=f1e456] [cursor=pointer]:
+        - tab "Sports" [ref=f1e457]
+      - tab [ref=f1e458] [cursor=pointer]:
+        - tab "Science" [ref=f1e459]
+      - tab [ref=f1e460] [cursor=pointer]:
+        - tab "Health" [ref=f1e461]
+  - generic [ref=f1e1797]: Google News - Missouri congressional map legal battle goes to US Supreme Court - Overview
+  - main [ref=f1e1802]:
+    - generic [ref=f1e1804]:
+      - generic [ref=f1e1806]:
+        - generic [ref=f1e1807]:
+          - generic [ref=f1e1808]: More headlines & perspectives
+          - generic [ref=f1e1812]:
+            - button "Sort" [ref=f1e1816] [cursor=pointer]
+            - generic [ref=f1e1823]:
+              - generic:
+                - generic:
+                  - button "Share" [ref=f1e1824] [cursor=pointer]
+                  - tooltip [ref=f1e1828]: Share
+        - heading "Missouri congressional map legal battle goes to US Supreme Court" [level=1] [ref=f1e1831]
+      - generic [ref=f1e1839]:
+        - generic [ref=f1e1841]:
+          - heading "Top news" [level=2] [ref=f1e1844]
+          - generic [ref=f1e1846]:
+            - generic [ref=f1e1847]:
+              - link [ref=f1e1848] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=f1e1849]
+              - generic [ref=f1e1850]: The Washington Post
+              - heading [level=4] [ref=f1e1853]:
+                - link "Supreme Court again blocks new Missouri congressional map favoring GOP - The Washington Post - 1 hour ago - By Justin Jouvenal" [ref=f1e1854] [cursor=pointer]:
+                  - /url: ./read/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Supreme Court again blocks new Missouri congressional map favoring GOP
+              - generic [ref=f1e1855]:
+                - generic [ref=f1e1856]:
+                  - time [ref=f1e1857]: 1 hour ago
+                  - generic [ref=f1e1858]: • By Justin Jouvenal
+                - list [ref=f1e1859]:
+                  - generic [ref=f1e1860]:
+                    - generic:
+                      - button "Save for later" [ref=f1e1861] [cursor=pointer]
+                      - tooltip [ref=f1e1866]: Save for later
+                  - generic [ref=f1e1869]:
+                    - button "Share" [ref=f1e1870] [cursor=pointer]
+                    - tooltip [ref=f1e1879]: Share
+                  - generic [ref=f1e1884]:
+                    - button "More - Supreme Court again blocks new Missouri congressional map favoring GOP" [ref=f1e1885] [cursor=pointer]
+                    - tooltip [ref=f1e1889]: More
+            - generic [ref=f1e1890]:
+              - link [ref=f1e1891] [cursor=pointer]:
+                - /url: ./read/CBMiiwFBVV95cUxPUGpMaHZqV3huZ0Jya0k5RkhVaXd2Y0pfLUw2Tm1JUHR6bU1yZlhsaUVJT096VEEyc0xXZ3NYdWhYR1oxbGlvTTdJQnJLdWRTQ1RSX1o1X3FCZS1GZmJEMjN4dk00WmpuMGE4WjJSenRSMlh2T1FidVpsZHhpVTRaSnlSZkJqanA0Tm1z?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=f1e1892]
+              - generic [ref=f1e1893]: The New York Times
+              - heading [level=4] [ref=f1e1896]:
+                - link "Supreme Court Again Blocks Republican-Backed Missouri Voting Map - The New York Times - 10 hours ago - By Ann Marimow & Mitch Smith" [ref=f1e1897] [cursor=pointer]:
+                  - /url: ./read/CBMiiwFBVV95cUxPUGpMaHZqV3huZ0Jya0k5RkhVaXd2Y0pfLUw2Tm1JUHR6bU1yZlhsaUVJT096VEEyc0xXZ3NYdWhYR1oxbGlvTTdJQnJLdWRTQ1RSX1o1X3FCZS1GZmJEMjN4dk00WmpuMGE4WjJSenRSMlh2T1FidVpsZHhpVTRaSnlSZkJqanA0Tm1z?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Supreme Court Again Blocks Republican-Backed Missouri Voting Map
+              - generic [ref=f1e1898]:
+                - generic [ref=f1e1899]:
+                  - time [ref=f1e1900]: 10 hours ago
+                  - generic [ref=f1e1901]: • By Ann Marimow & Mitch Smith
+                - list [ref=f1e1902]:
+                  - generic [ref=f1e1903]:
+                    - generic:
+                      - button "Save for later" [ref=f1e1904] [cursor=pointer]
+                      - tooltip [ref=f1e1909]: Save for later
+                  - generic [ref=f1e1912]:
+                    - button "Share" [ref=f1e1913] [cursor=pointer]
+                    - tooltip [ref=f1e1922]: Share
+                  - generic [ref=f1e1927]:
+                    - button "More - Supreme Court Again Blocks Republican-Backed Missouri Voting Map" [ref=f1e1928] [cursor=pointer]
+                    - tooltip [ref=f1e1932]: More
+            - generic [ref=f1e1933]:
+              - link [ref=f1e1934] [cursor=pointer]:
+                - /url: ./read/CBMilwFBVV95cUxPNjRYemhjUEdYckV6RnpkRHFTSmd4T1VFaEphNFZ4aTFLa283c042dGVCVzNINUVrdVpxVTUwYzBmbmZzdjJWS3g3MWVxbWY1NDF0czRoMGMtNlNST19waGhuUk1xMDhiWWRYWFMtMHRMV3k3TUNjTFlfNDVBRk9kSTgzMDVMenJFUW9QcHdIaXZCTWVVQldB?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=f1e1935]
+              - generic [ref=f1e1936]: CNN
+              - heading [level=4] [ref=f1e1939]:
+                - link "Supreme Court deals another blow to GOP hopes of capturing extra congressional seat - CNN - 13 hours ago - By John Fritze" [ref=f1e1940] [cursor=pointer]:
+                  - /url: ./read/CBMilwFBVV95cUxPNjRYemhjUEdYckV6RnpkRHFTSmd4T1VFaEphNFZ4aTFLa283c042dGVCVzNINUVrdVpxVTUwYzBmbmZzdjJWS3g3MWVxbWY1NDF0czRoMGMtNlNST19waGhuUk1xMDhiWWRYWFMtMHRMV3k3TUNjTFlfNDVBRk9kSTgzMDVMenJFUW9QcHdIaXZCTWVVQldB?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Supreme Court deals another blow to GOP hopes of capturing extra congressional seat
+              - generic [ref=f1e1941]:
+                - generic [ref=f1e1942]:
+                  - time [ref=f1e1943]: 13 hours ago
+                  - generic [ref=f1e1944]: • By John Fritze
+                - list [ref=f1e1945]:
+                  - generic [ref=f1e1946]:
+                    - generic:
+                      - button "Save for later" [ref=f1e1947] [cursor=pointer]
+                      - tooltip [ref=f1e1952]: Save for later
+                  - generic [ref=f1e1955]:
+                    - button "Share" [ref=f1e1956] [cursor=pointer]
+                    - tooltip [ref=f1e1965]: Share
+                  - generic [ref=f1e1970]:
+                    - button "More - Supreme Court deals another blow to GOP hopes of capturing extra congressional seat" [ref=f1e1971] [cursor=pointer]
+                    - tooltip [ref=f1e1975]: More
+            - generic [ref=f1e1976]:
+              - link [ref=f1e1977] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxOaF9XSTlSZldtclpTdFhzcjAxUVBHbXZGZC1uUU4zN1hXbm1qUXhzdDQtOXo2a0t0dHhGX01idGU0cG1naGFTV0FXN2pvVVFRYldQcVYtVGFHVVllQ19BbkNSMHI1SU53R21lNjBnN05zV1A2U08zV0FIV1lmWmRadmY3ZlY4YXdLWlNFYXprZ1QtZU1XWnZ6XzlB?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=f1e1978]
+              - generic [ref=f1e1979]: KMBC
+              - heading [level=4] [ref=f1e1982]:
+                - 'link "Missouri Supreme Court: Hoskins was in contempt; contemptuous conduct purged with new order - KMBC - 8 hours ago - By JoBeth Davis" [ref=f1e1983] [cursor=pointer]':
+                  - /url: ./read/CBMimgFBVV95cUxOaF9XSTlSZldtclpTdFhzcjAxUVBHbXZGZC1uUU4zN1hXbm1qUXhzdDQtOXo2a0t0dHhGX01idGU0cG1naGFTV0FXN2pvVVFRYldQcVYtVGFHVVllQ19BbkNSMHI1SU53R21lNjBnN05zV1A2U08zV0FIV1lmWmRadmY3ZlY4YXdLWlNFYXprZ1QtZU1XWnZ6XzlB?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Missouri Supreme Court: Hoskins was in contempt; contemptuous conduct purged with new order"
+              - generic [ref=f1e1984]:
+                - generic [ref=f1e1985]:
+                  - time [ref=f1e1986]: 8 hours ago
+                  - generic [ref=f1e1987]: • By JoBeth Davis
+                - list [ref=f1e1988]:
+                  - generic [ref=f1e1989]:
+                    - generic:
+                      - button "Save for later" [ref=f1e1990] [cursor=pointer]
+                      - tooltip [ref=f1e1995]: Save for later
+                  - generic [ref=f1e1998]:
+                    - button "Share" [ref=f1e1999] [cursor=pointer]
+                    - tooltip [ref=f1e2008]: Share
+                  - generic [ref=f1e2013]:
+                    - 'button "More - Missouri Supreme Court: Hoskins was in contempt; contemptuous conduct purged with new order" [ref=f1e2014] [cursor=pointer]'
+                    - tooltip [ref=f1e2018]: More
+            - generic [ref=f1e2019]:
+              - link [ref=f1e2020] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxNOE03a3QtWHFfdlNJMlZHcVJMZDM5ejZHVG96UkVjYWQ0UXB1ZE5KT3k3U2hJTGZQWDJsVUFLUDBTV29aTGZsMGI4Vk9nWEdpT2RfOWlaTkNOcmRxWFh6Y1BsSXhkUFlGRS1SRlZ6d1hLX0dkYzF3RzJSa3lWU2ZXRlBGczhpMU1Yd3Z2dW1KSk9JWXk0dFk0bkVaUWJ1TnM?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=f1e2021]
+              - generic [ref=f1e2022]: The Guardian
+              - heading [level=4] [ref=f1e2025]:
+                - link "US supreme court again rejects Missouri maps drawn to boost Republicans in midterms - The Guardian - 13 hours ago - By George Chidi" [ref=f1e2026] [cursor=pointer]:
+                  - /url: ./read/CBMinwFBVV95cUxNOE03a3QtWHFfdlNJMlZHcVJMZDM5ejZHVG96UkVjYWQ0UXB1ZE5KT3k3U2hJTGZQWDJsVUFLUDBTV29aTGZsMGI4Vk9nWEdpT2RfOWlaTkNOcmRxWFh6Y1BsSXhkUFlGRS1SRlZ6d1hLX0dkYzF3RzJSa3lWU2ZXRlBGczhpMU1Yd3Z2dW1KSk9JWXk0dFk0bkVaUWJ1TnM?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: US supreme court again rejects Missouri maps drawn to boost Republicans in midterms
+              - generic [ref=f1e2027]:
+                - generic [ref=f1e2028]:
+                  - time [ref=f1e2029]: 13 hours ago
+                  - generic [ref=f1e2030]: • By George Chidi
+                - list [ref=f1e2031]:
+                  - generic [ref=f1e2032]:
+                    - generic:
+                      - button "Save for later" [ref=f1e2033] [cursor=pointer]
+                      - tooltip [ref=f1e2038]: Save for later
+                  - generic [ref=f1e2041]:
+                    - button "Share" [ref=f1e2042] [cursor=pointer]
+                    - tooltip [ref=f1e2051]: Share
+                  - generic [ref=f1e2056]:
+                    - button "More - US supreme court again rejects Missouri maps drawn to boost Republicans in midterms" [ref=f1e2057] [cursor=pointer]
+                    - tooltip [ref=f1e2061]: More
+        - generic [ref=f1e2063]:
+          - heading [level=2] [ref=f1e2066]:
+            - link "Posts on X" [ref=f1e2068] [cursor=pointer]:
+              - /url: https://x.com/QuintonLucasKC/status/2097797157860573382
+          - generic [ref=f1e2070]:
+            - generic [ref=f1e2071]:
+              - link "View this post on X" [ref=f1e2072] [cursor=pointer]:
+                - /url: https://x.com/GovMikeKehoe/status/2098139041455583437
+              - generic [ref=f1e2075]:
+                - generic [ref=f1e2076]: Governor Mike Kehoe
+                - generic [ref=f1e2077]: "@GovMikeKehoe"
+              - generic [ref=f1e2078]: While the reasoning behind today’s Missouri Supreme Court contempt hearings remain questionable, I am proud to stand behind Secretary Hoskins as he continues to serve as Missouri’s top elections authority. I look forward to the Eighth Circuit’s consideration of the merits of the Missouri First Map and remain confident in the legal process moving forward. Voters deserve certainty and clarity.
+              - generic [ref=f1e2079]:
+                - generic [ref=f1e2080]: Posted on X
+                - time [ref=f1e2083]: • 9/10/26 3:58 PM
+            - generic [ref=f1e2084]:
+              - link "View this post on X" [ref=f1e2085] [cursor=pointer]:
+                - /url: https://x.com/GovMikeKehoe/status/2097461823473660024
+              - generic [ref=f1e2088]:
+                - generic [ref=f1e2089]: Governor Mike Kehoe
+                - generic [ref=f1e2090]: "@GovMikeKehoe"
+              - generic [ref=f1e2091]: We are grateful for Chief Judge Clark’s decision to provide much-needed clarity for Missouri voters and the election process. With today marking the deadline for changes to the November ballot, the Missouri First Map will be used in the general election. Voters and candidates deserve consistency, certainty, and not to have the rules changed between elections.
+              - generic [ref=f1e2092]:
+                - generic [ref=f1e2093]: Posted on X
+                - time [ref=f1e2096]: • 9/8/26 7:07 PM
+            - generic [ref=f1e2097]:
+              - link "View this post on X" [ref=f1e2098] [cursor=pointer]:
+                - /url: https://x.com/QuintonLucasKC/status/2098055794180948088
+              - generic [ref=f1e2101]:
+                - generic [ref=f1e2102]: Mayor Q
+                - generic [ref=f1e2103]: "@QuintonLucasKC"
+              - generic [ref=f1e2104]: "Chaos in Missouri while statewide GOP leaders trying to render us voiceless. On tap today: -Contempt hearing for the MO Secretary of State -US Supreme Court decision on whether to let us vote on the original maps. pic.x.com/rrWaMYYloo"
+              - generic [ref=f1e2105]:
+                - generic [ref=f1e2106]: Posted on X
+                - time [ref=f1e2109]: • 9/10/26 10:27 AM
+            - generic [ref=f1e2110]:
+              - link "View this post on X" [ref=f1e2111] [cursor=pointer]:
+                - /url: https://x.com/QuintonLucasKC/status/2097797157860573382
+              - generic [ref=f1e2114]:
+                - generic [ref=f1e2115]: Mayor Q
+                - generic [ref=f1e2116]: "@QuintonLucasKC"
+              - generic [ref=f1e2117]: The question now before us is whether the US Supreme Court stands by Justice Kavanaugh’s earlier rejection of Missouri’s arguments—yesterday. The independence of our courts, our elections, and our state laws is at stake. Shame on those forcing constitutional crisis upon us.
+              - generic [ref=f1e2118]:
+                - generic [ref=f1e2119]: Posted on X
+                - time [ref=f1e2122]: • 9/9/26 5:19 PM
+            - link "View on X" [ref=f1e2125] [cursor=pointer]:
+              - /url: https://x.com/QuintonLucasKC/status/2097797157860573382
+        - heading "All coverage" [level=2] [ref=f1e2130]
+        - generic [ref=f1e2133]:
+          - link [ref=f1e2134] [cursor=pointer]:
+            - /url: ./read/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2135]
+          - generic [ref=f1e2136]: missouriindependent.com
+          - heading [level=4] [ref=f1e2139]:
+            - link "Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps - missouriindependent.com - 4 hours ago - By Rudi Keller" [ref=f1e2140] [cursor=pointer]:
+              - /url: ./read/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps
+          - generic [ref=f1e2141]:
+            - generic [ref=f1e2142]:
+              - time [ref=f1e2143]: 4 hours ago
+              - generic [ref=f1e2144]: • By Rudi Keller
+            - list [ref=f1e2145]:
+              - generic [ref=f1e2146]:
+                - generic:
+                  - button "Save for later" [ref=f1e2147] [cursor=pointer]
+                  - tooltip [ref=f1e2152]: Save for later
+              - generic [ref=f1e2155]:
+                - button "Share" [ref=f1e2156] [cursor=pointer]
+                - tooltip [ref=f1e2165]: Share
+              - generic [ref=f1e2170]:
+                - button "More - Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps" [ref=f1e2171] [cursor=pointer]
+                - tooltip [ref=f1e2175]: More
+        - generic [ref=f1e2177]:
+          - link [ref=f1e2178] [cursor=pointer]:
+            - /url: ./read/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2179]
+          - generic [ref=f1e2180]: AP News
+          - heading [level=4] [ref=f1e2183]:
+            - link "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map - AP News - 3 hours ago - By David A. Lieb & Lindsay Whitehurst" [ref=f1e2184] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri is poised to revert to former congressional districts after court rejects Trump-backed map
+          - generic [ref=f1e2185]:
+            - generic [ref=f1e2186]:
+              - time [ref=f1e2187]: 3 hours ago
+              - generic [ref=f1e2188]: • By David A. Lieb & Lindsay Whitehurst
+            - list [ref=f1e2189]:
+              - generic [ref=f1e2190]:
+                - generic:
+                  - button "Save for later" [ref=f1e2191] [cursor=pointer]
+                  - tooltip [ref=f1e2196]: Save for later
+              - generic [ref=f1e2199]:
+                - button "Share" [ref=f1e2200] [cursor=pointer]
+                - tooltip [ref=f1e2209]: Share
+              - generic [ref=f1e2214]:
+                - button "More - Missouri is poised to revert to former congressional districts after court rejects Trump-backed map" [ref=f1e2215] [cursor=pointer]
+                - tooltip [ref=f1e2219]: More
+        - generic [ref=f1e2221]:
+          - link [ref=f1e2222] [cursor=pointer]:
+            - /url: ./read/CBMiqwFBVV95cUxQdkEybWJ6eUp5LTZjejlzRms5MWU4emZjSjJ2NnU4a0ZGY195N29mN3BKWUhQRVZmbVdBSFZCR3V3SVVwWVZqcGdVWExkUGdpZnItR1F2OG1ZNFZwd3prMExpRldJSHRRLTUxdnB6TkIzeEd0bzg5Unh2endxbE1Sbmw1c2pCNXRkUFRPa2x6T3ZOWlhZYXVQNER1ZWVMNWIzVGI3NzN2VHZFN0U?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2223]
+          - generic [ref=f1e2224]: vox.com
+          - heading [level=4] [ref=f1e2227]:
+            - link "Republicans suffered a stunning Supreme Court loss. It lasted minutes. - vox.com - 2 days ago - By Ian Millhiser" [ref=f1e2228] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxQdkEybWJ6eUp5LTZjejlzRms5MWU4emZjSjJ2NnU4a0ZGY195N29mN3BKWUhQRVZmbVdBSFZCR3V3SVVwWVZqcGdVWExkUGdpZnItR1F2OG1ZNFZwd3prMExpRldJSHRRLTUxdnB6TkIzeEd0bzg5Unh2endxbE1Sbmw1c2pCNXRkUFRPa2x6T3ZOWlhZYXVQNER1ZWVMNWIzVGI3NzN2VHZFN0U?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Republicans suffered a stunning Supreme Court loss. It lasted minutes.
+          - generic [ref=f1e2229]:
+            - generic [ref=f1e2230]:
+              - time [ref=f1e2231]: 2 days ago
+              - generic [ref=f1e2232]: • By Ian Millhiser
+            - list [ref=f1e2233]:
+              - generic [ref=f1e2234]:
+                - generic:
+                  - button "Save for later" [ref=f1e2235] [cursor=pointer]
+                  - tooltip [ref=f1e2240]: Save for later
+              - generic [ref=f1e2243]:
+                - button "Share" [ref=f1e2244] [cursor=pointer]
+                - tooltip [ref=f1e2253]: Share
+              - generic [ref=f1e2258]:
+                - button "More - Republicans suffered a stunning Supreme Court loss. It lasted minutes." [ref=f1e2259] [cursor=pointer]
+                - tooltip [ref=f1e2263]: More
+        - generic [ref=f1e2265]:
+          - link [ref=f1e2266] [cursor=pointer]:
+            - /url: ./read/CBMiywFBVV95cUxPQzJrU3ZsdzQtM0xqcVFsS2FTUUZ6OEVzc3FUVmRVNjlMRWc3RkphY1BHUHZVX2p4bkF4dm9OQkZOT3ROOG1mUXdQb2h1cGlQaEdQQjBUa0JGU2pIc01hc1Q3SFozUWVzZmc3WW9lTlJyS3FNeXgzamt4SFdjSTM5QVhwNEtVdlhacUZReHJqTjdwaWR6cElpei02WG9sYlU2bnZabmVBXzZuMk5pWlpCMkgyaGo3czVDS180cmtfbUtjRFY1aFF6dmo3SdIB3wFBVV95cUxNU1pqbTBZTEZadU9ITXJHMDRyNFR5Q014cFc4UHdlOHJ1dmhkT0dZQzBQRkhhbVh5ekM2SEhvRlY2UUoxaHQyMGppb1NkU1VPeDhWSTE2bEdQZ1U3WFAwaVlCQnk0cmZmWkk5SU9sbjVsVzNpbUtvbW8yb21wMXZIdE5pZkd3M1cxUjFsc0hYVkhSMHFlYllSUExQX1pXVmF1cG1KaXRKOW1pOThlSjMtRGl0WWxFTHFzSXhiU2F1WWZYUV9iMVB1Y2Y3ck8zck9waE5IUFZJZW5Cc2ZJeFJR?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2267]
+          - generic [ref=f1e2268]: KCTV
+          - heading [level=4] [ref=f1e2271]:
+            - link "Missouri Supreme Court finds Sec. of State in contempt, purged himself - KCTV - 16 hours ago - By Julia Scammahorn" [ref=f1e2272] [cursor=pointer]:
+              - /url: ./read/CBMiywFBVV95cUxPQzJrU3ZsdzQtM0xqcVFsS2FTUUZ6OEVzc3FUVmRVNjlMRWc3RkphY1BHUHZVX2p4bkF4dm9OQkZOT3ROOG1mUXdQb2h1cGlQaEdQQjBUa0JGU2pIc01hc1Q3SFozUWVzZmc3WW9lTlJyS3FNeXgzamt4SFdjSTM5QVhwNEtVdlhacUZReHJqTjdwaWR6cElpei02WG9sYlU2bnZabmVBXzZuMk5pWlpCMkgyaGo3czVDS180cmtfbUtjRFY1aFF6dmo3SdIB3wFBVV95cUxNU1pqbTBZTEZadU9ITXJHMDRyNFR5Q014cFc4UHdlOHJ1dmhkT0dZQzBQRkhhbVh5ekM2SEhvRlY2UUoxaHQyMGppb1NkU1VPeDhWSTE2bEdQZ1U3WFAwaVlCQnk0cmZmWkk5SU9sbjVsVzNpbUtvbW8yb21wMXZIdE5pZkd3M1cxUjFsc0hYVkhSMHFlYllSUExQX1pXVmF1cG1KaXRKOW1pOThlSjMtRGl0WWxFTHFzSXhiU2F1WWZYUV9iMVB1Y2Y3ck8zck9waE5IUFZJZW5Cc2ZJeFJR?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri Supreme Court finds Sec. of State in contempt, purged himself
+          - generic [ref=f1e2273]:
+            - generic [ref=f1e2274]:
+              - time [ref=f1e2275]: 16 hours ago
+              - generic [ref=f1e2276]: • By Julia Scammahorn
+            - list [ref=f1e2277]:
+              - generic [ref=f1e2278]:
+                - generic:
+                  - button "Save for later" [ref=f1e2279] [cursor=pointer]
+                  - tooltip [ref=f1e2284]: Save for later
+              - generic [ref=f1e2287]:
+                - button "Share" [ref=f1e2288] [cursor=pointer]
+                - tooltip [ref=f1e2297]: Share
+              - generic [ref=f1e2302]:
+                - button "More - Missouri Supreme Court finds Sec. of State in contempt, purged himself" [ref=f1e2303] [cursor=pointer]
+                - tooltip [ref=f1e2307]: More
+        - generic [ref=f1e2309]:
+          - link [ref=f1e2310] [cursor=pointer]:
+            - /url: ./read/CBMimwFBVV95cUxNelM3SG1tbWtZSFRkcGZ4Wl80VjNEUFNwVXRxN2pBVDlIRlU4aVkyb3BCX0xvdmVSczlwTi1lbU1Td2JZckxwSHpkdjc0ZmJDZE1sbnBoeEhhSG1WU1VMaUI0SjJkWlhzMGtYYnFnb21uUmI2anRSaHZ3YlR1ZkxtNHVxczlPZEl6U0RxYU9SWmlxVm42d0x0eVBCTQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2311]
+          - generic [ref=f1e2312]: Politico
+          - heading [level=4] [ref=f1e2315]:
+            - link "Supreme Court appears to kill GOP redistricting hopes in Missouri - Politico - 13 hours ago - By Aaron Pellish & Josh Gerstein" [ref=f1e2316] [cursor=pointer]:
+              - /url: ./read/CBMimwFBVV95cUxNelM3SG1tbWtZSFRkcGZ4Wl80VjNEUFNwVXRxN2pBVDlIRlU4aVkyb3BCX0xvdmVSczlwTi1lbU1Td2JZckxwSHpkdjc0ZmJDZE1sbnBoeEhhSG1WU1VMaUI0SjJkWlhzMGtYYnFnb21uUmI2anRSaHZ3YlR1ZkxtNHVxczlPZEl6U0RxYU9SWmlxVm42d0x0eVBCTQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Supreme Court appears to kill GOP redistricting hopes in Missouri
+          - generic [ref=f1e2317]:
+            - generic [ref=f1e2318]:
+              - time [ref=f1e2319]: 13 hours ago
+              - generic [ref=f1e2320]: • By Aaron Pellish & Josh Gerstein
+            - list [ref=f1e2321]:
+              - generic [ref=f1e2322]:
+                - generic:
+                  - button "Save for later" [ref=f1e2323] [cursor=pointer]
+                  - tooltip [ref=f1e2328]: Save for later
+              - generic [ref=f1e2331]:
+                - button "Share" [ref=f1e2332] [cursor=pointer]
+                - tooltip [ref=f1e2341]: Share
+              - generic [ref=f1e2346]:
+                - button "More - Supreme Court appears to kill GOP redistricting hopes in Missouri" [ref=f1e2347] [cursor=pointer]
+                - tooltip [ref=f1e2351]: More
+        - generic [ref=f1e2353]:
+          - link [ref=f1e2354] [cursor=pointer]:
+            - /url: ./read/CBMi_gFBVV95cUxOcWZVN2pZZDRHSkdnZ0RWQjZ1eTE1VVZQNEN6RXpEVUxFajNPSE5wRGZ3azU1Um5QclNzTVVKc1NCRTVBeE9uaUhPYUtXRnpFQUt4cjNLVUVkajNmRUkyRkU0elFzdHpKelBIR01zdWxmQWJ2bUhFeC1BUzBlQXpkUTNhd2RaUjBIZk5EXzlNODNDdGZaV193RjBHT05LS3lhX1J3emJSUFJrYllUNXVWM1FBVl9MTDQyYmVSa25rM0JlUkJOMVQyNEdpOUJkUXpRV21obmwxR0RJWk4zSFpQUXM4WUpDN0xnTWloNnltNXI2WFBMYVdnUmNIRGN2UQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2355]
+          - generic [ref=f1e2356]: KOMU 8
+          - heading [level=4] [ref=f1e2359]:
+            - 'link "Live Updates: US Supreme Court rejects gerrymandered map, Hoskins contempt hearing begins - KOMU 8 - 15 hours ago - By Jae Jepsen" [ref=f1e2360] [cursor=pointer]':
+              - /url: ./read/CBMi_gFBVV95cUxOcWZVN2pZZDRHSkdnZ0RWQjZ1eTE1VVZQNEN6RXpEVUxFajNPSE5wRGZ3azU1Um5QclNzTVVKc1NCRTVBeE9uaUhPYUtXRnpFQUt4cjNLVUVkajNmRUkyRkU0elFzdHpKelBIR01zdWxmQWJ2bUhFeC1BUzBlQXpkUTNhd2RaUjBIZk5EXzlNODNDdGZaV193RjBHT05LS3lhX1J3emJSUFJrYllUNXVWM1FBVl9MTDQyYmVSa25rM0JlUkJOMVQyNEdpOUJkUXpRV21obmwxR0RJWk4zSFpQUXM4WUpDN0xnTWloNnltNXI2WFBMYVdnUmNIRGN2UQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "Live Updates: US Supreme Court rejects gerrymandered map, Hoskins contempt hearing begins"
+          - generic [ref=f1e2361]:
+            - generic [ref=f1e2362]:
+              - time [ref=f1e2363]: 15 hours ago
+              - generic [ref=f1e2364]: • By Jae Jepsen
+            - list [ref=f1e2365]:
+              - generic [ref=f1e2366]:
+                - generic:
+                  - button "Save for later" [ref=f1e2367] [cursor=pointer]
+                  - tooltip [ref=f1e2372]: Save for later
+              - generic [ref=f1e2375]:
+                - button "Share" [ref=f1e2376] [cursor=pointer]
+                - tooltip [ref=f1e2385]: Share
+              - generic [ref=f1e2390]:
+                - 'button "More - Live Updates: US Supreme Court rejects gerrymandered map, Hoskins contempt hearing begins" [ref=f1e2391] [cursor=pointer]'
+                - tooltip [ref=f1e2395]: More
+        - generic [ref=f1e2397]:
+          - link [ref=f1e2398] [cursor=pointer]:
+            - /url: ./read/CBMingFBVV95cUxPNFJRc2FsS1A3VDI3cGlfREpRWEdWNk1RcEkxZ0ZrcWFGWU5jWUsxVllwM3BqcVMwZkF1dUpmVW1OVUhYZ3F3dzlkdlBzR1ZuS0VNckZEWWt4bG1JLWZaMWRVY2ZqRVpBRUtyV1lQSUlldkRSVFNQTndfV0pPNkxmWjdPeVR4bUFCeVF3bHBiU3c2QmVNUVFYR2VnaWR1UQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2399]
+          - generic [ref=f1e2400]: SCOTUSblog
+          - heading [level=4] [ref=f1e2403]:
+            - link "A quick update on the Missouri congressional districting case - SCOTUSblog - 11 hours ago - By Vikram Amar & Akhil Reed Amar" [ref=f1e2404] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxPNFJRc2FsS1A3VDI3cGlfREpRWEdWNk1RcEkxZ0ZrcWFGWU5jWUsxVllwM3BqcVMwZkF1dUpmVW1OVUhYZ3F3dzlkdlBzR1ZuS0VNckZEWWt4bG1JLWZaMWRVY2ZqRVpBRUtyV1lQSUlldkRSVFNQTndfV0pPNkxmWjdPeVR4bUFCeVF3bHBiU3c2QmVNUVFYR2VnaWR1UQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: A quick update on the Missouri congressional districting case
+          - generic [ref=f1e2405]:
+            - generic [ref=f1e2406]:
+              - time [ref=f1e2407]: 11 hours ago
+              - generic [ref=f1e2408]: • By Vikram Amar & Akhil Reed Amar
+            - list [ref=f1e2409]:
+              - generic [ref=f1e2410]:
+                - generic:
+                  - button "Save for later" [ref=f1e2411] [cursor=pointer]
+                  - tooltip [ref=f1e2416]: Save for later
+              - generic [ref=f1e2419]:
+                - button "Share" [ref=f1e2420] [cursor=pointer]
+                - tooltip [ref=f1e2429]: Share
+              - generic [ref=f1e2434]:
+                - button "More - A quick update on the Missouri congressional districting case" [ref=f1e2435] [cursor=pointer]
+                - tooltip [ref=f1e2439]: More
+        - generic [ref=f1e2441]:
+          - link [ref=f1e2442] [cursor=pointer]:
+            - /url: ./read/CBMihwJBVV95cUxPNWRXUkJwT2w3dmFYLXJrYjRPeGhrRHF4SC0zeG5qN2Q1ajlCeVRhZ1B3Y2t6akVYZGVrT0tmYi1rTkN2QVVyVzV0LVBxM3o3YWEzX3Z1OXBGRWE4MW9FZXV5Q09yWjd6Mk1VMkdfVXYyUmlVeGdWZEpZeVQ2cHVCY1Rydjl3VHdScjBJWWRxVEJUZUl5VktOdGpmQzJCNk5rc3piczZGNjVuWEN1aVBvV2tYX3hNMmh4Uks4aGNodUdSUGJrQmRQaHBkNllWX2dyM2RUZGk2QUItLS0tdWgxZlBxcVBIQkdZQmoyWGZfcjlYM1hTdmZDNHk3WW5ZZHNpQzl1NTktNA?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2443]
+          - generic [ref=f1e2444]: columbiamissourian.com
+          - heading [level=4] [ref=f1e2447]:
+            - 'link "Update: Battle is settled, with 2022 congressional map to be used in November - columbiamissourian.com - 10 hours ago - By David A. Lieb & Lindsay Whitehurst" [ref=f1e2448] [cursor=pointer]':
+              - /url: ./read/CBMihwJBVV95cUxPNWRXUkJwT2w3dmFYLXJrYjRPeGhrRHF4SC0zeG5qN2Q1ajlCeVRhZ1B3Y2t6akVYZGVrT0tmYi1rTkN2QVVyVzV0LVBxM3o3YWEzX3Z1OXBGRWE4MW9FZXV5Q09yWjd6Mk1VMkdfVXYyUmlVeGdWZEpZeVQ2cHVCY1Rydjl3VHdScjBJWWRxVEJUZUl5VktOdGpmQzJCNk5rc3piczZGNjVuWEN1aVBvV2tYX3hNMmh4Uks4aGNodUdSUGJrQmRQaHBkNllWX2dyM2RUZGk2QUItLS0tdWgxZlBxcVBIQkdZQmoyWGZfcjlYM1hTdmZDNHk3WW5ZZHNpQzl1NTktNA?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "Update: Battle is settled, with 2022 congressional map to be used in November"
+          - generic [ref=f1e2449]:
+            - generic [ref=f1e2450]:
+              - time [ref=f1e2451]: 10 hours ago
+              - generic [ref=f1e2452]: • By David A. Lieb & Lindsay Whitehurst
+            - list [ref=f1e2453]:
+              - generic [ref=f1e2454]:
+                - generic:
+                  - button "Save for later" [ref=f1e2455] [cursor=pointer]
+                  - tooltip [ref=f1e2460]: Save for later
+              - generic [ref=f1e2463]:
+                - button "Share" [ref=f1e2464] [cursor=pointer]
+                - tooltip [ref=f1e2473]: Share
+              - generic [ref=f1e2478]:
+                - 'button "More - Update: Battle is settled, with 2022 congressional map to be used in November" [ref=f1e2479] [cursor=pointer]'
+                - tooltip [ref=f1e2483]: More
+        - generic [ref=f1e2485]:
+          - link [ref=f1e2486] [cursor=pointer]:
+            - /url: ./read/CBMivwFBVV95cUxPRmRTNnlIOUxzYzhxQzhwY2dwcFl5c01RdTlsRlg2V3FndEhkTXNrRnk2a2pvQ2VwY1c0OTZ2NWowZnJxTkYwTGx1LUNoZUV4M0tPQXpMMnVfMzlLTjlPcTN0dWN3d094ZEJiWHVTVnpwbGdWM2hwMzRMMV9oanNMZUdDamVwUEZVWFVCWW9pUFhxMl8xakJ4RUpDYTNUOTBzVTh4OVhac1p6Z0w2cF8wcU9kc3ZveFpyendoekZiZ9IBxAFBVV95cUxPZFpTb1NleVRjTlo3T3BUM25JdXdDQnBhd0tOMFdkOGc2cS1VbDl0MVNueGZoREJDbjRrV2ZmazFEdGxEaGVTM3gtM2V3WXlrYkNpSEdsRjI5WkZrZE5qby1fcmNuWGFWakFYaWQ1QVlIVzBLaVFiaGRSZHNScGZnTU1tQk5EaGxHWE9sX0RiU3FWcmFfbGtkOW5lVHhaZkJOOWFDaHZQblNGM0ZtVnNBVE9xV1hoSGd2azVfRmJoYkhldENY?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2487]
+          - generic [ref=f1e2488]: FOX 2
+          - heading [level=4] [ref=f1e2491]:
+            - link "Lawmakers threaten to impeach Missouri Supreme Court if Denny Hoskins found in contempt - FOX 2 - 12 hours ago - By Joey Schneider" [ref=f1e2492] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxPRmRTNnlIOUxzYzhxQzhwY2dwcFl5c01RdTlsRlg2V3FndEhkTXNrRnk2a2pvQ2VwY1c0OTZ2NWowZnJxTkYwTGx1LUNoZUV4M0tPQXpMMnVfMzlLTjlPcTN0dWN3d094ZEJiWHVTVnpwbGdWM2hwMzRMMV9oanNMZUdDamVwUEZVWFVCWW9pUFhxMl8xakJ4RUpDYTNUOTBzVTh4OVhac1p6Z0w2cF8wcU9kc3ZveFpyendoekZiZ9IBxAFBVV95cUxPZFpTb1NleVRjTlo3T3BUM25JdXdDQnBhd0tOMFdkOGc2cS1VbDl0MVNueGZoREJDbjRrV2ZmazFEdGxEaGVTM3gtM2V3WXlrYkNpSEdsRjI5WkZrZE5qby1fcmNuWGFWakFYaWQ1QVlIVzBLaVFiaGRSZHNScGZnTU1tQk5EaGxHWE9sX0RiU3FWcmFfbGtkOW5lVHhaZkJOOWFDaHZQblNGM0ZtVnNBVE9xV1hoSGd2azVfRmJoYkhldENY?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Lawmakers threaten to impeach Missouri Supreme Court if Denny Hoskins found in contempt
+          - generic [ref=f1e2493]:
+            - generic [ref=f1e2494]:
+              - time [ref=f1e2495]: 12 hours ago
+              - generic [ref=f1e2496]: • By Joey Schneider
+            - list [ref=f1e2497]:
+              - generic [ref=f1e2498]:
+                - generic:
+                  - button "Save for later" [ref=f1e2499] [cursor=pointer]
+                  - tooltip [ref=f1e2504]: Save for later
+              - generic [ref=f1e2507]:
+                - button "Share" [ref=f1e2508] [cursor=pointer]
+                - tooltip [ref=f1e2517]: Share
+              - generic [ref=f1e2522]:
+                - button "More - Lawmakers threaten to impeach Missouri Supreme Court if Denny Hoskins found in contempt" [ref=f1e2523] [cursor=pointer]
+                - tooltip [ref=f1e2527]: More
+        - generic [ref=f1e2529]:
+          - link [ref=f1e2530] [cursor=pointer]:
+            - /url: ./read/CBMilwFBVV95cUxNclhNSExSUGp0R2gyZk9JUmp3Mnd3RXlsbFg2OUh2UFFLQng1Z1owcU9LVlVSX09OWUNkMU84X1VlMWlva1VOUk5LZGtzWDlIbnBJcVVpTFp0Nm1QTDA5SzFUdmE0eGdPQ3E4R29nU1lIQ1FhYzN2NVJRUGI2bEc3WlQ4dWVGMExpYUpYVC1fRzloMS1UeFo0?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2531]
+          - generic [ref=f1e2532]: PBS
+          - heading [level=4] [ref=f1e2535]:
+            - link "Missouri's election maps in chaos after conflicting rulings - PBS - 2 days ago - By Lisa Desjardins & Ali Schmitz" [ref=f1e2536] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxNclhNSExSUGp0R2gyZk9JUmp3Mnd3RXlsbFg2OUh2UFFLQng1Z1owcU9LVlVSX09OWUNkMU84X1VlMWlva1VOUk5LZGtzWDlIbnBJcVVpTFp0Nm1QTDA5SzFUdmE0eGdPQ3E4R29nU1lIQ1FhYzN2NVJRUGI2bEc3WlQ4dWVGMExpYUpYVC1fRzloMS1UeFo0?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri's election maps in chaos after conflicting rulings
+          - generic [ref=f1e2537]:
+            - generic [ref=f1e2538]:
+              - time [ref=f1e2539]: 2 days ago
+              - generic [ref=f1e2540]: • By Lisa Desjardins & Ali Schmitz
+            - list [ref=f1e2541]:
+              - generic [ref=f1e2542]:
+                - generic:
+                  - button "Save for later" [ref=f1e2543] [cursor=pointer]
+                  - tooltip [ref=f1e2548]: Save for later
+              - generic [ref=f1e2551]:
+                - button "Share" [ref=f1e2552] [cursor=pointer]
+                - tooltip [ref=f1e2561]: Share
+              - generic [ref=f1e2566]:
+                - button "More - Missouri's election maps in chaos after conflicting rulings" [ref=f1e2567] [cursor=pointer]
+                - tooltip [ref=f1e2571]: More
+        - generic [ref=f1e2573]:
+          - link [ref=f1e2574] [cursor=pointer]:
+            - /url: ./read/CBMioAFBVV95cUxPeEZOMEZFVks4X1NBS1hLZGMtUnpKNzdPY2lIbGdtNFlTTVFicFhYbC10N2dHZVFpdUdjU25UemFZeWd0RW1RWGRLbGJGMU9SekNTS0ZtNEhMOXEyTVNJcllSSTFodU5zU2VvVTVKaTBIVnZQTkx3LTFsZ2tqZTlHWUxKc2FhejV1bTRZOThqQS1KdzJfUWNqYll3V09jcndG?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2575]
+          - generic [ref=f1e2576]: The American Prospect
+          - heading [level=4] [ref=f1e2579]:
+            - link "How Many Judges Does It Take to Sort Out Missouri? - The American Prospect - 12 hours ago - By Gabrielle Gurley" [ref=f1e2580] [cursor=pointer]:
+              - /url: ./read/CBMioAFBVV95cUxPeEZOMEZFVks4X1NBS1hLZGMtUnpKNzdPY2lIbGdtNFlTTVFicFhYbC10N2dHZVFpdUdjU25UemFZeWd0RW1RWGRLbGJGMU9SekNTS0ZtNEhMOXEyTVNJcllSSTFodU5zU2VvVTVKaTBIVnZQTkx3LTFsZ2tqZTlHWUxKc2FhejV1bTRZOThqQS1KdzJfUWNqYll3V09jcndG?hl=en-US&gl=US&ceid=US%3Aen
+              - text: How Many Judges Does It Take to Sort Out Missouri?
+          - generic [ref=f1e2581]:
+            - generic [ref=f1e2582]:
+              - time [ref=f1e2583]: 12 hours ago
+              - generic [ref=f1e2584]: • By Gabrielle Gurley
+            - list [ref=f1e2585]:
+              - generic [ref=f1e2586]:
+                - generic:
+                  - button "Save for later" [ref=f1e2587] [cursor=pointer]
+                  - tooltip [ref=f1e2592]: Save for later
+              - generic [ref=f1e2595]:
+                - button "Share" [ref=f1e2596] [cursor=pointer]
+                - tooltip [ref=f1e2605]: Share
+              - generic [ref=f1e2610]:
+                - button "More - How Many Judges Does It Take to Sort Out Missouri?" [ref=f1e2611] [cursor=pointer]
+                - tooltip [ref=f1e2615]: More
+        - generic [ref=f1e2617]:
+          - link [ref=f1e2618] [cursor=pointer]:
+            - /url: ./read/CBMivwFBVV95cUxPRVpQS1JsQnNXQXdxT2x0VmVBTGhhUWtfYTZXWFJJQ0RuWWJmdUVKSHlIS2tONjhtWFBoYVl6cnR3TW0tWGF5Y3ZVbFdFTFRyb2JNVURwbFd5WXg3Ui16aGlVejVfcEJ0bGJoUmhXRlNDckVoZDV6VkNVX2JXVHlBZDJ6T0JzQnlTQXFyTVB4TTRGTUsza2tXZFJCQ0lPRnRoSnhoQVJwSkFzc0dEQ2VneG5yMjdEOEVxdFpGQktHRQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2619]
+          - generic [ref=f1e2620]: The Washington Post
+          - heading [level=4] [ref=f1e2623]:
+            - link "Supreme Court is asked to settle Missouri dispute causing electoral chaos - The Washington Post - 23 hours ago - By Justin Jouvenal & Gregory S. Schneider" [ref=f1e2624] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxPRVpQS1JsQnNXQXdxT2x0VmVBTGhhUWtfYTZXWFJJQ0RuWWJmdUVKSHlIS2tONjhtWFBoYVl6cnR3TW0tWGF5Y3ZVbFdFTFRyb2JNVURwbFd5WXg3Ui16aGlVejVfcEJ0bGJoUmhXRlNDckVoZDV6VkNVX2JXVHlBZDJ6T0JzQnlTQXFyTVB4TTRGTUsza2tXZFJCQ0lPRnRoSnhoQVJwSkFzc0dEQ2VneG5yMjdEOEVxdFpGQktHRQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Supreme Court is asked to settle Missouri dispute causing electoral chaos
+          - generic [ref=f1e2625]:
+            - generic [ref=f1e2626]:
+              - time [ref=f1e2627]: 23 hours ago
+              - generic [ref=f1e2628]: • By Justin Jouvenal & Gregory S. Schneider
+            - list [ref=f1e2629]:
+              - generic [ref=f1e2630]:
+                - generic:
+                  - button "Save for later" [ref=f1e2631] [cursor=pointer]
+                  - tooltip [ref=f1e2636]: Save for later
+              - generic [ref=f1e2639]:
+                - button "Share" [ref=f1e2640] [cursor=pointer]
+                - tooltip [ref=f1e2649]: Share
+              - generic [ref=f1e2654]:
+                - button "More - Supreme Court is asked to settle Missouri dispute causing electoral chaos" [ref=f1e2655] [cursor=pointer]
+                - tooltip [ref=f1e2659]: More
+        - generic [ref=f1e2661]:
+          - link [ref=f1e2662] [cursor=pointer]:
+            - /url: ./read/CBMi2gFBVV95cUxONWpCREZTYVVnVHZIOGUzM0gwZDlGSkY4cVB4Y1BiYjhyQlhQbGp1QVJPREQtNkVBY1N3amN0N3NPMGpFcW1MQkY4NE9ZalhMRFVaS3ptTFpuQzduVzZCWUJKVzVCQUZNWGRGMDNidWdSTG9hR3QxcFpjdWpTYzdpaVNuSDFxVTBkVE1iZWt4bURmQ1JCcG9ldjJEdXFTTmdSRVl1ZEVFREttMjV4enozdmNHUmRoRjBKUmVtX19HVzh4VlczMWtocGY0bjY0aDZOeEQzRld0VVh3UdIB3wFBVV95cUxObkV6dGN6YjZ2SFlKWWZfVmNFQ0VDTkRyUGlWczc0V1BlTW1Sa0ZQSFd4dEx3RnlUYlc4N2FDTHFRWnBZcUJ4STVaYzlMT3R2Szh6RFRBVGp1QmVza0dmUTdobXdQcVVqUzRYYjRMOGJzenpCSmJUMGY2aEZqTEJkdE83WE1KRExGZDlpVzM2b0xHZWRKMXNaQXBMTnZHZkdFS0tyTkMtS1ljV20yWGVscFZnc3JfZVV6MndJell2MjhSRG9PV25oZjh3ZGoxLWdCVkxQLTV2ZVNjOWdqVnVZ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2663]
+          - generic [ref=f1e2664]: The Hill
+          - heading [level=4] [ref=f1e2667]:
+            - link "Missouri secretary of state faces contempt hearing amid redistricting fight - The Hill - 16 hours ago - By Sophie Brams" [ref=f1e2668] [cursor=pointer]:
+              - /url: ./read/CBMi2gFBVV95cUxONWpCREZTYVVnVHZIOGUzM0gwZDlGSkY4cVB4Y1BiYjhyQlhQbGp1QVJPREQtNkVBY1N3amN0N3NPMGpFcW1MQkY4NE9ZalhMRFVaS3ptTFpuQzduVzZCWUJKVzVCQUZNWGRGMDNidWdSTG9hR3QxcFpjdWpTYzdpaVNuSDFxVTBkVE1iZWt4bURmQ1JCcG9ldjJEdXFTTmdSRVl1ZEVFREttMjV4enozdmNHUmRoRjBKUmVtX19HVzh4VlczMWtocGY0bjY0aDZOeEQzRld0VVh3UdIB3wFBVV95cUxObkV6dGN6YjZ2SFlKWWZfVmNFQ0VDTkRyUGlWczc0V1BlTW1Sa0ZQSFd4dEx3RnlUYlc4N2FDTHFRWnBZcUJ4STVaYzlMT3R2Szh6RFRBVGp1QmVza0dmUTdobXdQcVVqUzRYYjRMOGJzenpCSmJUMGY2aEZqTEJkdE83WE1KRExGZDlpVzM2b0xHZWRKMXNaQXBMTnZHZkdFS0tyTkMtS1ljV20yWGVscFZnc3JfZVV6MndJell2MjhSRG9PV25oZjh3ZGoxLWdCVkxQLTV2ZVNjOWdqVnVZ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri secretary of state faces contempt hearing amid redistricting fight
+          - generic [ref=f1e2669]:
+            - generic [ref=f1e2670]:
+              - time [ref=f1e2671]: 16 hours ago
+              - generic [ref=f1e2672]: • By Sophie Brams
+            - list [ref=f1e2673]:
+              - generic [ref=f1e2674]:
+                - generic:
+                  - button "Save for later" [ref=f1e2675] [cursor=pointer]
+                  - tooltip [ref=f1e2680]: Save for later
+              - generic [ref=f1e2683]:
+                - button "Share" [ref=f1e2684] [cursor=pointer]
+                - tooltip [ref=f1e2693]: Share
+              - generic [ref=f1e2698]:
+                - button "More - Missouri secretary of state faces contempt hearing amid redistricting fight" [ref=f1e2699] [cursor=pointer]
+                - tooltip [ref=f1e2703]: More
+        - generic [ref=f1e2705]:
+          - link [ref=f1e2706] [cursor=pointer]:
+            - /url: ./read/CBMiqAFBVV95cUxQS2ZsZ0c3V20xUHJLaUR3R0lsc3JQX21WX2VtZHRQYWdwa2VWRUlOVjF1MEs1bUlGSzd4UkZIOE1xRE1DcTcxUDhPVTFheTRmZngwZDVRaXNkX2k0b0FWVkp3MEpTdDctV05ONzg5a1h3dU96ZEVERUVNbElJUXlCN1luWGlHM3dxWXNvRkNCWVhaeXNNMW9CaGEyMWZidGhqbHB3WUNsOGjSAa4BQVVfeXFMT2RTR3NOeFQybklGcXdpRDIyc1lkU0dselk2T3VqZVhibDBEVHJWektRM0Z6a08xdlpWaXNTWndINjhMSVNrOF9QNVNISUlkSGc0OG9ua2p5YXByOU5rbS03blFkZ0RZUzVJVmEwczJsdmlfcXdZSHB6Z1NDTXUyTEljNFhUaHlReHF4UWVDU1NtMWdJWGl5ZE5DMlVteVc3VjRZMkxYNVZnSFdCcjJB?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2707]
+          - generic [ref=f1e2708]: CNBC
+          - heading [level=4] [ref=f1e2711]:
+            - link "U.S. Supreme Court again rejects push to use Trump-backed congressional maps in midterms, clearing the way for old maps - CNBC - 13 hours ago" [ref=f1e2712] [cursor=pointer]:
+              - /url: ./read/CBMiqAFBVV95cUxQS2ZsZ0c3V20xUHJLaUR3R0lsc3JQX21WX2VtZHRQYWdwa2VWRUlOVjF1MEs1bUlGSzd4UkZIOE1xRE1DcTcxUDhPVTFheTRmZngwZDVRaXNkX2k0b0FWVkp3MEpTdDctV05ONzg5a1h3dU96ZEVERUVNbElJUXlCN1luWGlHM3dxWXNvRkNCWVhaeXNNMW9CaGEyMWZidGhqbHB3WUNsOGjSAa4BQVVfeXFMT2RTR3NOeFQybklGcXdpRDIyc1lkU0dselk2T3VqZVhibDBEVHJWektRM0Z6a08xdlpWaXNTWndINjhMSVNrOF9QNVNISUlkSGc0OG9ua2p5YXByOU5rbS03blFkZ0RZUzVJVmEwczJsdmlfcXdZSHB6Z1NDTXUyTEljNFhUaHlReHF4UWVDU1NtMWdJWGl5ZE5DMlVteVc3VjRZMkxYNVZnSFdCcjJB?hl=en-US&gl=US&ceid=US%3Aen
+              - text: U.S. Supreme Court again rejects push to use Trump-backed congressional maps in midterms, clearing the way for old maps
+          - generic [ref=f1e2713]:
+            - time [ref=f1e2715]: 13 hours ago
+            - list [ref=f1e2716]:
+              - generic [ref=f1e2717]:
+                - generic:
+                  - button "Save for later" [ref=f1e2718] [cursor=pointer]
+                  - tooltip [ref=f1e2723]: Save for later
+              - generic [ref=f1e2726]:
+                - button "Share" [ref=f1e2727] [cursor=pointer]
+                - tooltip [ref=f1e2736]: Share
+              - generic [ref=f1e2741]:
+                - button "More - U.S. Supreme Court again rejects push to use Trump-backed congressional maps in midterms, clearing the way for old maps" [ref=f1e2742] [cursor=pointer]
+                - tooltip [ref=f1e2746]: More
+        - generic [ref=f1e2748]:
+          - link [ref=f1e2749] [cursor=pointer]:
+            - /url: ./read/CBMipAFBVV95cUxPSjhDemZENDY3cms5TVdEZURpZ0JEQ1VjUEF2b1A3aXV5VlVQZmprTVdVZU4yU29ST1RDRHN0T3V5RUdJaVI4RW5uVWJLa2dpUFRQZWxFYlVQTEFHdTgwXzF4d1VJN0dzbFFzNHNLeHpaTzY3TjJjZ21nQ2dJYWxSYTU2U2FiblFMWFpLWHZiNFhoVXRhTzhiX2ZnNmZIYXp2SjdKWQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2750]
+          - generic [ref=f1e2751]: Bloomberg Law News
+          - heading [level=4] [ref=f1e2754]:
+            - link "Missouri Won’t Use GOP House Map, Secretary of State Says (3) - Bloomberg Law News - 11 hours ago - By Alex Ebert" [ref=f1e2755] [cursor=pointer]:
+              - /url: ./read/CBMipAFBVV95cUxPSjhDemZENDY3cms5TVdEZURpZ0JEQ1VjUEF2b1A3aXV5VlVQZmprTVdVZU4yU29ST1RDRHN0T3V5RUdJaVI4RW5uVWJLa2dpUFRQZWxFYlVQTEFHdTgwXzF4d1VJN0dzbFFzNHNLeHpaTzY3TjJjZ21nQ2dJYWxSYTU2U2FiblFMWFpLWHZiNFhoVXRhTzhiX2ZnNmZIYXp2SjdKWQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri Won’t Use GOP House Map, Secretary of State Says (3)
+          - generic [ref=f1e2756]:
+            - generic [ref=f1e2757]:
+              - time [ref=f1e2758]: 11 hours ago
+              - generic [ref=f1e2759]: • By Alex Ebert
+            - list [ref=f1e2760]:
+              - generic [ref=f1e2761]:
+                - generic:
+                  - button "Save for later" [ref=f1e2762] [cursor=pointer]
+                  - tooltip [ref=f1e2767]: Save for later
+              - generic [ref=f1e2770]:
+                - button "Share" [ref=f1e2771] [cursor=pointer]
+                - tooltip [ref=f1e2780]: Share
+              - generic [ref=f1e2785]:
+                - button "More - Missouri Won’t Use GOP House Map, Secretary of State Says (3)" [ref=f1e2786] [cursor=pointer]
+                - tooltip [ref=f1e2790]: More
+        - generic [ref=f1e2792]:
+          - link [ref=f1e2793] [cursor=pointer]:
+            - /url: ./read/CBMizgFBVV95cUxQMV9lWW5YSFdEcElheHRRX3NtaHBqMU5LaGUxdkwtZm5pLTAtdE1pRU1VMUhVMkNWLU41eVBZTUpBQzdwVmRhMm82aWJOMHRIVVk1T3A2dWRlMkJtcllSS2VzSDhwcEtJOU5ObGRVRWFTTjlqOEhydXR5eDhDSDR2RmhqMzdqYnNzSFpYSlVTN2gzcksxR0FickYyWm9Nb3Q2eEprc0g2MkdrQ2gzV3ExUHJWcXlXTVNxOHhJWXBKXzdCZjRCVWdwSkpwaUxHZw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2794]
+          - generic [ref=f1e2795]: abc17news.com
+          - heading [level=4] [ref=f1e2798]:
+            - link "8th Circuit decision in Missouri congressional map case appealed to U.S. Supreme Court - abc17news.com - 2 days ago - By Marie Moyer" [ref=f1e2799] [cursor=pointer]:
+              - /url: ./read/CBMizgFBVV95cUxQMV9lWW5YSFdEcElheHRRX3NtaHBqMU5LaGUxdkwtZm5pLTAtdE1pRU1VMUhVMkNWLU41eVBZTUpBQzdwVmRhMm82aWJOMHRIVVk1T3A2dWRlMkJtcllSS2VzSDhwcEtJOU5ObGRVRWFTTjlqOEhydXR5eDhDSDR2RmhqMzdqYnNzSFpYSlVTN2gzcksxR0FickYyWm9Nb3Q2eEprc0g2MkdrQ2gzV3ExUHJWcXlXTVNxOHhJWXBKXzdCZjRCVWdwSkpwaUxHZw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: 8th Circuit decision in Missouri congressional map case appealed to U.S. Supreme Court
+          - generic [ref=f1e2800]:
+            - generic [ref=f1e2801]:
+              - time [ref=f1e2802]: 2 days ago
+              - generic [ref=f1e2803]: • By Marie Moyer
+            - list [ref=f1e2804]:
+              - generic [ref=f1e2805]:
+                - generic:
+                  - button "Save for later" [ref=f1e2806] [cursor=pointer]
+                  - tooltip [ref=f1e2811]: Save for later
+              - generic [ref=f1e2814]:
+                - button "Share" [ref=f1e2815] [cursor=pointer]
+                - tooltip [ref=f1e2824]: Share
+              - generic [ref=f1e2829]:
+                - button "More - 8th Circuit decision in Missouri congressional map case appealed to U.S. Supreme Court" [ref=f1e2830] [cursor=pointer]
+                - tooltip [ref=f1e2834]: More
+        - generic [ref=f1e2836]:
+          - link [ref=f1e2837] [cursor=pointer]:
+            - /url: ./read/CBMirAFBVV95cUxPM1ZGb1pKZEMwX2YzTllMOXJjLXRDbXZYem00VjV4bHdFY0tWNUJtR0twMjJLUFhHU0Zpd1plTHVwR3hZZlgwNzVIcGhaNEowbnlIdTNPUlh1b3ZlRVdiTDRBazIxM2MwUjBSMDBPbG1waWRxR1NCWXJRMVNfaUNfNU9ETi1YSm9Gd0ZqSXVJUGk4LUFNZGlEX0sybXhOYTJmZU1kVmtJODZPTGNB?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2838]
+          - generic [ref=f1e2839]: STLPR
+          - heading [level=4] [ref=f1e2842]:
+            - link "U.S. Supreme Court effectively blocks Trump-backed Missouri congressional map - STLPR - 13 hours ago" [ref=f1e2843] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxPM1ZGb1pKZEMwX2YzTllMOXJjLXRDbXZYem00VjV4bHdFY0tWNUJtR0twMjJLUFhHU0Zpd1plTHVwR3hZZlgwNzVIcGhaNEowbnlIdTNPUlh1b3ZlRVdiTDRBazIxM2MwUjBSMDBPbG1waWRxR1NCWXJRMVNfaUNfNU9ETi1YSm9Gd0ZqSXVJUGk4LUFNZGlEX0sybXhOYTJmZU1kVmtJODZPTGNB?hl=en-US&gl=US&ceid=US%3Aen
+              - text: U.S. Supreme Court effectively blocks Trump-backed Missouri congressional map
+          - generic [ref=f1e2844]:
+            - time [ref=f1e2846]: 13 hours ago
+            - list [ref=f1e2847]:
+              - generic [ref=f1e2848]:
+                - generic:
+                  - button "Save for later" [ref=f1e2849] [cursor=pointer]
+                  - tooltip [ref=f1e2854]: Save for later
+              - generic [ref=f1e2857]:
+                - button "Share" [ref=f1e2858] [cursor=pointer]
+                - tooltip [ref=f1e2867]: Share
+        - generic [ref=f1e2869]:
+          - link [ref=f1e2870] [cursor=pointer]:
+            - /url: ./read/CBMisgFBVV95cUxQd0IxaXNkZEJmNlZNZDQ2WW5YYTg0T1NscVNDNzJiM0F0d19yb0RyUFRYYnh0aTZKWWxHQzFzbXR6eFdzV1hEUzk3ek10ZWhMR21ldXNvUmRQVUpsTnRuajVoS0w3RkY2UkhyaVRBYjB6ZTNtZHctZjFaMHBQWTl2dHc0N3RvMjJaTUMxNzJyZkJSTk0zaDZBeGp6ZmNidlZSUGRkRUx3b3dwMkR3X1ZuNU9n?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2871]
+          - generic [ref=f1e2872]: KSHB 41 Kansas City
+          - heading [level=4] [ref=f1e2875]:
+            - 'link "Mo. Secretary of State Hoskins: Election officials should use 2022 map in November - KSHB 41 Kansas City - 7 hours ago - By David A. Lieb" [ref=f1e2876] [cursor=pointer]':
+              - /url: ./read/CBMisgFBVV95cUxQd0IxaXNkZEJmNlZNZDQ2WW5YYTg0T1NscVNDNzJiM0F0d19yb0RyUFRYYnh0aTZKWWxHQzFzbXR6eFdzV1hEUzk3ek10ZWhMR21ldXNvUmRQVUpsTnRuajVoS0w3RkY2UkhyaVRBYjB6ZTNtZHctZjFaMHBQWTl2dHc0N3RvMjJaTUMxNzJyZkJSTk0zaDZBeGp6ZmNidlZSUGRkRUx3b3dwMkR3X1ZuNU9n?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "Mo. Secretary of State Hoskins: Election officials should use 2022 map in November"
+          - generic [ref=f1e2877]:
+            - generic [ref=f1e2878]:
+              - time [ref=f1e2879]: 7 hours ago
+              - generic [ref=f1e2880]: • By David A. Lieb
+            - list [ref=f1e2881]:
+              - generic [ref=f1e2882]:
+                - generic:
+                  - button "Save for later" [ref=f1e2883] [cursor=pointer]
+                  - tooltip [ref=f1e2888]: Save for later
+              - generic [ref=f1e2891]:
+                - button "Share" [ref=f1e2892] [cursor=pointer]
+                - tooltip [ref=f1e2901]: Share
+              - generic [ref=f1e2906]:
+                - 'button "More - Mo. Secretary of State Hoskins: Election officials should use 2022 map in November" [ref=f1e2907] [cursor=pointer]'
+                - tooltip [ref=f1e2911]: More
+        - generic [ref=f1e2913]:
+          - link [ref=f1e2914] [cursor=pointer]:
+            - /url: ./read/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2915]
+          - generic [ref=f1e2916]: NBC News
+          - heading [level=4] [ref=f1e2919]:
+            - link "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map - NBC News - 8 hours ago - By Lawrence Hurley" [ref=f1e2920] [cursor=pointer]:
+              - /url: ./read/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map
+          - generic [ref=f1e2921]:
+            - generic [ref=f1e2922]:
+              - time [ref=f1e2923]: 8 hours ago
+              - generic [ref=f1e2924]: • By Lawrence Hurley
+            - list [ref=f1e2925]:
+              - generic [ref=f1e2926]:
+                - generic:
+                  - button "Save for later" [ref=f1e2927] [cursor=pointer]
+                  - tooltip [ref=f1e2932]: Save for later
+              - generic [ref=f1e2935]:
+                - button "Share" [ref=f1e2936] [cursor=pointer]
+                - tooltip [ref=f1e2945]: Share
+              - generic [ref=f1e2950]:
+                - button "More - Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map" [ref=f1e2951] [cursor=pointer]
+                - tooltip [ref=f1e2955]: More
+        - generic [ref=f1e2957]:
+          - link [ref=f1e2958] [cursor=pointer]:
+            - /url: ./read/CBMifkFVX3lxTE50aC10cFUxM0MzclVpcndGMnR2WmNseW81aW1uVklxR1dhSk5wZUwxZnlGVEhTUFAxUEszN1RsbndoR1JhVGhiei01dUIxeWRsSGNVMl84SmlmRVgzYTdJRldxVmFJTElodm5IVWZsUFhJa0FWdjJBLXJMNzBaUdIBfkFVX3lxTE1rOEFqWjltcTVkZHFMeld1UnFyZ1c3VDI5QkgxaFNhMXhBX3liTHpOS3FrcmF3bFRSbWlIQkxnTUdwWnZzNnNNcWlsRDNNTEtwdS1ELWVLa1QxMHFldWpwSmZSNXBnQzJmTXJkQlRxRmJlZ3NxbTB5X2RsWVIyQQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e2959]
+          - generic [ref=f1e2960]: Kansas City Star
+          - heading [level=4] [ref=f1e2963]:
+            - link "Missouri Supreme Court summons Hoskins after he vows to use gerrymandered map - Kansas City Star - 2 days ago - By Kacen J. Bayless" [ref=f1e2964] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTE50aC10cFUxM0MzclVpcndGMnR2WmNseW81aW1uVklxR1dhSk5wZUwxZnlGVEhTUFAxUEszN1RsbndoR1JhVGhiei01dUIxeWRsSGNVMl84SmlmRVgzYTdJRldxVmFJTElodm5IVWZsUFhJa0FWdjJBLXJMNzBaUdIBfkFVX3lxTE1rOEFqWjltcTVkZHFMeld1UnFyZ1c3VDI5QkgxaFNhMXhBX3liTHpOS3FrcmF3bFRSbWlIQkxnTUdwWnZzNnNNcWlsRDNNTEtwdS1ELWVLa1QxMHFldWpwSmZSNXBnQzJmTXJkQlRxRmJlZ3NxbTB5X2RsWVIyQQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri Supreme Court summons Hoskins after he vows to use gerrymandered map
+          - generic [ref=f1e2965]:
+            - generic [ref=f1e2966]:
+              - time [ref=f1e2967]: 2 days ago
+              - generic [ref=f1e2968]: • By Kacen J. Bayless
+            - list [ref=f1e2969]:
+              - generic [ref=f1e2970]:
+                - generic:
+                  - button "Save for later" [ref=f1e2971] [cursor=pointer]
+                  - tooltip [ref=f1e2976]: Save for later
+              - generic [ref=f1e2979]:
+                - button "Share" [ref=f1e2980] [cursor=pointer]
+                - tooltip [ref=f1e2989]: Share
+              - generic [ref=f1e2994]:
+                - button "More - Missouri Supreme Court summons Hoskins after he vows to use gerrymandered map" [ref=f1e2995] [cursor=pointer]
+                - tooltip [ref=f1e2999]: More
+        - generic [ref=f1e3001]:
+          - link [ref=f1e3002] [cursor=pointer]:
+            - /url: ./read/CBMitAFBVV95cUxPYmRpUXpCRDNPamVZYldVNW1NOG80dmpkaHoyTC1JZUsxRW1PY3JpSDQtLW4wdklQUDdlNHdjcDE4TVNUUUsyT3hIYWtlZk9JS2U2ZzhFMXh1eklvcXI2MWt0OU9hMHBrejk0U0tGNURNRGt4NVNfdWFaWE1wWVh0UlRiWVpQdWRsUVV2V2Q2NWV6UUdmWWVSTUtmd0JBN1lTUXB5bEZJRG94QzhBUDJScXFYOWrSAboBQVVfeXFMTUJnTzZaQmQ5ZndOSEZnUDhURFFUUTRIN05mUXF2OTN1d2JuZFpoVS02aUw3WTZiWmlRZmtyNmJVODhUWm81R25hWEZHVlp3RXI4b2FJd09MQlVwSU52TW1BdF9lSV9GSUtzcHhFVHpqOHNkVjhucURQNDhmdGN1dkpDa0stT05qVDhSQVAtWUo3ZmRRN3JNNld3M01USmxJa0hEeGtONHZVcS04RDhncmtMdkxLTmJFU2NB?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3003]
+          - generic [ref=f1e3004]: ABC News - Breaking News, Latest News and Videos
+          - heading [level=4] [ref=f1e3007]:
+            - link "Federal judge revives GOP-friendly Missouri congressional map after Kavanaugh denies Republicans' appeal - ABC News - Breaking News, Latest News and Videos - 3 days ago - By Oren Oppenheim & Devin Dwyer" [ref=f1e3008] [cursor=pointer]:
+              - /url: ./read/CBMitAFBVV95cUxPYmRpUXpCRDNPamVZYldVNW1NOG80dmpkaHoyTC1JZUsxRW1PY3JpSDQtLW4wdklQUDdlNHdjcDE4TVNUUUsyT3hIYWtlZk9JS2U2ZzhFMXh1eklvcXI2MWt0OU9hMHBrejk0U0tGNURNRGt4NVNfdWFaWE1wWVh0UlRiWVpQdWRsUVV2V2Q2NWV6UUdmWWVSTUtmd0JBN1lTUXB5bEZJRG94QzhBUDJScXFYOWrSAboBQVVfeXFMTUJnTzZaQmQ5ZndOSEZnUDhURFFUUTRIN05mUXF2OTN1d2JuZFpoVS02aUw3WTZiWmlRZmtyNmJVODhUWm81R25hWEZHVlp3RXI4b2FJd09MQlVwSU52TW1BdF9lSV9GSUtzcHhFVHpqOHNkVjhucURQNDhmdGN1dkpDa0stT05qVDhSQVAtWUo3ZmRRN3JNNld3M01USmxJa0hEeGtONHZVcS04RDhncmtMdkxLTmJFU2NB?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Federal judge revives GOP-friendly Missouri congressional map after Kavanaugh denies Republicans' appeal
+          - generic [ref=f1e3009]:
+            - generic [ref=f1e3010]:
+              - time [ref=f1e3011]: 3 days ago
+              - generic [ref=f1e3012]: • By Oren Oppenheim & Devin Dwyer
+            - list [ref=f1e3013]:
+              - generic [ref=f1e3014]:
+                - generic:
+                  - button "Save for later" [ref=f1e3015] [cursor=pointer]
+                  - tooltip [ref=f1e3020]: Save for later
+              - generic [ref=f1e3023]:
+                - button "Share" [ref=f1e3024] [cursor=pointer]
+                - tooltip [ref=f1e3033]: Share
+              - generic [ref=f1e3038]:
+                - button "More - Federal judge revives GOP-friendly Missouri congressional map after Kavanaugh denies Republicans' appeal" [ref=f1e3039] [cursor=pointer]
+                - tooltip [ref=f1e3043]: More
+        - generic [ref=f1e3045]:
+          - link [ref=f1e3046] [cursor=pointer]:
+            - /url: ./read/CBMixwFBVV95cUxQSGRNZ0UwQU5WbzZGQkQ2bW5mbHZwdDdSYTd0RlJ1WFE2NDdWN1NoX1JfQkh4VFprRmR2T1NRMmVXcmZNVElqUDZ4cXlqdWtsa1I1UnFJbXJMRHlLNHZ6QmNJNDI4N2xxMHBuN3BjMFo3NE5DcHRjN191Yk1yaVhhR2lOQUl0SWpITmxBSDJraW1NdnZMdnc4NU9wbUV1NWZTX3dWdmtKUW40MG5RMjY0VV81QnVDdnFTbDNkUmVtd1hFbXFxM0Jn?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3047]
+          - generic [ref=f1e3048]: Democracy Docket
+          - heading [level=4] [ref=f1e3051]:
+            - link "After contempt hearing, Missouri’s top election official concedes redistricting fight - Democracy Docket - 9 hours ago - By Jen Rice" [ref=f1e3052] [cursor=pointer]:
+              - /url: ./read/CBMixwFBVV95cUxQSGRNZ0UwQU5WbzZGQkQ2bW5mbHZwdDdSYTd0RlJ1WFE2NDdWN1NoX1JfQkh4VFprRmR2T1NRMmVXcmZNVElqUDZ4cXlqdWtsa1I1UnFJbXJMRHlLNHZ6QmNJNDI4N2xxMHBuN3BjMFo3NE5DcHRjN191Yk1yaVhhR2lOQUl0SWpITmxBSDJraW1NdnZMdnc4NU9wbUV1NWZTX3dWdmtKUW40MG5RMjY0VV81QnVDdnFTbDNkUmVtd1hFbXFxM0Jn?hl=en-US&gl=US&ceid=US%3Aen
+              - text: After contempt hearing, Missouri’s top election official concedes redistricting fight
+          - generic [ref=f1e3053]:
+            - generic [ref=f1e3054]:
+              - time [ref=f1e3055]: 9 hours ago
+              - generic [ref=f1e3056]: • By Jen Rice
+            - list [ref=f1e3057]:
+              - generic [ref=f1e3058]:
+                - generic:
+                  - button "Save for later" [ref=f1e3059] [cursor=pointer]
+                  - tooltip [ref=f1e3064]: Save for later
+              - generic [ref=f1e3067]:
+                - button "Share" [ref=f1e3068] [cursor=pointer]
+                - tooltip [ref=f1e3077]: Share
+              - generic [ref=f1e3082]:
+                - button "More - After contempt hearing, Missouri’s top election official concedes redistricting fight" [ref=f1e3083] [cursor=pointer]
+                - tooltip [ref=f1e3087]: More
+        - generic [ref=f1e3089]:
+          - link [ref=f1e3090] [cursor=pointer]:
+            - /url: ./read/CBMihgFBVV95cUxOTkJSdHJ2TW5uRzFyaUwxclNSSUZBZWpwQVhKY1h4WVliRGVzWVIzcHFPZmF1UXp2YkRwMms1ak9ILUtsNEdiZ1F4amtVWXhacTFLUjNIUDFvcFR3QkQ4OHBRa09qRlVyMFFrbk1UTnF5dWdaN05VWnR0ektsMU1oNFE2NDFNdw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3091]
+          - generic [ref=f1e3092]: The New Republic
+          - heading [level=4] [ref=f1e3095]:
+            - link "The Supreme Court Hits a Limit With Missouri’s Election Map Mess - The New Republic - 8 hours ago - By Matt Ford" [ref=f1e3096] [cursor=pointer]:
+              - /url: ./read/CBMihgFBVV95cUxOTkJSdHJ2TW5uRzFyaUwxclNSSUZBZWpwQVhKY1h4WVliRGVzWVIzcHFPZmF1UXp2YkRwMms1ak9ILUtsNEdiZ1F4amtVWXhacTFLUjNIUDFvcFR3QkQ4OHBRa09qRlVyMFFrbk1UTnF5dWdaN05VWnR0ektsMU1oNFE2NDFNdw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: The Supreme Court Hits a Limit With Missouri’s Election Map Mess
+          - generic [ref=f1e3097]:
+            - generic [ref=f1e3098]:
+              - time [ref=f1e3099]: 8 hours ago
+              - generic [ref=f1e3100]: • By Matt Ford
+            - list [ref=f1e3101]:
+              - generic [ref=f1e3102]:
+                - generic:
+                  - button "Save for later" [ref=f1e3103] [cursor=pointer]
+                  - tooltip [ref=f1e3108]: Save for later
+              - generic [ref=f1e3111]:
+                - button "Share" [ref=f1e3112] [cursor=pointer]
+                - tooltip [ref=f1e3121]: Share
+              - generic [ref=f1e3126]:
+                - button "More - The Supreme Court Hits a Limit With Missouri’s Election Map Mess" [ref=f1e3127] [cursor=pointer]
+                - tooltip [ref=f1e3131]: More
+        - generic [ref=f1e3133]:
+          - link [ref=f1e3134] [cursor=pointer]:
+            - /url: ./read/CBMipwFBVV95cUxOeU55R3Bza0kxM1ZTaVhwanBwbFIyZDUwR3BMbDRoVWtWNHVhVjNvclVZTG5Db2xlVlhYVWhJODdwMWNobmd2NEZ2WFhfQmhycFBEbHNPeUpwYktIaFRHdmltYjF2X2lTUG9URkYxVE1tVUQwMGE4Y2RKcWFLZ1F2YkxCXzJjYmdKTlNQdVNWSTRkSV91cXByT3owRnRoQUo2STR1SW82ONIBrAFBVV95cUxPWDFHWW9DcVU3S3dubldmdERnd2ZMcFpadUZMcmhQRmt5aWc4d25pUVpTanRtUDNaZ0VZeWVRZWNVLWJ5VGo2Q1NnTk1RSUFkRUx0OGYydVEyS3ViSThDOUswbDNxeHhtV095MlA2aDNNUEV6T3BVT1htd2l2bG9JVmt1NHAwR0NzUUlEcHZSaXI0MjFHcUFjdFJobDBmanNwOVl3cy1HRE55bVdf?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3135]
+          - generic [ref=f1e3136]: FOX4KC.com
+          - heading [level=4] [ref=f1e3139]:
+            - link "Missouri to use 2022 congressional districts following map mayhem - FOX4KC.com - 5 hours ago - By Malik Jackson" [ref=f1e3140] [cursor=pointer]:
+              - /url: ./read/CBMipwFBVV95cUxOeU55R3Bza0kxM1ZTaVhwanBwbFIyZDUwR3BMbDRoVWtWNHVhVjNvclVZTG5Db2xlVlhYVWhJODdwMWNobmd2NEZ2WFhfQmhycFBEbHNPeUpwYktIaFRHdmltYjF2X2lTUG9URkYxVE1tVUQwMGE4Y2RKcWFLZ1F2YkxCXzJjYmdKTlNQdVNWSTRkSV91cXByT3owRnRoQUo2STR1SW82ONIBrAFBVV95cUxPWDFHWW9DcVU3S3dubldmdERnd2ZMcFpadUZMcmhQRmt5aWc4d25pUVpTanRtUDNaZ0VZeWVRZWNVLWJ5VGo2Q1NnTk1RSUFkRUx0OGYydVEyS3ViSThDOUswbDNxeHhtV095MlA2aDNNUEV6T3BVT1htd2l2bG9JVmt1NHAwR0NzUUlEcHZSaXI0MjFHcUFjdFJobDBmanNwOVl3cy1HRE55bVdf?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri to use 2022 congressional districts following map mayhem
+          - generic [ref=f1e3141]:
+            - generic [ref=f1e3142]:
+              - time [ref=f1e3143]: 5 hours ago
+              - generic [ref=f1e3144]: • By Malik Jackson
+            - list [ref=f1e3145]:
+              - generic [ref=f1e3146]:
+                - generic:
+                  - button "Save for later" [ref=f1e3147] [cursor=pointer]
+                  - tooltip [ref=f1e3152]: Save for later
+              - generic [ref=f1e3155]:
+                - button "Share" [ref=f1e3156] [cursor=pointer]
+                - tooltip [ref=f1e3165]: Share
+              - generic [ref=f1e3170]:
+                - button "More - Missouri to use 2022 congressional districts following map mayhem" [ref=f1e3171] [cursor=pointer]
+                - tooltip [ref=f1e3175]: More
+        - generic [ref=f1e3177]:
+          - link [ref=f1e3178] [cursor=pointer]:
+            - /url: ./read/CBMikAFBVV95cUxPdlp0NzktSnBHMDlXZ3FET1c1UDFxQkI5aUJKemFlVnR5Zk9JbktLMEtPZjNfaGVDaHJuczFpSG0yY2hrVDZUZGdhQ2FEUk0xbUdtTUVkNk9idnJyaW5YaEtnS2ZubHRNNy1fazBwdk9YUU82V0dvR1ZLZjBEWmZTakpQQWh2YThlUjF5emRGMjM?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3179]
+          - generic [ref=f1e3180]: Courthouse News
+          - heading [level=4] [ref=f1e3183]:
+            - link "Supreme Court nixes Missouri GOP-friendly maps for midterms - Courthouse News - 13 hours ago - By Kelsey Reichmann" [ref=f1e3184] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxPdlp0NzktSnBHMDlXZ3FET1c1UDFxQkI5aUJKemFlVnR5Zk9JbktLMEtPZjNfaGVDaHJuczFpSG0yY2hrVDZUZGdhQ2FEUk0xbUdtTUVkNk9idnJyaW5YaEtnS2ZubHRNNy1fazBwdk9YUU82V0dvR1ZLZjBEWmZTakpQQWh2YThlUjF5emRGMjM?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Supreme Court nixes Missouri GOP-friendly maps for midterms
+          - generic [ref=f1e3185]:
+            - generic [ref=f1e3186]:
+              - time [ref=f1e3187]: 13 hours ago
+              - generic [ref=f1e3188]: • By Kelsey Reichmann
+            - list [ref=f1e3189]:
+              - generic [ref=f1e3190]:
+                - generic:
+                  - button "Save for later" [ref=f1e3191] [cursor=pointer]
+                  - tooltip [ref=f1e3196]: Save for later
+              - generic [ref=f1e3199]:
+                - button "Share" [ref=f1e3200] [cursor=pointer]
+                - tooltip [ref=f1e3209]: Share
+              - generic [ref=f1e3214]:
+                - button "More - Supreme Court nixes Missouri GOP-friendly maps for midterms" [ref=f1e3215] [cursor=pointer]
+                - tooltip [ref=f1e3219]: More
+        - generic [ref=f1e3221]:
+          - link [ref=f1e3222] [cursor=pointer]:
+            - /url: ./read/CBMirAFBVV95cUxOWVowMmdGUEpEdnNNY2xUN0JnVW5qcmRMdkZyU3RjblZOUEI4dTJHVmkzMkdRZHpVbTE5dmlwNmhiZHhrczZKZEpFaFRjZHlvNkdVRzl5STFPWi1Cd2hiNERXbE03ZXRRZEFHcDdmQXRRR0RxVUlKOGVUNThVMlhrbHFSMGJCTkhiM0pmRFpWc2RySzcxeHhzMXNCSnpJNXJlZS1ndzdhWXBBaXBK?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3223]
+          - generic [ref=f1e3224]: MS NOW
+          - heading [level=4] [ref=f1e3227]:
+            - link "Supreme Court rejects Missouri Republicans again on congressional map - MS NOW - 13 hours ago - By Jordan Rubin" [ref=f1e3228] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxOWVowMmdGUEpEdnNNY2xUN0JnVW5qcmRMdkZyU3RjblZOUEI4dTJHVmkzMkdRZHpVbTE5dmlwNmhiZHhrczZKZEpFaFRjZHlvNkdVRzl5STFPWi1Cd2hiNERXbE03ZXRRZEFHcDdmQXRRR0RxVUlKOGVUNThVMlhrbHFSMGJCTkhiM0pmRFpWc2RySzcxeHhzMXNCSnpJNXJlZS1ndzdhWXBBaXBK?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Supreme Court rejects Missouri Republicans again on congressional map
+          - generic [ref=f1e3229]:
+            - generic [ref=f1e3230]:
+              - time [ref=f1e3231]: 13 hours ago
+              - generic [ref=f1e3232]: • By Jordan Rubin
+            - list [ref=f1e3233]:
+              - generic [ref=f1e3234]:
+                - generic:
+                  - button "Save for later" [ref=f1e3235] [cursor=pointer]
+                  - tooltip [ref=f1e3240]: Save for later
+              - generic [ref=f1e3243]:
+                - button "Share" [ref=f1e3244] [cursor=pointer]
+                - tooltip [ref=f1e3253]: Share
+              - generic [ref=f1e3258]:
+                - button "More - Supreme Court rejects Missouri Republicans again on congressional map" [ref=f1e3259] [cursor=pointer]
+                - tooltip [ref=f1e3263]: More
+        - generic [ref=f1e3265]:
+          - link [ref=f1e3266] [cursor=pointer]:
+            - /url: ./read/CBMikAFBVV95cUxQek5ZTWVMbmVPZVlKT3BDSWdScjFoMUlibFk0QjhtcDYtdmd0T0kxc2dsckZCdXpoT1JPUTJ6b08zWkVrNzJCRlQyUmhDblItQ2pUd05FV3dGay1xUEtVTDNITVVNd0F1aDk0N3plVlZydmlzTThSbS1TQWFlb0hoS0ZVa25qQzYxYnZHVmVMTzU?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3267]
+          - generic [ref=f1e3268]: thebeaconnews.org
+          - heading [level=4] [ref=f1e3271]:
+            - link "Dueling court orders over Missouri's congressional map could have far-reaching effects in Kansas City - thebeaconnews.org - 2 days ago - By Ryleigh Hindle" [ref=f1e3272] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxQek5ZTWVMbmVPZVlKT3BDSWdScjFoMUlibFk0QjhtcDYtdmd0T0kxc2dsckZCdXpoT1JPUTJ6b08zWkVrNzJCRlQyUmhDblItQ2pUd05FV3dGay1xUEtVTDNITVVNd0F1aDk0N3plVlZydmlzTThSbS1TQWFlb0hoS0ZVa25qQzYxYnZHVmVMTzU?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Dueling court orders over Missouri's congressional map could have far-reaching effects in Kansas City
+          - generic [ref=f1e3273]:
+            - generic [ref=f1e3274]:
+              - time [ref=f1e3275]: 2 days ago
+              - generic [ref=f1e3276]: • By Ryleigh Hindle
+            - list [ref=f1e3277]:
+              - generic [ref=f1e3278]:
+                - generic:
+                  - button "Save for later" [ref=f1e3279] [cursor=pointer]
+                  - tooltip [ref=f1e3284]: Save for later
+              - generic [ref=f1e3287]:
+                - button "Share" [ref=f1e3288] [cursor=pointer]
+                - tooltip [ref=f1e3297]: Share
+              - generic [ref=f1e3302]:
+                - button "More - Dueling court orders over Missouri's congressional map could have far-reaching effects in Kansas City" [ref=f1e3303] [cursor=pointer]
+                - tooltip [ref=f1e3307]: More
+        - generic [ref=f1e3309]:
+          - link [ref=f1e3310] [cursor=pointer]:
+            - /url: ./read/CBMiqAFBVV95cUxQTzVLRVBmVzdLa2p1QmdTa1RiOFFNTWtZZmtjbUpoVlMyb2hlcmdmNXBEUFFHUmlKMkdkektHbzJGRk1jR0JCejNVZUN0NkJENFhhXzVJQktkMXF6bFdtQkVqem9tR3FsNDB0M2J3bmJ2c0hnVlFsZ2RUcjRjM3FVMm9LTURyWDNvRlltVjY1aGxfRzczTnBXbjNCOHo2bTR4WWFCLXdhdWw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3311]
+          - generic [ref=f1e3312]: STLtoday.com
+          - heading [level=4] [ref=f1e3315]:
+            - link "Hoskins tells Missouri election officials to use 2022 maps, avoiding contempt penalty - STLtoday.com - 5 hours ago - By Jacob Barker, Liz Rymarev & David Carson" [ref=f1e3316] [cursor=pointer]:
+              - /url: ./read/CBMiqAFBVV95cUxQTzVLRVBmVzdLa2p1QmdTa1RiOFFNTWtZZmtjbUpoVlMyb2hlcmdmNXBEUFFHUmlKMkdkektHbzJGRk1jR0JCejNVZUN0NkJENFhhXzVJQktkMXF6bFdtQkVqem9tR3FsNDB0M2J3bmJ2c0hnVlFsZ2RUcjRjM3FVMm9LTURyWDNvRlltVjY1aGxfRzczTnBXbjNCOHo2bTR4WWFCLXdhdWw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Hoskins tells Missouri election officials to use 2022 maps, avoiding contempt penalty
+          - generic [ref=f1e3317]:
+            - generic [ref=f1e3318]:
+              - time [ref=f1e3319]: 5 hours ago
+              - generic [ref=f1e3320]: • By Jacob Barker, Liz Rymarev & David Carson
+            - list [ref=f1e3321]:
+              - generic [ref=f1e3322]:
+                - generic:
+                  - button "Save for later" [ref=f1e3323] [cursor=pointer]
+                  - tooltip [ref=f1e3328]: Save for later
+              - generic [ref=f1e3331]:
+                - button "Share" [ref=f1e3332] [cursor=pointer]
+                - tooltip [ref=f1e3341]: Share
+              - generic [ref=f1e3346]:
+                - button "More - Hoskins tells Missouri election officials to use 2022 maps, avoiding contempt penalty" [ref=f1e3347] [cursor=pointer]
+                - tooltip [ref=f1e3351]: More
+        - generic [ref=f1e3353]:
+          - link [ref=f1e3354] [cursor=pointer]:
+            - /url: ./read/CBMicEFVX3lxTE80dFh3SzVDVXNUVkx1WVR2SkI3TmstTjVMUGlKa0VnZ3lJWFFHUzRxSjZUOW1ISDFfWE82cHJZOTNrQWdHcGhfN2F3eWl6MTRDeUZVeC1GS2Nra1lhY1RvcFB0bm1CM190TTZYenVfS2Q?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3355]
+          - generic [ref=f1e3356]: Roll Call
+          - heading [level=4] [ref=f1e3359]:
+            - link "Federal judge orders Missouri to use map targeting Dem House seat - Roll Call - 3 days ago - By Michael Macagnone" [ref=f1e3360] [cursor=pointer]:
+              - /url: ./read/CBMicEFVX3lxTE80dFh3SzVDVXNUVkx1WVR2SkI3TmstTjVMUGlKa0VnZ3lJWFFHUzRxSjZUOW1ISDFfWE82cHJZOTNrQWdHcGhfN2F3eWl6MTRDeUZVeC1GS2Nra1lhY1RvcFB0bm1CM190TTZYenVfS2Q?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Federal judge orders Missouri to use map targeting Dem House seat
+          - generic [ref=f1e3361]:
+            - generic [ref=f1e3362]:
+              - time [ref=f1e3363]: 3 days ago
+              - generic [ref=f1e3364]: • By Michael Macagnone
+            - list [ref=f1e3365]:
+              - generic [ref=f1e3366]:
+                - generic:
+                  - button "Save for later" [ref=f1e3367] [cursor=pointer]
+                  - tooltip [ref=f1e3372]: Save for later
+              - generic [ref=f1e3375]:
+                - button "Share" [ref=f1e3376] [cursor=pointer]
+                - tooltip [ref=f1e3385]: Share
+              - generic [ref=f1e3390]:
+                - button "More - Federal judge orders Missouri to use map targeting Dem House seat" [ref=f1e3391] [cursor=pointer]
+                - tooltip [ref=f1e3395]: More
+        - generic [ref=f1e3397]:
+          - link [ref=f1e3398] [cursor=pointer]:
+            - /url: ./read/CBMivgFBVV95cUxQakhlTUFKNEd3c2ZZenBtLWhtY3ZMdmdJYzVrQ1p5R0VPSXY4TV9yb09kX3RRQ2RnWmpHNXlDMUthRHFQcjBtSV82YVpubGI0TFIwVGJvYkhzam1WRmFlY3hLYjd5Q0Q4YlFaNm1QazlZV3JtaHh1Vll6a19iQktNelBVWHFWLU03N2g3MXcwR2pfM1JKR0IzcHNLQnR3dXVrZEVHTWlPYVRzbnRScHMxaGdMbHlLSjR5M1RLM3VB?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3399]
+          - generic [ref=f1e3400]: Reuters
+          - heading [level=4] [ref=f1e3403]:
+            - link "Fight over Republican-drawn congressional map in Missouri returns to US Supreme Court - Reuters - 2 days ago - By Andrew Chung" [ref=f1e3404] [cursor=pointer]:
+              - /url: ./read/CBMivgFBVV95cUxQakhlTUFKNEd3c2ZZenBtLWhtY3ZMdmdJYzVrQ1p5R0VPSXY4TV9yb09kX3RRQ2RnWmpHNXlDMUthRHFQcjBtSV82YVpubGI0TFIwVGJvYkhzam1WRmFlY3hLYjd5Q0Q4YlFaNm1QazlZV3JtaHh1Vll6a19iQktNelBVWHFWLU03N2g3MXcwR2pfM1JKR0IzcHNLQnR3dXVrZEVHTWlPYVRzbnRScHMxaGdMbHlLSjR5M1RLM3VB?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Fight over Republican-drawn congressional map in Missouri returns to US Supreme Court
+          - generic [ref=f1e3405]:
+            - generic [ref=f1e3406]:
+              - time [ref=f1e3407]: 2 days ago
+              - generic [ref=f1e3408]: • By Andrew Chung
+            - list [ref=f1e3409]:
+              - generic [ref=f1e3410]:
+                - generic:
+                  - button "Save for later" [ref=f1e3411] [cursor=pointer]
+                  - tooltip [ref=f1e3416]: Save for later
+              - generic [ref=f1e3419]:
+                - button "Share" [ref=f1e3420] [cursor=pointer]
+                - tooltip [ref=f1e3429]: Share
+              - generic [ref=f1e3434]:
+                - button "More - Fight over Republican-drawn congressional map in Missouri returns to US Supreme Court" [ref=f1e3435] [cursor=pointer]
+                - tooltip [ref=f1e3439]: More
+        - generic [ref=f1e3441]:
+          - link [ref=f1e3442] [cursor=pointer]:
+            - /url: ./read/CBMisAFBVV95cUxPTGpkYkxkRnF4eWxhbXpHcEZJNC0yeWhJMkFiZ0pBQTNIa1plYW14N3Y2RW9kNVAyMmZENDR2R1pqcm5GWExEOE5YMlowSDMzQUlud1ZEVUhRZ0tCTTBRRncxcHl6bWJKbVNzSlpqTTlQYy1fZjhsQ3J3SVdmNUhpdkJUUVBCTlFvN041dnhOTWl3U0lUTkpVVVlGcC1oRHA1NWh3ckFVM25jVmo2TWRkVtIBtgFBVV95cUxOX1BESlpER3ZjYzJ4OVlNS042ajB4dU1mWUlzTkw5TWhLWG5mZGp0UkY1WkZiTXluTHh6Ny1UOFQ3YU5BcUZ3eUlVc3NmWXppYVV5Y1BBNFpOM3docC1GTWJRWkZ3a3NhYm9EVmF0T0JVSlJza2JDa0Q4bnlyOXdsV0Z0UDRHRTd6ejFsRHpBU3BqX2dLZzRPY2dUU0Jjb0JYU2tpTEVseG15Nmttb2p2NDctX0pIdw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3443]
+          - generic [ref=f1e3444]: Fox News
+          - heading [level=4] [ref=f1e3447]:
+            - link "Supreme Court again blocks Missouri from using Trump-backed congressional maps - Fox News - 13 hours ago" [ref=f1e3448] [cursor=pointer]:
+              - /url: ./read/CBMisAFBVV95cUxPTGpkYkxkRnF4eWxhbXpHcEZJNC0yeWhJMkFiZ0pBQTNIa1plYW14N3Y2RW9kNVAyMmZENDR2R1pqcm5GWExEOE5YMlowSDMzQUlud1ZEVUhRZ0tCTTBRRncxcHl6bWJKbVNzSlpqTTlQYy1fZjhsQ3J3SVdmNUhpdkJUUVBCTlFvN041dnhOTWl3U0lUTkpVVVlGcC1oRHA1NWh3ckFVM25jVmo2TWRkVtIBtgFBVV95cUxOX1BESlpER3ZjYzJ4OVlNS042ajB4dU1mWUlzTkw5TWhLWG5mZGp0UkY1WkZiTXluTHh6Ny1UOFQ3YU5BcUZ3eUlVc3NmWXppYVV5Y1BBNFpOM3docC1GTWJRWkZ3a3NhYm9EVmF0T0JVSlJza2JDa0Q4bnlyOXdsV0Z0UDRHRTd6ejFsRHpBU3BqX2dLZzRPY2dUU0Jjb0JYU2tpTEVseG15Nmttb2p2NDctX0pIdw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Supreme Court again blocks Missouri from using Trump-backed congressional maps
+          - generic [ref=f1e3449]:
+            - time [ref=f1e3451]: 13 hours ago
+            - list [ref=f1e3452]:
+              - generic [ref=f1e3453]:
+                - generic:
+                  - button "Save for later" [ref=f1e3454] [cursor=pointer]
+                  - tooltip [ref=f1e3459]: Save for later
+              - generic [ref=f1e3462]:
+                - button "Share" [ref=f1e3463] [cursor=pointer]
+                - tooltip [ref=f1e3472]: Share
+              - generic [ref=f1e3477]:
+                - button "More - Supreme Court again blocks Missouri from using Trump-backed congressional maps" [ref=f1e3478] [cursor=pointer]
+                - tooltip [ref=f1e3482]: More
+        - generic [ref=f1e3484]:
+          - link [ref=f1e3485] [cursor=pointer]:
+            - /url: ./read/CBMihwJBVV95cUxOSzBMcmozRVRhRzU0X2hLOVpXaFB6ZDZHNVFxSjU3cEFfNUhUNmVreDJJR2Y1MGlRbWxUOUJXS0xhelhnQjlBc0FzQ0w1X1hqUzctZFZpSmlwUGxqX2UzQkF4NF9YYlFPREpXZnljc09icjkyT0VkdVRuenBSZFRsNUl6VGlTWHY0c001OUpyVTc2eU43VlczZHh1OFQzYmVMTDVsellBMGhtQ3BubE5PVldXM2JORGl1MWVDUkNyMjZJMVdCbFpYSGd3aWI4SFpYdl9peDJiRG0yelNRcXlvSGNSM0VDWFRmbmVTZkFlMDlFQmpIOERMZlM4UjB4ZHg4QzFzREtNMA?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3486]
+          - generic [ref=f1e3487]: KSDK
+          - heading [level=4] [ref=f1e3490]:
+            - link "Missouri Supreme Court finds Secretary of State Denny Hoskins was in contempt during redistricting fight - KSDK - 8 hours ago - By Hunter Bassler" [ref=f1e3491] [cursor=pointer]:
+              - /url: ./read/CBMihwJBVV95cUxOSzBMcmozRVRhRzU0X2hLOVpXaFB6ZDZHNVFxSjU3cEFfNUhUNmVreDJJR2Y1MGlRbWxUOUJXS0xhelhnQjlBc0FzQ0w1X1hqUzctZFZpSmlwUGxqX2UzQkF4NF9YYlFPREpXZnljc09icjkyT0VkdVRuenBSZFRsNUl6VGlTWHY0c001OUpyVTc2eU43VlczZHh1OFQzYmVMTDVsellBMGhtQ3BubE5PVldXM2JORGl1MWVDUkNyMjZJMVdCbFpYSGd3aWI4SFpYdl9peDJiRG0yelNRcXlvSGNSM0VDWFRmbmVTZkFlMDlFQmpIOERMZlM4UjB4ZHg4QzFzREtNMA?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri Supreme Court finds Secretary of State Denny Hoskins was in contempt during redistricting fight
+          - generic [ref=f1e3492]:
+            - generic [ref=f1e3493]:
+              - time [ref=f1e3494]: 8 hours ago
+              - generic [ref=f1e3495]: • By Hunter Bassler
+            - list [ref=f1e3496]:
+              - generic [ref=f1e3497]:
+                - generic:
+                  - button "Save for later" [ref=f1e3498] [cursor=pointer]
+                  - tooltip [ref=f1e3503]: Save for later
+              - generic [ref=f1e3506]:
+                - button "Share" [ref=f1e3507] [cursor=pointer]
+                - tooltip [ref=f1e3516]: Share
+              - generic [ref=f1e3521]:
+                - button "More - Missouri Supreme Court finds Secretary of State Denny Hoskins was in contempt during redistricting fight" [ref=f1e3522] [cursor=pointer]
+                - tooltip [ref=f1e3526]: More
+        - generic [ref=f1e3528]:
+          - link [ref=f1e3529] [cursor=pointer]:
+            - /url: ./read/CBMingFBVV95cUxQbm82a29ucHo4NG9YakJyOG9Wcjkwd0RTN2cxTXlIV190ajZIc0h1dFR2Q0JySEd0YWNrNjVOZG94U3Z5STVOX0t3REhmaGIwQlhDcHB0ZkxyZ0tvYV9VNnJjeFg0TlJaTlZMY3hFNEZsQldGcDhLSjZQcG85UDN4bE1IRTRWbHI1ZXpHcmhudUNWeWZ4YkZUTkhicFRmQQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3530]
+          - generic [ref=f1e3531]: Yahoo
+          - heading [level=4] [ref=f1e3534]:
+            - link "The Supreme Court just handed Republicans a surprisingly decisive midterm loss - Yahoo - 11 hours ago - By Ian Millhiser" [ref=f1e3535] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxQbm82a29ucHo4NG9YakJyOG9Wcjkwd0RTN2cxTXlIV190ajZIc0h1dFR2Q0JySEd0YWNrNjVOZG94U3Z5STVOX0t3REhmaGIwQlhDcHB0ZkxyZ0tvYV9VNnJjeFg0TlJaTlZMY3hFNEZsQldGcDhLSjZQcG85UDN4bE1IRTRWbHI1ZXpHcmhudUNWeWZ4YkZUTkhicFRmQQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: The Supreme Court just handed Republicans a surprisingly decisive midterm loss
+          - generic [ref=f1e3536]:
+            - generic [ref=f1e3537]:
+              - time [ref=f1e3538]: 11 hours ago
+              - generic [ref=f1e3539]: • By Ian Millhiser
+            - list [ref=f1e3540]:
+              - generic [ref=f1e3541]:
+                - generic:
+                  - button "Save for later" [ref=f1e3542] [cursor=pointer]
+                  - tooltip [ref=f1e3547]: Save for later
+              - generic [ref=f1e3550]:
+                - button "Share" [ref=f1e3551] [cursor=pointer]
+                - tooltip [ref=f1e3560]: Share
+              - generic [ref=f1e3565]:
+                - button "More - The Supreme Court just handed Republicans a surprisingly decisive midterm loss" [ref=f1e3566] [cursor=pointer]
+                - tooltip [ref=f1e3570]: More
+        - generic [ref=f1e3572]:
+          - link [ref=f1e3573] [cursor=pointer]:
+            - /url: ./read/CBMirAFBVV95cUxNY0hTVm9fWU10UHIyMjNsSld3Ylcxei1hRXpMLU1wSFhZdFVwM3pFb2RtNnFac3VjV0xBeENHeXUwVm9kbXN1UTl1eHNJVjdYbEk4RjhQOWd2NF9BY1dfWTg4Z1d4VkRtMnFfS0VpNTRPeVdqeHBKMGx6SGExMFR3OGVvVEdEd3JUeTAtUC1RSkNvSk8xTlVmem4xRG04Q1liSTVrdUVseFNRLWxI?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3574]
+          - generic [ref=f1e3575]: Esquire
+          - heading [level=4] [ref=f1e3578]:
+            - link "Wait, Did the Supreme Court Actually Make a Sane Decision About Outrageous Republican Redistricting Maps? - Esquire - 6 hours ago - By Charlie Pierce" [ref=f1e3579] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxNY0hTVm9fWU10UHIyMjNsSld3Ylcxei1hRXpMLU1wSFhZdFVwM3pFb2RtNnFac3VjV0xBeENHeXUwVm9kbXN1UTl1eHNJVjdYbEk4RjhQOWd2NF9BY1dfWTg4Z1d4VkRtMnFfS0VpNTRPeVdqeHBKMGx6SGExMFR3OGVvVEdEd3JUeTAtUC1RSkNvSk8xTlVmem4xRG04Q1liSTVrdUVseFNRLWxI?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Wait, Did the Supreme Court Actually Make a Sane Decision About Outrageous Republican Redistricting Maps?
+          - generic [ref=f1e3580]:
+            - generic [ref=f1e3581]:
+              - time [ref=f1e3582]: 6 hours ago
+              - generic [ref=f1e3583]: • By Charlie Pierce
+            - list [ref=f1e3584]:
+              - generic [ref=f1e3585]:
+                - generic:
+                  - button "Save for later" [ref=f1e3586] [cursor=pointer]
+                  - tooltip [ref=f1e3591]: Save for later
+              - generic [ref=f1e3594]:
+                - button "Share" [ref=f1e3595] [cursor=pointer]
+                - tooltip [ref=f1e3604]: Share
+              - generic [ref=f1e3609]:
+                - button "More - Wait, Did the Supreme Court Actually Make a Sane Decision About Outrageous Republican Redistricting Maps?" [ref=f1e3610] [cursor=pointer]
+                - tooltip [ref=f1e3614]: More
+        - generic [ref=f1e3616]:
+          - link [ref=f1e3617] [cursor=pointer]:
+            - /url: ./read/CBMiyAFBVV95cUxPMXRFaVFLRVd1c29TQlFHTnItaDdkeTd6eEJnQko5WEpYbURYc0d5MUhKcC1GVjhKek96bUEyTktZZXpaUUh2TDM4SFlLa0xiU1RSQ3NtbkdQUklMaTg0c1RfcF9Da2ZpNS1jNUNEVG9sQnR3Q0diRE5ROUJSdGtGX2hMaGZDU3RZOVo3ajZTR3FHUm5YbFA4VlN1dHhYWGJzeV9tYnRtb1QtMmNBOHpkbmxCSWRTR2hDMGhHQ0l4ZXV1dk1ZbnhhZg?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3618]
+          - generic [ref=f1e3619]: USA Today
+          - heading [level=4] [ref=f1e3622]:
+            - link "Supreme Court blocks GOP-preferred congressional map in Missouri - USA Today - 8 hours ago - By Maureen Groppe" [ref=f1e3623] [cursor=pointer]:
+              - /url: ./read/CBMiyAFBVV95cUxPMXRFaVFLRVd1c29TQlFHTnItaDdkeTd6eEJnQko5WEpYbURYc0d5MUhKcC1GVjhKek96bUEyTktZZXpaUUh2TDM4SFlLa0xiU1RSQ3NtbkdQUklMaTg0c1RfcF9Da2ZpNS1jNUNEVG9sQnR3Q0diRE5ROUJSdGtGX2hMaGZDU3RZOVo3ajZTR3FHUm5YbFA4VlN1dHhYWGJzeV9tYnRtb1QtMmNBOHpkbmxCSWRTR2hDMGhHQ0l4ZXV1dk1ZbnhhZg?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Supreme Court blocks GOP-preferred congressional map in Missouri
+          - generic [ref=f1e3624]:
+            - generic [ref=f1e3625]:
+              - time [ref=f1e3626]: 8 hours ago
+              - generic [ref=f1e3627]: • By Maureen Groppe
+            - list [ref=f1e3628]:
+              - generic [ref=f1e3629]:
+                - generic:
+                  - button "Save for later" [ref=f1e3630] [cursor=pointer]
+                  - tooltip [ref=f1e3635]: Save for later
+              - generic [ref=f1e3638]:
+                - button "Share" [ref=f1e3639] [cursor=pointer]
+                - tooltip [ref=f1e3648]: Share
+              - generic [ref=f1e3653]:
+                - button "More - Supreme Court blocks GOP-preferred congressional map in Missouri" [ref=f1e3654] [cursor=pointer]
+                - tooltip [ref=f1e3658]: More
+        - generic [ref=f1e3660]:
+          - link [ref=f1e3661] [cursor=pointer]:
+            - /url: ./read/CBMiogFBVV95cUxPR2pNRU02eTZuX01TOEhnOHpHRlFsLXpHQlh4Zzd2WnNJcDVISVVhbE9xQ0VhTm9DRXpoVEhVODkzZ3JFUXVsVThZdk5SUnVZbmJHMkYzYmRCT2ZydVJncmlZdHU4Mm9PRDVpSl85eHYtTGJZU29JYWxMeVpwSldkYTY3X1BIS29NZDhkclhvUVlLTTNKTG1KUEhuZ2xBR2h4MGc?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3662]
+          - generic [ref=f1e3663]: KRCG
+          - heading [level=4] [ref=f1e3666]:
+            - link "Missouri Supreme Court holds Secretary of State Denny Hoskins in contempt, then clears it - KRCG - 3 hours ago - By Jennifer Weiser" [ref=f1e3667] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxPR2pNRU02eTZuX01TOEhnOHpHRlFsLXpHQlh4Zzd2WnNJcDVISVVhbE9xQ0VhTm9DRXpoVEhVODkzZ3JFUXVsVThZdk5SUnVZbmJHMkYzYmRCT2ZydVJncmlZdHU4Mm9PRDVpSl85eHYtTGJZU29JYWxMeVpwSldkYTY3X1BIS29NZDhkclhvUVlLTTNKTG1KUEhuZ2xBR2h4MGc?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri Supreme Court holds Secretary of State Denny Hoskins in contempt, then clears it
+          - generic [ref=f1e3668]:
+            - generic [ref=f1e3669]:
+              - time [ref=f1e3670]: 3 hours ago
+              - generic [ref=f1e3671]: • By Jennifer Weiser
+            - list [ref=f1e3672]:
+              - generic [ref=f1e3673]:
+                - generic:
+                  - button "Save for later" [ref=f1e3674] [cursor=pointer]
+                  - tooltip [ref=f1e3679]: Save for later
+              - generic [ref=f1e3682]:
+                - button "Share" [ref=f1e3683] [cursor=pointer]
+                - tooltip [ref=f1e3692]: Share
+              - generic [ref=f1e3697]:
+                - button "More - Missouri Supreme Court holds Secretary of State Denny Hoskins in contempt, then clears it" [ref=f1e3698] [cursor=pointer]
+                - tooltip [ref=f1e3702]: More
+        - generic [ref=f1e3704]:
+          - link [ref=f1e3705] [cursor=pointer]:
+            - /url: ./read/CBMi2AFBVV95cUxONEZ6SGRERGpLNVlCRUlKS1I1WmhPR1N6STQwY3JUcUpJM2FKeGJDRHd3U0NqbENXTFVLblp4Ry1QdmE4clRJRDNra0hPeE40T3BPZXpZOWdfbTZKWExUSUwwVGpKb1F5MUJRQnZzV1FBeGF4djJvazhBRG1vYXREWENLOWpDeXFWVTgxc1BDNEVubkEzM3NTSmNjUHRZYXN4SWZzNjJRcC1MWnlNdGtUTzQ3OVptTjlzNWFvUURpd0RDZTRhbldNcWRBa3BoTHFyWWhYZllfZFo?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3706]
+          - generic [ref=f1e3707]: New York Post
+          - heading [level=4] [ref=f1e3710]:
+            - link "House lawmaker sues to reverse Missouri Supreme Court’s ‘startling’ decision to block GOP-friendly congressional map - New York Post - 4 days ago - By Victor Nava" [ref=f1e3711] [cursor=pointer]:
+              - /url: ./read/CBMi2AFBVV95cUxONEZ6SGRERGpLNVlCRUlKS1I1WmhPR1N6STQwY3JUcUpJM2FKeGJDRHd3U0NqbENXTFVLblp4Ry1QdmE4clRJRDNra0hPeE40T3BPZXpZOWdfbTZKWExUSUwwVGpKb1F5MUJRQnZzV1FBeGF4djJvazhBRG1vYXREWENLOWpDeXFWVTgxc1BDNEVubkEzM3NTSmNjUHRZYXN4SWZzNjJRcC1MWnlNdGtUTzQ3OVptTjlzNWFvUURpd0RDZTRhbldNcWRBa3BoTHFyWWhYZllfZFo?hl=en-US&gl=US&ceid=US%3Aen
+              - text: House lawmaker sues to reverse Missouri Supreme Court’s ‘startling’ decision to block GOP-friendly congressional map
+          - generic [ref=f1e3712]:
+            - generic [ref=f1e3713]:
+              - time [ref=f1e3714]: 4 days ago
+              - generic [ref=f1e3715]: • By Victor Nava
+            - list [ref=f1e3716]:
+              - generic [ref=f1e3717]:
+                - generic:
+                  - button "Save for later" [ref=f1e3718] [cursor=pointer]
+                  - tooltip [ref=f1e3723]: Save for later
+              - generic [ref=f1e3726]:
+                - button "Share" [ref=f1e3727] [cursor=pointer]
+                - tooltip [ref=f1e3736]: Share
+              - generic [ref=f1e3741]:
+                - button "More - House lawmaker sues to reverse Missouri Supreme Court’s ‘startling’ decision to block GOP-friendly congressional map" [ref=f1e3742] [cursor=pointer]
+                - tooltip [ref=f1e3746]: More
+        - generic [ref=f1e3748]:
+          - link [ref=f1e3749] [cursor=pointer]:
+            - /url: ./read/CBMikAFBVV95cUxPSHJVcXpPMG5EenNVTEZzWkpSSGx0Q043NVZVcW5LZ0lzWWp2RV9ucjB3aUhDMDQ4V1ZXZWxIMWNjR3FDVlNwUFpuUENFM1VuLXVoV3BiNnpZM3B1NkxhZUZzM04zMk9sSHVCRTZCbWd2T1ZlZmcxbjZBbl8wajQ5OE9iZ3FDQVR4aGlKRENGVnE?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3750]
+          - generic [ref=f1e3751]: CBS News
+          - heading [level=4] [ref=f1e3754]:
+            - link "Missouri's top court blocks new House map favoring Republicans until voters can weigh in - CBS News - 8 days ago" [ref=f1e3755] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxPSHJVcXpPMG5EenNVTEZzWkpSSGx0Q043NVZVcW5LZ0lzWWp2RV9ucjB3aUhDMDQ4V1ZXZWxIMWNjR3FDVlNwUFpuUENFM1VuLXVoV3BiNnpZM3B1NkxhZUZzM04zMk9sSHVCRTZCbWd2T1ZlZmcxbjZBbl8wajQ5OE9iZ3FDQVR4aGlKRENGVnE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri's top court blocks new House map favoring Republicans until voters can weigh in
+          - generic [ref=f1e3756]:
+            - time [ref=f1e3758]: 8 days ago
+            - list [ref=f1e3759]:
+              - generic [ref=f1e3760]:
+                - generic:
+                  - button "Save for later" [ref=f1e3761] [cursor=pointer]
+                  - tooltip [ref=f1e3766]: Save for later
+              - generic [ref=f1e3769]:
+                - button "Share" [ref=f1e3770] [cursor=pointer]
+                - tooltip [ref=f1e3779]: Share
+              - generic [ref=f1e3784]:
+                - button "More - Missouri's top court blocks new House map favoring Republicans until voters can weigh in" [ref=f1e3785] [cursor=pointer]
+                - tooltip [ref=f1e3789]: More
+        - generic [ref=f1e3791]:
+          - link [ref=f1e3792] [cursor=pointer]:
+            - /url: ./read/CBMirwFBVV95cUxNN25aVVA4MlFRUDVWSUNvclBHWXpydlF6SFdsOHlneFZZZmFPcUtnc1Q4RUhJWENtZE5KN3FRel9vX1BBM0NIOGFvX2pfWmhtcXhGZlU5OWdBMXVSOTdTNm84V1dQbTdneEZ0Vkx3d0F0dnpvS2xtbFFDZHdkT1dVTVV2VGpJSEhDMXZLaUM1dlF3RDdCbVhGb0VYSFpYU0ZBNVZEX3YtSFgzLU1CYlV30gG0AUFVX3lxTFBJS0pNRGgtZy1GX0NDWm1famxuRXNxN2hJR3FWVllHSTZIYWlPS3gxYmZwTUNKSWVPa3N1TW9aZlo5MkZxWldxMzA3SG5GeFZOMkdCLWpTS2Z3VmlQd2RoUnN1QXF5RFFpVHZJWHU5RTlfOFdobW1PVmxXQVRkQzVqX2pQeUtmQVdmaTE0eXhYSUN4SEg0eHZKTjVkR3VMQ0NGLWxKbThoS3RLeFhlczlhQUVXVg?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3793]
+          - generic [ref=f1e3794]: Al Jazeera
+          - heading [level=4] [ref=f1e3797]:
+            - link "Missouri Supreme Court blocks Trump-backed map from November’s midterms - Al Jazeera - 8 days ago" [ref=f1e3798] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxNN25aVVA4MlFRUDVWSUNvclBHWXpydlF6SFdsOHlneFZZZmFPcUtnc1Q4RUhJWENtZE5KN3FRel9vX1BBM0NIOGFvX2pfWmhtcXhGZlU5OWdBMXVSOTdTNm84V1dQbTdneEZ0Vkx3d0F0dnpvS2xtbFFDZHdkT1dVTVV2VGpJSEhDMXZLaUM1dlF3RDdCbVhGb0VYSFpYU0ZBNVZEX3YtSFgzLU1CYlV30gG0AUFVX3lxTFBJS0pNRGgtZy1GX0NDWm1famxuRXNxN2hJR3FWVllHSTZIYWlPS3gxYmZwTUNKSWVPa3N1TW9aZlo5MkZxWldxMzA3SG5GeFZOMkdCLWpTS2Z3VmlQd2RoUnN1QXF5RFFpVHZJWHU5RTlfOFdobW1PVmxXQVRkQzVqX2pQeUtmQVdmaTE0eXhYSUN4SEg0eHZKTjVkR3VMQ0NGLWxKbThoS3RLeFhlczlhQUVXVg?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri Supreme Court blocks Trump-backed map from November’s midterms
+          - generic [ref=f1e3799]:
+            - time [ref=f1e3801]: 8 days ago
+            - list [ref=f1e3802]:
+              - generic [ref=f1e3803]:
+                - generic:
+                  - button "Save for later" [ref=f1e3804] [cursor=pointer]
+                  - tooltip [ref=f1e3809]: Save for later
+              - generic [ref=f1e3812]:
+                - button "Share" [ref=f1e3813] [cursor=pointer]
+                - tooltip [ref=f1e3822]: Share
+              - generic [ref=f1e3827]:
+                - button "More - Missouri Supreme Court blocks Trump-backed map from November’s midterms" [ref=f1e3828] [cursor=pointer]
+                - tooltip [ref=f1e3832]: More
+        - generic [ref=f1e3834]:
+          - link [ref=f1e3835] [cursor=pointer]:
+            - /url: ./read/CBMixwFBVV95cUxNZ1ZISmYycVVYdEdTSnhGNm4zem9ZNk5UUHFrZUNvR0xBWEIydERaNE9LbV80YmtOc015RWVvWWszN050d0tPWi1JOHhuQmN4T0pTVEZrWVkzOEdrNDQ3M2hmTXByXzFSN1RZRWZ3U3pTVWVIMzFab3NGajcyRjlBSWdPeTNUcEt0WC1HRi1PR25XTHJuSm9WVzZZSVhRNjRjNmlRZG5ySHpIbHlJZUlYZ1hydXZZaGpxZ2tOaVR1dDV1bzRyUGRr?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3836]
+          - generic [ref=f1e3837]: missouriindependent.com
+          - heading [level=4] [ref=f1e3840]:
+            - link "Missouri Supreme Court blocks gerrymandered congressional map, orders referendum vote - missouriindependent.com - 8 days ago - By Rudi Keller" [ref=f1e3841] [cursor=pointer]:
+              - /url: ./read/CBMixwFBVV95cUxNZ1ZISmYycVVYdEdTSnhGNm4zem9ZNk5UUHFrZUNvR0xBWEIydERaNE9LbV80YmtOc015RWVvWWszN050d0tPWi1JOHhuQmN4T0pTVEZrWVkzOEdrNDQ3M2hmTXByXzFSN1RZRWZ3U3pTVWVIMzFab3NGajcyRjlBSWdPeTNUcEt0WC1HRi1PR25XTHJuSm9WVzZZSVhRNjRjNmlRZG5ySHpIbHlJZUlYZ1hydXZZaGpxZ2tOaVR1dDV1bzRyUGRr?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri Supreme Court blocks gerrymandered congressional map, orders referendum vote
+          - generic [ref=f1e3842]:
+            - generic [ref=f1e3843]:
+              - time [ref=f1e3844]: 8 days ago
+              - generic [ref=f1e3845]: • By Rudi Keller
+            - list [ref=f1e3846]:
+              - generic [ref=f1e3847]:
+                - generic:
+                  - button "Save for later" [ref=f1e3848] [cursor=pointer]
+                  - tooltip [ref=f1e3853]: Save for later
+              - generic [ref=f1e3856]:
+                - button "Share" [ref=f1e3857] [cursor=pointer]
+                - tooltip [ref=f1e3866]: Share
+              - generic [ref=f1e3871]:
+                - button "More - Missouri Supreme Court blocks gerrymandered congressional map, orders referendum vote" [ref=f1e3872] [cursor=pointer]
+                - tooltip [ref=f1e3876]: More
+        - generic [ref=f1e3878]:
+          - link [ref=f1e3879] [cursor=pointer]:
+            - /url: ./read/CBMivAFBVV95cUxQSW1oYld4Q3VhX1NhTDFTemtxMnZXT0ZpeFJzeGVCMThIcHY5WjhibXl5U0dhSXJUTlRPWWs1WGNBYlk3RnZYV3puRXMxTVR6N1NkVlQ5UUh3eDRpb1BvNmIzVk43Y3ViUUZhdmp6ejNEOUl2TmNYbEtmVUdlcUxCWElldnZSTzI4bmVnM1NZZnp6NkZMOXA4blNNU3Niak53akU2NFNrQWt3Um5LcUZkbnJFc1ZjclZ6OEVEdQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3880]
+          - generic [ref=f1e3881]: missouriindependent.com
+          - heading [level=4] [ref=f1e3884]:
+            - link "Republicans created Missouri’s redistricting mess. Now they’re furious about it. - missouriindependent.com - 4 days ago - By Jason Hancock" [ref=f1e3885] [cursor=pointer]:
+              - /url: ./read/CBMivAFBVV95cUxQSW1oYld4Q3VhX1NhTDFTemtxMnZXT0ZpeFJzeGVCMThIcHY5WjhibXl5U0dhSXJUTlRPWWs1WGNBYlk3RnZYV3puRXMxTVR6N1NkVlQ5UUh3eDRpb1BvNmIzVk43Y3ViUUZhdmp6ejNEOUl2TmNYbEtmVUdlcUxCWElldnZSTzI4bmVnM1NZZnp6NkZMOXA4blNNU3Niak53akU2NFNrQWt3Um5LcUZkbnJFc1ZjclZ6OEVEdQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Republicans created Missouri’s redistricting mess. Now they’re furious about it.
+          - generic [ref=f1e3886]:
+            - generic [ref=f1e3887]:
+              - time [ref=f1e3888]: 4 days ago
+              - generic [ref=f1e3889]: • By Jason Hancock
+            - list [ref=f1e3890]:
+              - generic [ref=f1e3891]:
+                - generic:
+                  - button "Save for later" [ref=f1e3892] [cursor=pointer]
+                  - tooltip [ref=f1e3897]: Save for later
+              - generic [ref=f1e3900]:
+                - button "Share" [ref=f1e3901] [cursor=pointer]
+                - tooltip [ref=f1e3910]: Share
+              - generic [ref=f1e3915]:
+                - button "More - Republicans created Missouri’s redistricting mess. Now they’re furious about it." [ref=f1e3916] [cursor=pointer]
+                - tooltip [ref=f1e3920]: More
+        - generic [ref=f1e3922]:
+          - link [ref=f1e3923] [cursor=pointer]:
+            - /url: ./read/CBMixgFBVV95cUxOak5RdFh1czNRUDV2QzVsdXVOM0s5UTlYRXB0blE1MnRDTk5DTVlYbTlYdzhaaDhZbzk5MGJJcnNMclhFWGhzMmdiVGFQemlUVXZtZFNqb0cyZ2lSYVlRZko1WGM5TUxSQ1R1SWk1UGxOTnZkeTVxZE5NUmJvUkFoOXoxU2ptVDJkX0pxUGRjOHMtY0NzYkhfR2dpU24wMkU5WVJrRjhtRFpaY2xraWdqTjVObnNoc2s2N19OTWZvbE1ubmVPTHc?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3924]
+          - generic [ref=f1e3925]: missouriindependent.com
+          - heading [level=4] [ref=f1e3928]:
+            - link "Missouri Supreme Court questions effort to keep redistricting referendum off ballot - missouriindependent.com - 9 days ago - By Rudi Keller" [ref=f1e3929] [cursor=pointer]:
+              - /url: ./read/CBMixgFBVV95cUxOak5RdFh1czNRUDV2QzVsdXVOM0s5UTlYRXB0blE1MnRDTk5DTVlYbTlYdzhaaDhZbzk5MGJJcnNMclhFWGhzMmdiVGFQemlUVXZtZFNqb0cyZ2lSYVlRZko1WGM5TUxSQ1R1SWk1UGxOTnZkeTVxZE5NUmJvUkFoOXoxU2ptVDJkX0pxUGRjOHMtY0NzYkhfR2dpU24wMkU5WVJrRjhtRFpaY2xraWdqTjVObnNoc2s2N19OTWZvbE1ubmVPTHc?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri Supreme Court questions effort to keep redistricting referendum off ballot
+          - generic [ref=f1e3930]:
+            - generic [ref=f1e3931]:
+              - time [ref=f1e3932]: 9 days ago
+              - generic [ref=f1e3933]: • By Rudi Keller
+            - list [ref=f1e3934]:
+              - generic [ref=f1e3935]:
+                - generic:
+                  - button "Save for later" [ref=f1e3936] [cursor=pointer]
+                  - tooltip [ref=f1e3941]: Save for later
+              - generic [ref=f1e3944]:
+                - button "Share" [ref=f1e3945] [cursor=pointer]
+                - tooltip [ref=f1e3954]: Share
+              - generic [ref=f1e3959]:
+                - button "More - Missouri Supreme Court questions effort to keep redistricting referendum off ballot" [ref=f1e3960] [cursor=pointer]
+                - tooltip [ref=f1e3964]: More
+        - generic [ref=f1e3966]:
+          - link [ref=f1e3967] [cursor=pointer]:
+            - /url: ./read/CBMizAFBVV95cUxOZTB4Wi1scGhqcUpWc2V0RmI0RThFUFNnR1J3TC1PQ0hvT09qc2NhaG13UFNRR3BWOURXTWxNMkJHZUNFbWhSOXZ5RUxWOWZOMGFfR3dpeE5HNzBqM0FadG1VN0JhSl9VQnR2Ny1nMjhnTHNQZGEwampoY2I2VFZaT0kyOG13TXVOdWVGNHN6alltUkI3cTVNdEduM09pR0VIOFRBS2RCY1pEYkxNVXJCLTNuMUNwQ0JzOVEwVGRVTjRJTTJIOWNqalB6eS0?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e3968]
+          - generic [ref=f1e3969]: SCOTUSblog
+          - heading [level=4] [ref=f1e3972]:
+            - link "Missouri organizer urges Supreme Court to leave ruling in place preventing use of congressional map expected to benefit Republicans - SCOTUSblog - 4 days ago - By Amy Howe" [ref=f1e3973] [cursor=pointer]:
+              - /url: ./read/CBMizAFBVV95cUxOZTB4Wi1scGhqcUpWc2V0RmI0RThFUFNnR1J3TC1PQ0hvT09qc2NhaG13UFNRR3BWOURXTWxNMkJHZUNFbWhSOXZ5RUxWOWZOMGFfR3dpeE5HNzBqM0FadG1VN0JhSl9VQnR2Ny1nMjhnTHNQZGEwampoY2I2VFZaT0kyOG13TXVOdWVGNHN6alltUkI3cTVNdEduM09pR0VIOFRBS2RCY1pEYkxNVXJCLTNuMUNwQ0JzOVEwVGRVTjRJTTJIOWNqalB6eS0?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri organizer urges Supreme Court to leave ruling in place preventing use of congressional map expected to benefit Republicans
+          - generic [ref=f1e3974]:
+            - generic [ref=f1e3975]:
+              - time [ref=f1e3976]: 4 days ago
+              - generic [ref=f1e3977]: • By Amy Howe
+            - list [ref=f1e3978]:
+              - generic [ref=f1e3979]:
+                - generic:
+                  - button "Save for later" [ref=f1e3980] [cursor=pointer]
+                  - tooltip [ref=f1e3985]: Save for later
+              - generic [ref=f1e3988]:
+                - button "Share" [ref=f1e3989] [cursor=pointer]
+                - tooltip [ref=f1e3998]: Share
+              - generic [ref=f1e4003]:
+                - button "More - Missouri organizer urges Supreme Court to leave ruling in place preventing use of congressional map expected to benefit Republicans" [ref=f1e4004] [cursor=pointer]
+                - tooltip [ref=f1e4008]: More
+        - generic [ref=f1e4010]:
+          - link [ref=f1e4011] [cursor=pointer]:
+            - /url: ./read/CBMirAFBVV95cUxPd1YxeWZRQmROWXZTLWdKRzVCdUxkZ0pCZ2g1cFZWTHBnalZXbkFtajFaSldKWVhlUUZPTkdWQ21aSUlsaEx5MlRkeE5sazJKQU9zbzVYZnJfRG83UjBQRkE1Uk1QX1JfWmROX3lWM2Nocm5UMEFBM2xNNFBmMjVWbENjMmktUVJ2Y2FWZFVDRlVfYndaUGkzeEx1cTFGUzBPM3RzLWt5N0dXVnR3?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e4012]
+          - generic [ref=f1e4013]: missouriindependent.com
+          - heading [level=4] [ref=f1e4016]:
+            - link "Missouri AG trashes state Supreme Court ruling in federal filing - missouriindependent.com - 4 days ago - By Rudi Keller" [ref=f1e4017] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxPd1YxeWZRQmROWXZTLWdKRzVCdUxkZ0pCZ2g1cFZWTHBnalZXbkFtajFaSldKWVhlUUZPTkdWQ21aSUlsaEx5MlRkeE5sazJKQU9zbzVYZnJfRG83UjBQRkE1Uk1QX1JfWmROX3lWM2Nocm5UMEFBM2xNNFBmMjVWbENjMmktUVJ2Y2FWZFVDRlVfYndaUGkzeEx1cTFGUzBPM3RzLWt5N0dXVnR3?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri AG trashes state Supreme Court ruling in federal filing
+          - generic [ref=f1e4018]:
+            - generic [ref=f1e4019]:
+              - time [ref=f1e4020]: 4 days ago
+              - generic [ref=f1e4021]: • By Rudi Keller
+            - list [ref=f1e4022]:
+              - generic [ref=f1e4023]:
+                - generic:
+                  - button "Save for later" [ref=f1e4024] [cursor=pointer]
+                  - tooltip [ref=f1e4029]: Save for later
+              - generic [ref=f1e4032]:
+                - button "Share" [ref=f1e4033] [cursor=pointer]
+                - tooltip [ref=f1e4042]: Share
+              - generic [ref=f1e4047]:
+                - button "More - Missouri AG trashes state Supreme Court ruling in federal filing" [ref=f1e4048] [cursor=pointer]
+                - tooltip [ref=f1e4052]: More
+        - generic [ref=f1e4054]:
+          - link [ref=f1e4055] [cursor=pointer]:
+            - /url: ./read/CBMikgFBVV95cUxQNTVkM1FaLXAtcl83bXN0NnhqOWxLOVZLcnBTLU1DVjlaenFKenRIX3pTMmpiQXN0Y2FVY2J0Q2YwOXBJa0M3TTNGZWpWQU1EZVROcXJ5MUxmdDBtT3NKMXZpYkN0N3J2djRtTTY5cThoaG9GRk16RmMwMDUzY25yUlV6V1hHOGdwSUpRTzVPWTBidw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e4056]
+          - generic [ref=f1e4057]: The New Republic
+          - heading [level=4] [ref=f1e4060]:
+            - link "Trump Spirals After Missouri Supreme Court Hands Him Massive Loss - The New Republic - 7 days ago - By Malcolm Ferguson" [ref=f1e4061] [cursor=pointer]:
+              - /url: ./read/CBMikgFBVV95cUxQNTVkM1FaLXAtcl83bXN0NnhqOWxLOVZLcnBTLU1DVjlaenFKenRIX3pTMmpiQXN0Y2FVY2J0Q2YwOXBJa0M3TTNGZWpWQU1EZVROcXJ5MUxmdDBtT3NKMXZpYkN0N3J2djRtTTY5cThoaG9GRk16RmMwMDUzY25yUlV6V1hHOGdwSUpRTzVPWTBidw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump Spirals After Missouri Supreme Court Hands Him Massive Loss
+          - generic [ref=f1e4062]:
+            - generic [ref=f1e4063]:
+              - time [ref=f1e4064]: 7 days ago
+              - generic [ref=f1e4065]: • By Malcolm Ferguson
+            - list [ref=f1e4066]:
+              - generic [ref=f1e4067]:
+                - generic:
+                  - button "Save for later" [ref=f1e4068] [cursor=pointer]
+                  - tooltip [ref=f1e4073]: Save for later
+              - generic [ref=f1e4076]:
+                - button "Share" [ref=f1e4077] [cursor=pointer]
+                - tooltip [ref=f1e4086]: Share
+              - generic [ref=f1e4091]:
+                - button "More - Trump Spirals After Missouri Supreme Court Hands Him Massive Loss" [ref=f1e4092] [cursor=pointer]
+                - tooltip [ref=f1e4096]: More
+        - generic [ref=f1e4098]:
+          - link [ref=f1e4099] [cursor=pointer]:
+            - /url: ./read/CBMiugFBVV95cUxOcC15eXhmckRoWWcyN1c5NF9tOC0xYlJ4WjlIcU0wbGNnRlpiTVZfTEdxVWNYN1NlRmdPUjFycV9IVGs4RGlTOWRHYTVCWURyeU05NGVRb3IwTDl3Z2pkYV80VDc0X2pheXJSMlktYzYyS0pjRldLSmliMWM0bEI3Q2dJc3RXZHIwMG1hNGcxMldGN0JuZi1PSG1EWEZqT3Q1NDFZZDhlSk5zblZpTldCS2RBS3Z3SHR3SVE?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e4100]
+          - generic [ref=f1e4101]: missouriindependent.com
+          - heading [level=4] [ref=f1e4104]:
+            - link "Missouri vote on initiative protections now before the state Supreme Court - missouriindependent.com - 9 days ago - By Rudi Keller" [ref=f1e4105] [cursor=pointer]:
+              - /url: ./read/CBMiugFBVV95cUxOcC15eXhmckRoWWcyN1c5NF9tOC0xYlJ4WjlIcU0wbGNnRlpiTVZfTEdxVWNYN1NlRmdPUjFycV9IVGs4RGlTOWRHYTVCWURyeU05NGVRb3IwTDl3Z2pkYV80VDc0X2pheXJSMlktYzYyS0pjRldLSmliMWM0bEI3Q2dJc3RXZHIwMG1hNGcxMldGN0JuZi1PSG1EWEZqT3Q1NDFZZDhlSk5zblZpTldCS2RBS3Z3SHR3SVE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri vote on initiative protections now before the state Supreme Court
+          - generic [ref=f1e4106]:
+            - generic [ref=f1e4107]:
+              - time [ref=f1e4108]: 9 days ago
+              - generic [ref=f1e4109]: • By Rudi Keller
+            - list [ref=f1e4110]:
+              - generic [ref=f1e4111]:
+                - generic:
+                  - button "Save for later" [ref=f1e4112] [cursor=pointer]
+                  - tooltip [ref=f1e4117]: Save for later
+              - generic [ref=f1e4120]:
+                - button "Share" [ref=f1e4121] [cursor=pointer]
+                - tooltip [ref=f1e4130]: Share
+              - generic [ref=f1e4135]:
+                - button "More - Missouri vote on initiative protections now before the state Supreme Court" [ref=f1e4136] [cursor=pointer]
+                - tooltip [ref=f1e4140]: More
+        - generic [ref=f1e4142]:
+          - link [ref=f1e4143] [cursor=pointer]:
+            - /url: ./read/CBMilAFBVV95cUxONzN6VXEwWnhyWVU5bmJHcDlXRERWMXdxQWlEZVlMNWQyM1FEcmtmekFjenpxSlF0SFAyUldDWVhvUE5ZM2hwa0FfaUJSRFVIMXk2T0c5eUFBdGIzcUJ2b0ZKTFNHMnJibnFQQ2ViSG52YVpKRkxCUGQ5V0l6WWhVeEp3WnlKeXpuZXd0NjdiWEpnc0ll?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e4144]
+          - generic [ref=f1e4145]: CNN
+          - heading [level=4] [ref=f1e4148]:
+            - link "Missouri asks Supreme Court to allow congressional map with extra GOP seat ahead of midterms - CNN - 7 days ago - By Ethan Cohen & John Fritze" [ref=f1e4149] [cursor=pointer]:
+              - /url: ./read/CBMilAFBVV95cUxONzN6VXEwWnhyWVU5bmJHcDlXRERWMXdxQWlEZVlMNWQyM1FEcmtmekFjenpxSlF0SFAyUldDWVhvUE5ZM2hwa0FfaUJSRFVIMXk2T0c5eUFBdGIzcUJ2b0ZKTFNHMnJibnFQQ2ViSG52YVpKRkxCUGQ5V0l6WWhVeEp3WnlKeXpuZXd0NjdiWEpnc0ll?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Missouri asks Supreme Court to allow congressional map with extra GOP seat ahead of midterms
+          - generic [ref=f1e4150]:
+            - generic [ref=f1e4151]:
+              - time [ref=f1e4152]: 7 days ago
+              - generic [ref=f1e4153]: • By Ethan Cohen & John Fritze
+            - list [ref=f1e4154]:
+              - generic [ref=f1e4155]:
+                - generic:
+                  - button "Save for later" [ref=f1e4156] [cursor=pointer]
+                  - tooltip [ref=f1e4161]: Save for later
+              - generic [ref=f1e4164]:
+                - button "Share" [ref=f1e4165] [cursor=pointer]
+                - tooltip [ref=f1e4174]: Share
+              - generic [ref=f1e4179]:
+                - button "More - Missouri asks Supreme Court to allow congressional map with extra GOP seat ahead of midterms" [ref=f1e4180] [cursor=pointer]
+                - tooltip [ref=f1e4184]: More
+        - generic [ref=f1e4186]:
+          - link [ref=f1e4187] [cursor=pointer]:
+            - /url: ./read/CBMiywFBVV95cUxPT2w3bmRjQ2ZYVVV4UXhCSF9lVnItS1pVV2dkOWxtVUI2d2xJYnhmYXg4Y0EyTVo1WE9EQWdEdng5aExjMWZCd2I2U09nTDhFYTlQM0dkcXpSNXd5N0Y2c1V3VFd1U2tFa28tNFV6dkpiV2N5RWpWbm8zeG9zd1R6dGZmSWdpMzFBQk1LTkVkUjlYZ0NuTV80S0wwNGpudzAydDJuVGVqQlV0VHBLRC0xX3NXSUJsdFNPWk9MVFZQaGxRdkl1WmlrTGljdw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=f1e4188]
+          - generic [ref=f1e4189]: missouriindependent.com
+          - heading [level=4] [ref=f1e4192]:
+            - 'link "‘Just pick’: Missouri clerks dispute claim that switching congressional maps is impossible - missouriindependent.com - 10 days ago - By Rudi Keller" [ref=f1e4193] [cursor=pointer]':
+              - /url: ./read/CBMiywFBVV95cUxPT2w3bmRjQ2ZYVVV4UXhCSF9lVnItS1pVV2dkOWxtVUI2d2xJYnhmYXg4Y0EyTVo1WE9EQWdEdng5aExjMWZCd2I2U09nTDhFYTlQM0dkcXpSNXd5N0Y2c1V3VFd1U2tFa28tNFV6dkpiV2N5RWpWbm8zeG9zd1R6dGZmSWdpMzFBQk1LTkVkUjlYZ0NuTV80S0wwNGpudzAydDJuVGVqQlV0VHBLRC0xX3NXSUJsdFNPWk9MVFZQaGxRdkl1WmlrTGljdw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "‘Just pick’: Missouri clerks dispute claim that switching congressional maps is impossible"
+          - generic [ref=f1e4194]:
+            - generic [ref=f1e4195]:
+              - time [ref=f1e4196]: 10 days ago
+              - generic [ref=f1e4197]: • By Rudi Keller
+            - list [ref=f1e4198]:
+              - generic [ref=f1e4199]:
+                - generic:
+                  - button "Save for later" [ref=f1e4200] [cursor=pointer]
+                  - tooltip [ref=f1e4205]: Save for later
+              - generic [ref=f1e4208]:
+                - button "Share" [ref=f1e4209] [cursor=pointer]
+                - tooltip [ref=f1e4218]: Share
+              - generic [ref=f1e4223]:
+                - 'button "More - ‘Just pick’: Missouri clerks dispute claim that switching congressional maps is impossible" [ref=f1e4224] [cursor=pointer]'
+                - tooltip [ref=f1e4228]: More
