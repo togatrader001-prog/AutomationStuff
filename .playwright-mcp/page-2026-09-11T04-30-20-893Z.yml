@@ -1,0 +1,1188 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Google News" [ref=e8] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e10]: News
+      - generic [ref=e11]:
+        - search [ref=e13]:
+          - generic [ref=e18]:
+            - combobox "Search for topics, locations & sources" [ref=e20]
+            - status
+          - button "Advanced search" [ref=e21] [cursor=pointer]:
+            - generic [ref=e22]:
+              - generic "Advanced search" [ref=e23]
+              - tooltip [ref=e26]: Advanced search
+          - button "Search" [ref=e27] [cursor=pointer]
+        - generic [ref=e31]:
+          - generic [ref=e36]:
+            - button "Help" [ref=e37] [cursor=pointer]
+            - tooltip [ref=e41]: Help
+          - generic [ref=e46]:
+            - button "Settings" [ref=e47] [cursor=pointer]
+            - tooltip [ref=e52]: Settings
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e58] [cursor=pointer]
+        - link "Sign in" [ref=e62] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+  - main [ref=e67]:
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - heading "Your briefing" [level=1] [ref=e73]
+          - paragraph [ref=e74]: Friday, September 11
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - generic [ref=e80]: Today
+              - generic [ref=e82]:
+                - generic [ref=e83]: 89°
+                - generic [ref=e84]: 78°
+            - generic [ref=e85]:
+              - generic [ref=e86]: Sat
+              - generic [ref=e88]:
+                - generic [ref=e89]: 90°
+                - generic [ref=e90]: 78°
+            - generic [ref=e91]:
+              - generic [ref=e92]: Sun
+              - generic [ref=e94]:
+                - generic [ref=e95]: 89°
+                - generic [ref=e96]: 78°
+            - generic [ref=e97]:
+              - generic [ref=e98]: Mon
+              - generic [ref=e100]:
+                - generic [ref=e101]: 90°
+                - generic [ref=e102]: 78°
+          - generic [ref=e103]:
+            - button "Expand to view forecast" [ref=e104] [cursor=pointer]
+            - generic "St. Petersburg, 80°F, thunderstorms" [ref=e107]:
+              - img "thunderstorms" [ref=e108]
+              - generic [ref=e115]:
+                - generic [ref=e116]:
+                  - generic [ref=e117]: St. Petersburg
+                  - button "Use precise location" [ref=e118] [cursor=pointer]
+                - generic [ref=e121]: 80°F
+                - link "Google Weather" [ref=e122] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch/answer/13687874
+      - generic [ref=e124]:
+        - heading [level=3] [ref=e127]:
+          - link "Top stories" [ref=e128] [cursor=pointer]:
+            - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e134]:
+          - link "Donald Trump speaks at Republican midterm convention in Dallas" [ref=e136] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lUeTlfMUVSRUFIc3V5QmI3eXF5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Donald Trump speaks at Republican midterm convention in Dallas chevron_right
+          - generic [ref=e137]:
+            - generic [ref=e138]:
+              - link [ref=e140] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e141]
+              - generic [ref=e142]:
+                - generic [ref=e143]: npr.org
+                - generic [ref=e149]:
+                  - generic:
+                    - button "More - Vance, Trump issue plea for Americans to vote Republican on last night of convention" [ref=e150] [cursor=pointer]
+                    - tooltip [ref=e154]: More
+              - link "Vance, Trump issue plea for Americans to vote Republican on last night of convention - npr.org - 40 minutes ago - By Tamara Keith" [ref=e155] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Vance, Trump issue plea for Americans to vote Republican on last night of convention
+              - generic [ref=e156]:
+                - time [ref=e157]: 40 minutes ago
+                - separator [ref=e158]
+                - generic [ref=e159]: By Tamara Keith
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - link [ref=e163] [cursor=pointer]:
+                  - /url: ./read/CBMijwFBVV95cUxPcFJQR3NRV2p3anBfdW9ZeVZkT1BSX0dmRWtTV19KN3JYd0IzbGY5bUlKeTR2NkpCai1nMnhtVG1wSWx5VENFcG00ai1MM0VHSUtDcVpBQmFudDhaVHdmak8xQnFWUjBoc3BsYl9lYUV2QlIxQVBtNGRIRWxQdjk2MmxLOVRnbzVRQ2c2NlFGcw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e164]:
+                  - generic [ref=e165]: The Guardian
+                  - generic [ref=e171]:
+                    - generic:
+                      - button "More - JD Vance pitches himself as Trump’s political heir on day two of Republican midterm convention" [ref=e172] [cursor=pointer]
+                      - tooltip [ref=e176]: More
+                - link "JD Vance pitches himself as Trump’s political heir on day two of Republican midterm convention - The Guardian - 36 minutes ago - By Adam Gabbatt" [ref=e177] [cursor=pointer]:
+                  - /url: ./read/CBMijwFBVV95cUxPcFJQR3NRV2p3anBfdW9ZeVZkT1BSX0dmRWtTV19KN3JYd0IzbGY5bUlKeTR2NkpCai1nMnhtVG1wSWx5VENFcG00ai1MM0VHSUtDcVpBQmFudDhaVHdmak8xQnFWUjBoc3BsYl9lYUV2QlIxQVBtNGRIRWxQdjk2MmxLOVRnbzVRQ2c2NlFGcw?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: JD Vance pitches himself as Trump’s political heir on day two of Republican midterm convention
+                - generic [ref=e178]:
+                  - time [ref=e179]: 36 minutes ago
+                  - separator [ref=e180]
+                  - generic [ref=e181]: By Adam Gabbatt
+              - generic [ref=e182]:
+                - link [ref=e184] [cursor=pointer]:
+                  - /url: ./read/CBMingFBVV95cUxQRHBNX1RxTV82US16MFBqcGU3SFJMalNKdkJ3OEJ5QWlISFU0R0dfZEZmV3ozVXluMkdyYnFMYVpsLXRkRFJpcWEzUXZ2Qlh4LTV5aUxPQlBNdDVyc2NtZHFpZ2xWQ3ozeXBqQk1BaHhrbGNOQnRKclNRZGdXQWg2TUlvNmV6NmlpNnpTUVl2TEZlUUpVdTI5MjFOT3N5UQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e185]:
+                  - generic [ref=e186]: The New York Times
+                  - generic [ref=e192]:
+                    - generic:
+                      - 'button "More - ‘You Know What Happens if You Don’t Vote’: 7 Takeaways From the G.O.P. Convention" [ref=e193] [cursor=pointer]'
+                      - tooltip [ref=e197]: More
+                - 'link "‘You Know What Happens if You Don’t Vote’: 7 Takeaways From the G.O.P. Convention - The New York Times - 16 minutes ago - By Shane Goldmacher & Lisa Lerer" [ref=e198] [cursor=pointer]':
+                  - /url: ./read/CBMingFBVV95cUxQRHBNX1RxTV82US16MFBqcGU3SFJMalNKdkJ3OEJ5QWlISFU0R0dfZEZmV3ozVXluMkdyYnFMYVpsLXRkRFJpcWEzUXZ2Qlh4LTV5aUxPQlBNdDVyc2NtZHFpZ2xWQ3ozeXBqQk1BaHhrbGNOQnRKclNRZGdXQWg2TUlvNmV6NmlpNnpTUVl2TEZlUUpVdTI5MjFOT3N5UQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "‘You Know What Happens if You Don’t Vote’: 7 Takeaways From the G.O.P. Convention"
+                - generic [ref=e199]:
+                  - time [ref=e200]: 16 minutes ago
+                  - separator [ref=e201]
+                  - generic [ref=e202]: By Shane Goldmacher & Lisa Lerer
+              - generic [ref=e203]:
+                - link [ref=e205] [cursor=pointer]:
+                  - /url: ./read/CBMisgFBVV95cUxOaGVhYXBlX3dUdGdOYzhDVEJkcVQxRkNTRkdpVWZCejNQQVlEZmQ3M0FIZ3BJczRlYXZsMmxRMDRoQ3d6eU9naFotdWJoQzVobmkwOW9mUDhHYVo2Vmo2RC1Mdkt3R1o1R1JOTWRRR21BaUpmNzhqX1dPNXI4cmpZOFdaNTM1NURZVHZqWHBHd1JtUlRVUVd6OHZ2cl90SUlXR09TeG1zc1FXa1FoamE3QnNn?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e206]:
+                  - generic [ref=e207]: dallasnews.com
+                  - generic [ref=e213]:
+                    - generic:
+                      - button "More - Trump blamed bathroom breaks for empty seats at Dallas convention" [ref=e214] [cursor=pointer]
+                      - tooltip [ref=e218]: More
+                - link "Trump blamed bathroom breaks for empty seats at Dallas convention - dallasnews.com - 8 hours ago - By Joseph Morton" [ref=e219] [cursor=pointer]:
+                  - /url: ./read/CBMisgFBVV95cUxOaGVhYXBlX3dUdGdOYzhDVEJkcVQxRkNTRkdpVWZCejNQQVlEZmQ3M0FIZ3BJczRlYXZsMmxRMDRoQ3d6eU9naFotdWJoQzVobmkwOW9mUDhHYVo2Vmo2RC1Mdkt3R1o1R1JOTWRRR21BaUpmNzhqX1dPNXI4cmpZOFdaNTM1NURZVHZqWHBHd1JtUlRVUVd6OHZ2cl90SUlXR09TeG1zc1FXa1FoamE3QnNn?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump blamed bathroom breaks for empty seats at Dallas convention
+                - generic [ref=e220]:
+                  - time [ref=e221]: 8 hours ago
+                  - separator [ref=e222]
+                  - generic [ref=e223]: By Joseph Morton
+          - link "See more headlines & perspectives - Donald Trump speaks at Republican midterm convention in Dallas" [ref=e226] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lUeTlfMUVSRUFIc3V5QmI3eXF5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e229]: See more headlines & perspectives
+        - generic [ref=e233]:
+          - link "Donald Trump promises $5,000 voter dividend at GOP convention" [ref=e235] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSR0dhLUxvaHZWY1Z5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Donald Trump promises $5,000 voter dividend at GOP convention chevron_right
+          - generic [ref=e236]:
+            - generic [ref=e237]:
+              - link [ref=e239] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxOX1FaMEdEeVNNOWttZS1oTUd0ajlkUXQ1ZmRsXy1rb096TUNDQkZKT25KMDNfOXVXVE82MUVXSVZvUVgycFVmd2dBc01aRmRXeDRZWnVrTzVKOVZBSGJpYV9hN25RRkFzc1lEQ3poRGQwbmJDNmItZ2I1YlJvRjJJUmNR?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e240]
+              - generic [ref=e241]:
+                - generic [ref=e242]: CBS News
+                - generic [ref=e248]:
+                  - generic:
+                    - button "More - Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say" [ref=e249] [cursor=pointer]
+                    - tooltip [ref=e253]: More
+              - link "Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say - CBS News - 8 hours ago - By Aimee Picchi" [ref=e254] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxOX1FaMEdEeVNNOWttZS1oTUd0ajlkUXQ1ZmRsXy1rb096TUNDQkZKT25KMDNfOXVXVE82MUVXSVZvUVgycFVmd2dBc01aRmRXeDRZWnVrTzVKOVZBSGJpYV9hN25RRkFzc1lEQ3poRGQwbmJDNmItZ2I1YlJvRjJJUmNR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say
+              - generic [ref=e255]:
+                - time [ref=e256]: 8 hours ago
+                - separator [ref=e257]
+                - generic [ref=e258]: By Aimee Picchi
+            - generic [ref=e259]:
+              - generic [ref=e260]:
+                - link [ref=e262] [cursor=pointer]:
+                  - /url: ./read/CBMiaEFVX3lxTE9wQW1WUnFmY2xSMEMxWFgzeWp6NVlNYm44S2diSWVYY3cxZXdWajVTajAxd1NXODl6WmI3VHlPV2NZN1hIMkwtVlBWMER5YVJxUk5SaUJ4amhxbWpWTnlZaEZCWDQ4RV9l?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e263]:
+                  - generic [ref=e264]: CNN
+                  - generic [ref=e270]:
+                    - generic:
+                      - button "More - Trump officials scramble to manage fallout after his $5K check pledge to all Americans" [ref=e271] [cursor=pointer]
+                      - tooltip [ref=e275]: More
+                - link "Trump officials scramble to manage fallout after his $5K check pledge to all Americans - CNN - 7 hours ago - By Adam Cancryn, Tami Luhby & Alayna Treene" [ref=e276] [cursor=pointer]:
+                  - /url: ./read/CBMiaEFVX3lxTE9wQW1WUnFmY2xSMEMxWFgzeWp6NVlNYm44S2diSWVYY3cxZXdWajVTajAxd1NXODl6WmI3VHlPV2NZN1hIMkwtVlBWMER5YVJxUk5SaUJ4amhxbWpWTnlZaEZCWDQ4RV9l?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump officials scramble to manage fallout after his $5K check pledge to all Americans
+                - generic [ref=e277]:
+                  - time [ref=e278]: 7 hours ago
+                  - separator [ref=e279]
+                  - generic [ref=e280]: By Adam Cancryn, Tami Luhby & Alayna Treene
+              - generic [ref=e281]:
+                - link [ref=e283] [cursor=pointer]:
+                  - /url: ./read/CBMifkFVX3lxTFBEbFJMcEczR1RDa2Q0SnJKTGQycjRyTGIxc1RmcVpPYWlHRTA3X3pKU1dmWnBjamZPVDU5dVg1YU5HdjBjWW1iNUVUY3JLUTE2MndZZE8wOXhneG9CTWkybnRhZ200R1NfOW9MQ2hGUkgxTjhzQzRQWTUwOEE1Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e284]:
+                  - generic [ref=e285]: The Atlantic
+                  - generic [ref=e291]:
+                    - generic:
+                      - button "More - Trump’s Weird Loyalty Pledge" [ref=e292] [cursor=pointer]
+                      - tooltip [ref=e296]: More
+                - link "Trump’s Weird Loyalty Pledge - The Atlantic - 21 minutes ago - By Thomas M. Nichols" [ref=e297] [cursor=pointer]:
+                  - /url: ./read/CBMifkFVX3lxTFBEbFJMcEczR1RDa2Q0SnJKTGQycjRyTGIxc1RmcVpPYWlHRTA3X3pKU1dmWnBjamZPVDU5dVg1YU5HdjBjWW1iNUVUY3JLUTE2MndZZE8wOXhneG9CTWkybnRhZ200R1NfOW9MQ2hGUkgxTjhzQzRQWTUwOEE1Zw?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump’s Weird Loyalty Pledge
+                - generic [ref=e298]:
+                  - time [ref=e299]: 21 minutes ago
+                  - separator [ref=e300]
+                  - generic [ref=e301]: By Thomas M. Nichols
+              - generic [ref=e302]:
+                - link [ref=e304] [cursor=pointer]:
+                  - /url: ./read/CBMickFVX3lxTE5KMGZSZVh6UVUtZDZFcDFneGMwTlJ5WDFSdzRSVlZMWF9Iam1rOGtRRDlDOWs0c1BySjJBYTJnczlJb25PcjJhTWZZUFU1QURXVFZSaC1Ud2RjeDhxdXdSX0Z0Y1BvaW80dlo3ZF80Q3Ewd9IBd0FVX3lxTE1TU0VTcHl1NXMtMjdMdlhmZGQ1VlBIOWxZN0EwS2ZoU0o4em9MMnlaYl94aXgzWWRhblgzMnY2S1NfUHR2eGpyMEdTdi11OHVsRS1NSE5oXzJjMkZPazRzR3pVcUdJNk1uaU5DM2tRZFNON2Q5VTVN?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e305]:
+                  - generic [ref=e306]: CNBC
+                  - generic [ref=e312]:
+                    - generic:
+                      - button "More - Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback" [ref=e313] [cursor=pointer]
+                      - tooltip [ref=e317]: More
+                - link "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback - CNBC - 19 hours ago - By Kevin Breuninger & Chloe Taylor" [ref=e318] [cursor=pointer]:
+                  - /url: ./read/CBMickFVX3lxTE5KMGZSZVh6UVUtZDZFcDFneGMwTlJ5WDFSdzRSVlZMWF9Iam1rOGtRRDlDOWs0c1BySjJBYTJnczlJb25PcjJhTWZZUFU1QURXVFZSaC1Ud2RjeDhxdXdSX0Z0Y1BvaW80dlo3ZF80Q3Ewd9IBd0FVX3lxTE1TU0VTcHl1NXMtMjdMdlhmZGQ1VlBIOWxZN0EwS2ZoU0o4em9MMnlaYl94aXgzWWRhblgzMnY2S1NfUHR2eGpyMEdTdi11OHVsRS1NSE5oXzJjMkZPazRzR3pVcUdJNk1uaU5DM2tRZFNON2Q5VTVN?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback
+                - generic [ref=e319]:
+                  - time [ref=e320]: 19 hours ago
+                  - separator [ref=e321]
+                  - generic [ref=e322]: By Kevin Breuninger & Chloe Taylor
+          - link "See more headlines & perspectives - Donald Trump promises $5,000 voter dividend at GOP convention" [ref=e325] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSR0dhLUxvaHZWY1Z5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e328]: See more headlines & perspectives
+        - generic [ref=e332]:
+          - generic [ref=e333]:
+            - link [ref=e335] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e337]:
+              - generic [ref=e338]:
+                - generic [ref=e339]: The Washington Post
+                - generic [ref=e345]:
+                  - generic:
+                    - button "More - Supreme Court again blocks new Missouri congressional map favoring GOP" [ref=e346] [cursor=pointer]
+                    - tooltip [ref=e350]: More
+              - link "Supreme Court again blocks new Missouri congressional map favoring GOP - The Washington Post - 3 hours ago - By Justin Jouvenal" [ref=e351] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Supreme Court again blocks new Missouri congressional map favoring GOP
+            - figure [ref=e352]
+          - generic [ref=e353]:
+            - time [ref=e354]: 3 hours ago
+            - separator [ref=e355]
+            - generic [ref=e356]: By Justin Jouvenal
+            - link "See more headlines & perspectives - Supreme Court again blocks new Missouri congressional map favoring GOP" [ref=e357] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lneHBuMUVSRjd2blBJaGVqUFBTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e360]: See more
+        - generic [ref=e364]:
+          - generic [ref=e365]:
+            - link [ref=e367] [cursor=pointer]:
+              - /url: ./read/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - generic [ref=e371]: AP News
+                - generic [ref=e377]:
+                  - generic:
+                    - button "More - Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping" [ref=e378] [cursor=pointer]
+                    - tooltip [ref=e382]: More
+              - link "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping - AP News - 5 hours ago - By Fatma Khaled & Ahmed Al" [ref=e383] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping
+            - figure [ref=e384]
+          - generic [ref=e385]:
+            - time [ref=e386]: 5 hours ago
+            - separator [ref=e387]
+            - generic [ref=e388]: By Fatma Khaled & Ahmed Al
+            - link "See more headlines & perspectives - Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping" [ref=e389] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2paOGVEdEVSRlR4eDlLVXdOMXNDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e392]: See more
+      - generic [ref=e393]:
+        - generic [ref=e485]:
+          - generic [ref=e486]:
+            - heading [level=3] [ref=e488]:
+              - link "Local news" [ref=e489] [cursor=pointer]:
+                - /url: ./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e494]:
+              - button "Manage local news" [ref=e495] [cursor=pointer]
+              - tooltip [ref=e499]: Manage local news
+          - generic [ref=e500]:
+            - tablist [ref=e501]
+            - generic [ref=e502]:
+              - generic [ref=e505]:
+                - generic [ref=e506]:
+                  - link [ref=e508] [cursor=pointer]:
+                    - /url: ./read/CBMihgFBVV95cUxQdHQ4WmdHOC12elNhWHowb2xpNjRqUnp4ZThZY2NmTnZXbWFpVFBYRW5sb3RuckRyNm1zbkJ2b09YVGotem1FbnM0OXRnT3pyWk5GdTEtU2N2QVdyMmN4eEc0VFVzNC1jdFl1MjBCUHEtbWhsejBfbll6aHRjMjZuYUVObno1Zw?hl=en-US&gl=US&ceid=US%3Aen
+                  - generic [ref=e510]:
+                    - generic [ref=e511]:
+                      - generic [ref=e512]: St Pete Catalyst
+                      - generic [ref=e518]:
+                        - generic:
+                          - button "More - Can new materials keep an old St. Pete home historic?" [ref=e519] [cursor=pointer]
+                          - tooltip [ref=e523]: More
+                    - link "Can new materials keep an old St. Pete home historic? - St Pete Catalyst - 11 hours ago" [ref=e524] [cursor=pointer]:
+                      - /url: ./read/CBMihgFBVV95cUxQdHQ4WmdHOC12elNhWHowb2xpNjRqUnp4ZThZY2NmTnZXbWFpVFBYRW5sb3RuckRyNm1zbkJ2b09YVGotem1FbnM0OXRnT3pyWk5GdTEtU2N2QVdyMmN4eEc0VFVzNC1jdFl1MjBCUHEtbWhsejBfbll6aHRjMjZuYUVObno1Zw?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: Can new materials keep an old St. Pete home historic?
+                  - figure [ref=e525]
+                - time [ref=e527]: 11 hours ago
+              - separator [ref=e528]
+              - generic [ref=e531]:
+                - generic [ref=e532]:
+                  - link [ref=e534] [cursor=pointer]:
+                    - /url: ./read/CBMiogFBVV95cUxOYXY3b3VVNjZIWFVJTkZwckRPc0hGTFhIOXlYUGpibEZXRW1ndVRmT2hKcnZyUEhCOWxvSkozcmtvLVVUQl9YaDlrQnRsWFQ5WVo2bjhTRldJN283VzFPdUFnXzNvVlBPS2N3MXhoY0lwWndWWEtVVFUzX0NaQlhySUQ5aU81X1lVR2lFRUhqX1YyWE5tSkhFeWdCTVYyMmVtbEE?hl=en-US&gl=US&ceid=US%3Aen
+                  - generic [ref=e536]:
+                    - generic [ref=e537]:
+                      - generic [ref=e538]: cltampa.com
+                      - generic [ref=e544]:
+                        - generic:
+                          - button "More - The Tampa Bay Food Fight chef battle comes to St. Pete on Tuesday" [ref=e545] [cursor=pointer]
+                          - tooltip [ref=e549]: More
+                    - link "The Tampa Bay Food Fight chef battle comes to St. Pete on Tuesday - cltampa.com - 12 hours ago - By Ray Roa" [ref=e550] [cursor=pointer]:
+                      - /url: ./read/CBMiogFBVV95cUxOYXY3b3VVNjZIWFVJTkZwckRPc0hGTFhIOXlYUGpibEZXRW1ndVRmT2hKcnZyUEhCOWxvSkozcmtvLVVUQl9YaDlrQnRsWFQ5WVo2bjhTRldJN283VzFPdUFnXzNvVlBPS2N3MXhoY0lwWndWWEtVVFUzX0NaQlhySUQ5aU81X1lVR2lFRUhqX1YyWE5tSkhFeWdCTVYyMmVtbEE?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: The Tampa Bay Food Fight chef battle comes to St. Pete on Tuesday
+                  - figure [ref=e551]
+                - generic [ref=e552]:
+                  - time [ref=e553]: 12 hours ago
+                  - separator [ref=e554]
+                  - generic [ref=e555]: By Ray Roa
+                  - generic [ref=e556]:
+                    - link "See more headlines & perspectives - The Tampa Bay Food Fight chef battle comes to St. Pete on Tuesday" [ref=e558] [cursor=pointer]:
+                      - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pocmFQMkVSRzNpeGZLOG16Qmd5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - tooltip [ref=e561]: See more headlines & perspectives
+              - separator [ref=e562]
+              - generic [ref=e565]:
+                - generic [ref=e566]:
+                  - link [ref=e568] [cursor=pointer]:
+                    - /url: ./read/CBMimwFBVV95cUxNNnB0ZkJEaHpVWVRyV1RMM3FIWFlSTkM5RUtPZWdacUdxUEtFV0FWc3JrMXRQcjN3aUJQOV9KdXFGRGRxUDk5aEJsQ0F3Q0lQbEt6bE1QNkFFSUNtbHZxOVZTMUhnZDF0b3ZQSFZVWVZxQ0o1OGFFZmhFMGpmR25tcHdPOHNSSzM1Z2V0MkE3WkdCOERUNS10QVk1UQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - generic [ref=e570]:
+                    - generic [ref=e571]:
+                      - generic [ref=e572]: Tampa Bay Times
+                      - generic [ref=e578]:
+                        - generic:
+                          - button "More - St. Petersburg explores 12-acre park under I-275" [ref=e579] [cursor=pointer]
+                          - tooltip [ref=e583]: More
+                    - link "St. Petersburg explores 12-acre park under I-275 - Tampa Bay Times - 5 hours ago - By Colleen Wright" [ref=e584] [cursor=pointer]:
+                      - /url: ./read/CBMimwFBVV95cUxNNnB0ZkJEaHpVWVRyV1RMM3FIWFlSTkM5RUtPZWdacUdxUEtFV0FWc3JrMXRQcjN3aUJQOV9KdXFGRGRxUDk5aEJsQ0F3Q0lQbEt6bE1QNkFFSUNtbHZxOVZTMUhnZDF0b3ZQSFZVWVZxQ0o1OGFFZmhFMGpmR25tcHdPOHNSSzM1Z2V0MkE3WkdCOERUNS10QVk1UQ?hl=en-US&gl=US&ceid=US%3Aen
+                      - text: St. Petersburg explores 12-acre park under I-275
+                  - figure [ref=e585]
+                - generic [ref=e586]:
+                  - time [ref=e587]: 5 hours ago
+                  - separator [ref=e588]
+                  - generic [ref=e589]: By Colleen Wright
+        - generic [ref=e590]:
+          - heading "Picks for you" [level=3] [ref=e593]
+          - generic [ref=e594]:
+            - text: Sign in for personalized stories in your briefing & news feed
+            - generic [ref=e596]:
+              - generic [ref=e598]: Sign in
+              - link "Sign in" [ref=e599] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?hl=en-US&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&gl=US&ceid=US%3Aen
+    - generic [ref=e602]:
+      - generic [ref=e603]:
+        - generic [ref=e604]:
+          - heading "More news" [level=2] [ref=e606]
+          - paragraph [ref=e608]: Sign in to get stories based on your interests
+        - generic [ref=e611]:
+          - generic [ref=e613]: Sign in
+          - link "Sign in" [ref=e614] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?hl=en-US&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en
+      - generic [ref=e615]:
+        - generic [ref=e616]:
+          - generic [ref=e619]:
+            - generic [ref=e620]:
+              - link [ref=e622] [cursor=pointer]:
+                - /url: ./read/CBMirAFBVV95cUxNSElJd29qdGNIRWotYmMyRzNuZ2NJNkl0X0FMOXF2ck5TempNNUdJRW1ta3N4ZWZNY0w2XzdTQUd1ZWtxSUUwOVlwM3JCV0xLcTB0UzRrQ3BmRzQ5MHZUd196MzVIUTliMmJzZF9VMWlRM3ZWSTZsMk5lXzJQR2JRaWVqaUhfZzI2UGNoOVpNVzNsYmQ3ZV8yanFqUXFLUVY4V1lwMGdaQnR1R2Z60gGyAUFVX3lxTE44Wi11V1JpU01Ic0h4TExvUzNIQ1E1emEtTV9Udkx2X25DaU9MTXBmdzBLd1ZwcVI2WWlCUUVXUGpxSnE3cFU0NF9adDROVEo5SXN2cHBQamFBdU44ZDJ1WUlKcG5Dby01Ykxna0NQVExlTTBTd2lwaHdGU0RaYlJubkZIaml0U1BLZHpFQnVfQVVhS1ZIck84MWJhY3ZNeXNYenNTeFBMVW5QYTdlREJOUFE?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e624]:
+                - generic [ref=e625]:
+                  - generic [ref=e626]: The Hill
+                  - generic [ref=e632]:
+                    - generic:
+                      - 'button "More - Former President Bush to Gen. Dan Caine: ‘Thank God you are where you are’" [ref=e633] [cursor=pointer]'
+                      - tooltip [ref=e637]: More
+                - 'link "Former President Bush to Gen. Dan Caine: ‘Thank God you are where you are’ - The Hill - 12 hours ago - By Ellen Mitchell" [ref=e638] [cursor=pointer]':
+                  - /url: ./read/CBMirAFBVV95cUxNSElJd29qdGNIRWotYmMyRzNuZ2NJNkl0X0FMOXF2ck5TempNNUdJRW1ta3N4ZWZNY0w2XzdTQUd1ZWtxSUUwOVlwM3JCV0xLcTB0UzRrQ3BmRzQ5MHZUd196MzVIUTliMmJzZF9VMWlRM3ZWSTZsMk5lXzJQR2JRaWVqaUhfZzI2UGNoOVpNVzNsYmQ3ZV8yanFqUXFLUVY4V1lwMGdaQnR1R2Z60gGyAUFVX3lxTE44Wi11V1JpU01Ic0h4TExvUzNIQ1E1emEtTV9Udkx2X25DaU9MTXBmdzBLd1ZwcVI2WWlCUUVXUGpxSnE3cFU0NF9adDROVEo5SXN2cHBQamFBdU44ZDJ1WUlKcG5Dby01Ykxna0NQVExlTTBTd2lwaHdGU0RaYlJubkZIaml0U1BLZHpFQnVfQVVhS1ZIck84MWJhY3ZNeXNYenNTeFBMVW5QYTdlREJOUFE?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "Former President Bush to Gen. Dan Caine: ‘Thank God you are where you are’"
+              - figure [ref=e639]
+            - generic [ref=e640]:
+              - time [ref=e641]: 12 hours ago
+              - separator [ref=e642]
+              - generic [ref=e643]: By Ellen Mitchell
+          - separator [ref=e644]
+        - generic [ref=e645]:
+          - generic [ref=e648]:
+            - generic [ref=e649]:
+              - link [ref=e651] [cursor=pointer]:
+                - /url: ./read/CBMimgFBVV95cUxQQWxLcFZ0VXdqaDF1TTZRSEFxX3FhSlVoNmpVczg0blp1VmpGR0Q4RFlOajJNNjF2dWMxRm5iQTFNakxRR0xnY3dPN2FCMU1yNDJhVnhyR2pnX2djejNOS3NRWl9mZWdUWlg1ZTdwcWdPLTV2Z183aUVxbENIT0pmQ3RCbDI3U3dZRU40MjJ0WWJsSFRGOHNod0VB?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e653]:
+                - generic [ref=e654]:
+                  - generic [ref=e655]: Yahoo Finance
+                  - generic [ref=e661]:
+                    - generic:
+                      - button "More - FBI issues warning to US homeowners with 100% paid-off mortgages — new update reveals major risk. Is your house exposed?" [ref=e662] [cursor=pointer]
+                      - tooltip [ref=e666]: More
+                - link "FBI issues warning to US homeowners with 100% paid-off mortgages — new update reveals major risk. Is your house exposed? - Yahoo Finance - 17 hours ago - By Jing Pan" [ref=e667] [cursor=pointer]:
+                  - /url: ./read/CBMimgFBVV95cUxQQWxLcFZ0VXdqaDF1TTZRSEFxX3FhSlVoNmpVczg0blp1VmpGR0Q4RFlOajJNNjF2dWMxRm5iQTFNakxRR0xnY3dPN2FCMU1yNDJhVnhyR2pnX2djejNOS3NRWl9mZWdUWlg1ZTdwcWdPLTV2Z183aUVxbENIT0pmQ3RCbDI3U3dZRU40MjJ0WWJsSFRGOHNod0VB?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: FBI issues warning to US homeowners with 100% paid-off mortgages — new update reveals major risk. Is your house exposed?
+              - figure [ref=e668]
+            - generic [ref=e669]:
+              - time [ref=e670]: 17 hours ago
+              - separator [ref=e671]
+              - generic [ref=e672]: By Jing Pan
+          - separator [ref=e673]
+        - generic [ref=e674]:
+          - generic [ref=e677]:
+            - generic [ref=e678]:
+              - link [ref=e680] [cursor=pointer]:
+                - /url: ./read/CBMid0FVX3lxTFByODRlSUhLQVItQ2RfNlVIUWVRcUtjSWhacFg1RXdXRHREU3pPYnlRVC1nSFJVdzlTWDh1MDFjM1RHRDExSWs3LXBWZGE4N1VaTkZjTHhBU2N2Q0czbFBHN2VsaHQtREJDaHJLS1NKTWZIVm91aS1z?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e682]:
+                - generic [ref=e683]:
+                  - generic [ref=e684]: Snopes
+                  - generic [ref=e690]:
+                    - generic:
+                      - button "More - Did Walmart update its privacy policy to allow surveillance pricing?" [ref=e691] [cursor=pointer]
+                      - tooltip [ref=e695]: More
+                - link "Did Walmart update its privacy policy to allow surveillance pricing? - Snopes - 13 hours ago - By Jordan Liles" [ref=e696] [cursor=pointer]:
+                  - /url: ./read/CBMid0FVX3lxTFByODRlSUhLQVItQ2RfNlVIUWVRcUtjSWhacFg1RXdXRHREU3pPYnlRVC1nSFJVdzlTWDh1MDFjM1RHRDExSWs3LXBWZGE4N1VaTkZjTHhBU2N2Q0czbFBHN2VsaHQtREJDaHJLS1NKTWZIVm91aS1z?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Did Walmart update its privacy policy to allow surveillance pricing?
+              - figure [ref=e697]
+            - generic [ref=e698]:
+              - time [ref=e699]: 13 hours ago
+              - separator [ref=e700]
+              - generic [ref=e701]: By Jordan Liles
+          - separator [ref=e702]
+        - generic [ref=e703]:
+          - generic [ref=e706]:
+            - generic [ref=e707]:
+              - link [ref=e709] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxOVGJMMXduZGxrYWF5WnFSV2NLWXpTMUJKQkVPUzJveVZWOUwtWm9xV1c0c2Zqell6VjlEQXpKY1pJT3ZfTWFRY1dKYnBxWWFDS3VteHE5Z0NKeUNGckZNOE5FWE5POTVFenBDbU1LUVBtdUVqcDFBV0pZOXJjbGlmeno2MmQ3emw4enEzb2hnSUxDbktNcXFkbWhOZWRSZEg4eFMzYU95WHZmeW9nR0h5R0NYX20wUzJiTnZVV2JtONIBxAFBVV95cUxNM05VNV9MNWF2eEpmaU1FOGJPS3l0UmZVREVldmdGb0dORlB1S2JuQWxNMVo4cFJ6d2ZGQjFaMk8tYi1oSzlRUFN0a1NrQ0hybjU1Qlc3ZkJVMFhqWHI0WDFyenI0NFoxZGtQT2ZURDdNSi1Ud0hYUWZkcGFNLTNPczRpdnVkSTdObGxWdFRLenBoaS1MTFBZMl9UWkgzVmJpOU53U25UU2lFMXJCcHVhM1U2WGFudldPLWRabExEYXl2b2lL?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e711]:
+                - generic [ref=e712]:
+                  - generic [ref=e713]: The Hill
+                  - generic [ref=e719]:
+                    - generic:
+                      - button "More - Fox News’s Baier presses Vance on Trump’s $5K dividend promise" [ref=e720] [cursor=pointer]
+                      - tooltip [ref=e724]: More
+                - link "Fox News’s Baier presses Vance on Trump’s $5K dividend promise - The Hill - 13 hours ago" [ref=e725] [cursor=pointer]:
+                  - /url: ./read/CBMivwFBVV95cUxOVGJMMXduZGxrYWF5WnFSV2NLWXpTMUJKQkVPUzJveVZWOUwtWm9xV1c0c2Zqell6VjlEQXpKY1pJT3ZfTWFRY1dKYnBxWWFDS3VteHE5Z0NKeUNGckZNOE5FWE5POTVFenBDbU1LUVBtdUVqcDFBV0pZOXJjbGlmeno2MmQ3emw4enEzb2hnSUxDbktNcXFkbWhOZWRSZEg4eFMzYU95WHZmeW9nR0h5R0NYX20wUzJiTnZVV2JtONIBxAFBVV95cUxNM05VNV9MNWF2eEpmaU1FOGJPS3l0UmZVREVldmdGb0dORlB1S2JuQWxNMVo4cFJ6d2ZGQjFaMk8tYi1oSzlRUFN0a1NrQ0hybjU1Qlc3ZkJVMFhqWHI0WDFyenI0NFoxZGtQT2ZURDdNSi1Ud0hYUWZkcGFNLTNPczRpdnVkSTdObGxWdFRLenBoaS1MTFBZMl9UWkgzVmJpOU53U25UU2lFMXJCcHVhM1U2WGFudldPLWRabExEYXl2b2lL?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Fox News’s Baier presses Vance on Trump’s $5K dividend promise
+              - figure [ref=e726]
+            - generic [ref=e727]:
+              - time [ref=e728]: 13 hours ago
+              - generic [ref=e729]:
+                - link "See more headlines & perspectives - Fox News’s Baier presses Vance on Trump’s $5K dividend promise" [ref=e731] [cursor=pointer]:
+                  - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSRTFxd213X2NMRGVpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - tooltip [ref=e734]: See more headlines & perspectives
+          - separator [ref=e735]
+        - generic [ref=e739]:
+          - generic [ref=e740]:
+            - link [ref=e742] [cursor=pointer]:
+              - /url: ./read/CBMicEFVX3lxTE9yZUdxRGxfZjJOUEltX01UUlJVcE5IbnRiTjUybkttTVVjNzNoTDNudmRfLUgxbUhxUjFHOXRIRW5tMEVNRndsdXM2SHc2RVl4LWMxamdfdjNNdVAzLXpoVGFXTXRYWnMwaGpsWGRyLWg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e744]:
+              - generic [ref=e745]:
+                - generic [ref=e746]: Business Insider
+                - generic [ref=e752]:
+                  - generic:
+                    - button "More - The top 15 party schools in the US, ranked" [ref=e753] [cursor=pointer]
+                    - tooltip [ref=e757]: More
+              - link "The top 15 party schools in the US, ranked - Business Insider - 10 hours ago - By Priyanka Rajput & Kristine Villarroel" [ref=e758] [cursor=pointer]:
+                - /url: ./read/CBMicEFVX3lxTE9yZUdxRGxfZjJOUEltX01UUlJVcE5IbnRiTjUybkttTVVjNzNoTDNudmRfLUgxbUhxUjFHOXRIRW5tMEVNRndsdXM2SHc2RVl4LWMxamdfdjNNdVAzLXpoVGFXTXRYWnMwaGpsWGRyLWg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The top 15 party schools in the US, ranked
+            - figure [ref=e759]
+          - generic [ref=e760]:
+            - time [ref=e761]: 10 hours ago
+            - separator [ref=e762]
+            - generic [ref=e763]: By Priyanka Rajput & Kristine Villarroel
+        - generic [ref=e767]:
+          - generic [ref=e768]:
+            - link [ref=e770] [cursor=pointer]:
+              - /url: ./read/CBMifEFVX3lxTE8tR1Y1VzVvQU5yR08zUDExV2ZnSWI3RGNfMTdVUnhreHJfVjF6NzBjYi1kdWI0Z3RKbHNqcVpwME9RV2trNjVPcFIzMjdyUHA0MHQ4dUxGS1dUS3pMdTZwQzdSSlFLaWZjeHg4Nm5zRVR6YXh0TFhaa0ZlcGM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e772]:
+              - generic [ref=e773]:
+                - generic [ref=e774]: Yahoo News Canada
+                - generic [ref=e780]:
+                  - generic:
+                    - button "More - Dolly Parton’s sister reveals why type of cancer that killed her has been kept private" [ref=e781] [cursor=pointer]
+                    - tooltip [ref=e785]: More
+              - link "Dolly Parton’s sister reveals why type of cancer that killed her has been kept private - Yahoo News Canada - 15 hours ago - By Caitlin Hornik" [ref=e786] [cursor=pointer]:
+                - /url: ./read/CBMifEFVX3lxTE8tR1Y1VzVvQU5yR08zUDExV2ZnSWI3RGNfMTdVUnhreHJfVjF6NzBjYi1kdWI0Z3RKbHNqcVpwME9RV2trNjVPcFIzMjdyUHA0MHQ4dUxGS1dUS3pMdTZwQzdSSlFLaWZjeHg4Nm5zRVR6YXh0TFhaa0ZlcGM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Dolly Parton’s sister reveals why type of cancer that killed her has been kept private
+            - figure [ref=e787]
+          - generic [ref=e788]:
+            - time [ref=e789]: 15 hours ago
+            - separator [ref=e790]
+            - generic [ref=e791]: By Caitlin Hornik
+            - generic [ref=e792]:
+              - link "See more headlines & perspectives - Dolly Parton’s sister reveals why type of cancer that killed her has been kept private" [ref=e794] [cursor=pointer]:
+                - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWMjdyM0VSSHVLT29RSjVBbGtpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - tooltip [ref=e797]: See more headlines & perspectives
+    - generic [ref=e801]:
+      - generic [ref=e802]:
+        - heading "Your topics" [level=2] [ref=e804]
+        - button "Customize" [ref=e807]
+      - generic [ref=e813]:
+        - generic [ref=e816]:
+          - heading [level=3] [ref=e818]:
+            - link "U.S." [ref=e819] [cursor=pointer]:
+              - /url: ./topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen
+          - separator [ref=e822]
+          - generic [ref=e823]:
+            - generic [ref=e826]:
+              - generic [ref=e827]:
+                - link [ref=e829] [cursor=pointer]:
+                  - /url: ./read/CBMiggFBVV95cUxOX1FaMEdEeVNNOWttZS1oTUd0ajlkUXQ1ZmRsXy1rb096TUNDQkZKT25KMDNfOXVXVE82MUVXSVZvUVgycFVmd2dBc01aRmRXeDRZWnVrTzVKOVZBSGJpYV9hN25RRkFzc1lEQ3poRGQwbmJDNmItZ2I1YlJvRjJJUmNR?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e831]:
+                  - generic [ref=e832]:
+                    - generic [ref=e833]: CBS News
+                    - generic [ref=e839]:
+                      - generic:
+                        - button "More - Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say" [ref=e840] [cursor=pointer]
+                        - tooltip [ref=e844]: More
+                  - link "Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say - CBS News - 8 hours ago - By Aimee Picchi" [ref=e845] [cursor=pointer]:
+                    - /url: ./read/CBMiggFBVV95cUxOX1FaMEdEeVNNOWttZS1oTUd0ajlkUXQ1ZmRsXy1rb096TUNDQkZKT25KMDNfOXVXVE82MUVXSVZvUVgycFVmd2dBc01aRmRXeDRZWnVrTzVKOVZBSGJpYV9hN25RRkFzc1lEQ3poRGQwbmJDNmItZ2I1YlJvRjJJUmNR?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say
+                - figure [ref=e846]
+              - generic [ref=e847]:
+                - time [ref=e848]: 8 hours ago
+                - separator [ref=e849]
+                - generic [ref=e850]: By Aimee Picchi
+                - generic [ref=e851]:
+                  - link "See more headlines & perspectives - Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say" [ref=e853] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSR0dhLUxvaHZWY1Z5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e856]: See more headlines & perspectives
+            - separator [ref=e857]
+            - generic [ref=e860]:
+              - generic [ref=e861]:
+                - link [ref=e863] [cursor=pointer]:
+                  - /url: ./read/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e865]:
+                  - generic [ref=e866]:
+                    - generic [ref=e867]: Missouri Independent
+                    - generic [ref=e873]:
+                      - generic:
+                        - button "More - Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps" [ref=e874] [cursor=pointer]
+                        - tooltip [ref=e878]: More
+                  - link "Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps - Missouri Independent - 4 hours ago - By Rudi Keller" [ref=e879] [cursor=pointer]:
+                    - /url: ./read/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps
+                - figure [ref=e880]
+              - generic [ref=e881]:
+                - time [ref=e882]: 4 hours ago
+                - separator [ref=e883]
+                - generic [ref=e884]: By Rudi Keller
+                - generic [ref=e885]:
+                  - link "See more headlines & perspectives - Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps" [ref=e887] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lneHBuMUVSSHBqa1dzRjVRRXBpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e890]: See more headlines & perspectives
+            - separator [ref=e891]
+            - generic [ref=e894]:
+              - generic [ref=e895]:
+                - link [ref=e897] [cursor=pointer]:
+                  - /url: ./read/CBMijAFBVV95cUxNc0dRcFNZa0xRbFNXQzc3YkFQVGVwRTVPU3V2cUVVYkFQSG53Ri1pRTB0cVV2Nl9QdHRaWjgya1VCbDhQdEk0dHJkVEx1eGVoTW1acnZVMXZteVZPRHRYY3BxZTJZazhwTGZDTWhTTnJXWG9CaGNRREhKN1hJdHhGdmVJWXJzN2JPN0QwMg?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e899]:
+                  - generic [ref=e900]:
+                    - generic [ref=e901]: The New York Times
+                    - generic [ref=e907]:
+                      - generic:
+                        - button "More - Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case" [ref=e908] [cursor=pointer]
+                        - tooltip [ref=e912]: More
+                  - link "Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case - The New York Times - 2 hours ago - By Alan Feuer" [ref=e913] [cursor=pointer]:
+                    - /url: ./read/CBMijAFBVV95cUxNc0dRcFNZa0xRbFNXQzc3YkFQVGVwRTVPU3V2cUVVYkFQSG53Ri1pRTB0cVV2Nl9QdHRaWjgya1VCbDhQdEk0dHJkVEx1eGVoTW1acnZVMXZteVZPRHRYY3BxZTJZazhwTGZDTWhTTnJXWG9CaGNRREhKN1hJdHhGdmVJWXJzN2JPN0QwMg?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case
+                - figure [ref=e914]
+              - generic [ref=e915]:
+                - time [ref=e916]: 2 hours ago
+                - separator [ref=e917]
+                - generic [ref=e918]: By Alan Feuer
+                - generic [ref=e919]:
+                  - link "See more headlines & perspectives - Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case" [ref=e921] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lCaGZQMUVSRzZTbENyME4yRFJDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e924]: See more headlines & perspectives
+        - generic [ref=e927]:
+          - heading [level=3] [ref=e929]:
+            - link "World" [ref=e930] [cursor=pointer]:
+              - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+          - separator [ref=e933]
+          - generic [ref=e934]:
+            - generic [ref=e937]:
+              - generic [ref=e938]:
+                - link [ref=e940] [cursor=pointer]:
+                  - /url: ./read/CBMigwFBVV95cUxOWjdIU0Z3RHpHUUdpZWFSaTlsRGJKM1AtTWZ6ajFhcUZlS20yQS1HanZOX01VSXNSeDEya3pPNDlkQWFGQW5SM0htdERPMDNibktqa0RocmtvTW1MQVNsaDRUdTM4Uk5FdWtibnlpVHZWaHBFTFhxRkVNNHZkT1JONnNHTQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e942]:
+                  - generic [ref=e943]:
+                    - generic [ref=e944]: CBS News
+                    - generic [ref=e950]:
+                      - generic:
+                        - button "More - Spain's spy agency warned of Ceuta border breach before crisis, declassified files show" [ref=e951] [cursor=pointer]
+                        - tooltip [ref=e955]: More
+                  - link "Spain's spy agency warned of Ceuta border breach before crisis, declassified files show - CBS News - 16 hours ago" [ref=e956] [cursor=pointer]:
+                    - /url: ./read/CBMigwFBVV95cUxOWjdIU0Z3RHpHUUdpZWFSaTlsRGJKM1AtTWZ6ajFhcUZlS20yQS1HanZOX01VSXNSeDEya3pPNDlkQWFGQW5SM0htdERPMDNibktqa0RocmtvTW1MQVNsaDRUdTM4Uk5FdWtibnlpVHZWaHBFTFhxRkVNNHZkT1JONnNHTQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Spain's spy agency warned of Ceuta border breach before crisis, declassified files show
+                - figure [ref=e957]
+              - generic [ref=e958]:
+                - time [ref=e959]: 16 hours ago
+                - generic [ref=e960]:
+                  - link "See more headlines & perspectives - Spain's spy agency warned of Ceuta border breach before crisis, declassified files show" [ref=e962] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkdnJ2N0VSRTlmb08tZXNWeGpDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e965]: See more headlines & perspectives
+            - separator [ref=e966]
+            - generic [ref=e969]:
+              - generic [ref=e970]:
+                - link [ref=e972] [cursor=pointer]:
+                  - /url: ./read/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e974]:
+                  - generic [ref=e975]:
+                    - generic [ref=e976]: AP News
+                    - generic [ref=e982]:
+                      - generic:
+                        - button "More - Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping" [ref=e983] [cursor=pointer]
+                        - tooltip [ref=e987]: More
+                  - link "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping - AP News - 2 hours ago - By Fatma Khaled" [ref=e988] [cursor=pointer]:
+                    - /url: ./read/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping
+                - figure [ref=e989]
+              - generic [ref=e990]:
+                - time [ref=e991]: 2 hours ago
+                - separator [ref=e992]
+                - generic [ref=e993]: By Fatma Khaled
+                - generic [ref=e994]:
+                  - link "See more headlines & perspectives - Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping" [ref=e996] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2paOGVEdEVSRlR4eDlLVXdOMXNDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e999]: See more headlines & perspectives
+            - separator [ref=e1000]
+            - generic [ref=e1003]:
+              - generic [ref=e1004]:
+                - link [ref=e1006] [cursor=pointer]:
+                  - /url: ./read/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1008]:
+                  - generic [ref=e1009]:
+                    - generic [ref=e1010]: AP News
+                    - generic [ref=e1016]:
+                      - generic:
+                        - button "More - Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected" [ref=e1017] [cursor=pointer]
+                        - tooltip [ref=e1021]: More
+                  - link "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News - 3 hours ago - By Gisela Salomon & Tim Sullivan" [ref=e1022] [cursor=pointer]:
+                    - /url: ./read/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected
+                - figure [ref=e1023]
+              - generic [ref=e1024]:
+                - time [ref=e1025]: 3 hours ago
+                - separator [ref=e1026]
+                - generic [ref=e1027]: By Gisela Salomon & Tim Sullivan
+                - generic [ref=e1028]:
+                  - link "See more headlines & perspectives - Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected" [ref=e1030] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pGNFpqekVSR2t0WE1UaHo5WUVpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1033]: See more headlines & perspectives
+        - generic [ref=e1036]:
+          - heading [level=3] [ref=e1038]:
+            - link "Business" [ref=e1039] [cursor=pointer]:
+              - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+          - separator [ref=e1042]
+          - generic [ref=e1043]:
+            - generic [ref=e1046]:
+              - generic [ref=e1047]:
+                - link [ref=e1049] [cursor=pointer]:
+                  - /url: ./read/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1051]:
+                  - generic [ref=e1052]:
+                    - generic [ref=e1053]: Reuters
+                    - generic [ref=e1059]:
+                      - generic:
+                        - button "More - Oil prices set to end week over $100 for first time in nearly 4 months" [ref=e1060] [cursor=pointer]
+                        - tooltip [ref=e1064]: More
+                  - link "Oil prices set to end week over $100 for first time in nearly 4 months - Reuters - 3 hours ago - By Sudarshan Varadhan" [ref=e1065] [cursor=pointer]:
+                    - /url: ./read/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Oil prices set to end week over $100 for first time in nearly 4 months
+                - figure [ref=e1066]
+              - generic [ref=e1067]:
+                - time [ref=e1068]: 3 hours ago
+                - separator [ref=e1069]
+                - generic [ref=e1070]: By Sudarshan Varadhan
+                - generic [ref=e1071]:
+                  - link "See more headlines & perspectives - Oil prices set to end week over $100 for first time in nearly 4 months" [ref=e1073] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ktcl83NkVSSE81MDFSVVRpczlpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1076]: See more headlines & perspectives
+            - separator [ref=e1077]
+            - generic [ref=e1080]:
+              - generic [ref=e1081]:
+                - link [ref=e1083] [cursor=pointer]:
+                  - /url: ./read/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1085]:
+                  - generic [ref=e1086]:
+                    - generic [ref=e1087]: BBC
+                    - generic [ref=e1093]:
+                      - generic:
+                        - button "More - Anthropic blocks 'malicious use' of AI that could develop biological weapons" [ref=e1094] [cursor=pointer]
+                        - tooltip [ref=e1098]: More
+                  - link "Anthropic blocks 'malicious use' of AI that could develop biological weapons - BBC - 1 hour ago - By Nardine Saad" [ref=e1099] [cursor=pointer]:
+                    - /url: ./read/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Anthropic blocks 'malicious use' of AI that could develop biological weapons
+                - figure [ref=e1100]
+              - generic [ref=e1101]:
+                - time [ref=e1102]: 1 hour ago
+                - separator [ref=e1103]
+                - generic [ref=e1104]: By Nardine Saad
+                - generic [ref=e1105]:
+                  - link "See more headlines & perspectives - Anthropic blocks 'malicious use' of AI that could develop biological weapons" [ref=e1107] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p6azQ3OEVSR1pZMi1BZF9UMV95Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1110]: See more headlines & perspectives
+            - separator [ref=e1111]
+            - generic [ref=e1114]:
+              - generic [ref=e1115]:
+                - link "Dow Jones -0.60% 52,064.10" [ref=e1116] [cursor=pointer]:
+                  - /url: https://www.google.com/search?q=INDEXDJX+.DJI&hl=en&source=news
+                  - generic [ref=e1117]: Dow Jones
+                  - generic [ref=e1120]: "-0.60%"
+                  - generic [ref=e1121]: 52,064.10
+                - link "S&P 500 -0.58% 7,591.70" [ref=e1123] [cursor=pointer]:
+                  - /url: https://www.google.com/search?q=INDEXSP+.INX&hl=en&source=news
+                  - generic [ref=e1124]: S&P 500
+                  - generic [ref=e1127]: "-0.58%"
+                  - generic [ref=e1128]: 7,591.70
+                - link "Nasdaq -0.65% 26,081.73" [ref=e1130] [cursor=pointer]:
+                  - /url: https://www.google.com/search?q=INDEXNASDAQ+.IXIC&hl=en&source=news
+                  - generic [ref=e1131]: Nasdaq
+                  - generic [ref=e1134]: "-0.65%"
+                  - generic [ref=e1135]: 26,081.73
+              - generic [ref=e1137]:
+                - time [ref=e1138]: 8 hours ago
+                - generic [ref=e1139]:
+                  - link "Disclaimer" [ref=e1140] [cursor=pointer]:
+                    - /url: //www.google.com/intl/en_US/googlefinance/disclaimer/
+                  - separator [ref=e1141]
+                  - link "More from Google Finance" [ref=e1142] [cursor=pointer]:
+                    - /url: https://finance.google.com/?hl=en&gl=US&source=news
+        - generic [ref=e1145]:
+          - heading [level=3] [ref=e1147]:
+            - link "Technology" [ref=e1148] [cursor=pointer]:
+              - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+          - separator [ref=e1151]
+          - generic [ref=e1152]:
+            - generic [ref=e1155]:
+              - generic [ref=e1156]:
+                - link [ref=e1158] [cursor=pointer]:
+                  - /url: ./read/CBMingFBVV95cUxNR0tEYm5oQkI3aVY5QjlXTGQyQURUT085dGVxQ0FYX2RoTnVMUk9ydDJ4NGpXbUxhU2QyS2w0aG9JVU1CMjdQR2xQalk2cGtEcDFyQUpKTXJ0SW5zRmp3dnlJWVdtclN1RVZfTGMzMlJjU29NZ3B1QUpYeENfSnhTVnJpSmh5V1MwU3d1RG9iX0FoNFVmLTNJLVVsRDNnQdIBowFBVV95cUxPMzQxWURUR2FrTVkweldfMmZaVHZLS2NvSU9ybkZGNjdEeVEtR2s2MU1lV3hUOVYydzNYUWxwZVlwMlQtUThYRUZ0dTZ5QVdTWmJjSGhRZDB0WnhCc3NPSUMyOENlOXBwTk9UVEVwREdpMEg2S1E4OTBkb1RUSUt0dFJNZjFNd1RiZ1BVQkpHMmY5c283dDNodG80a3hjeGJVVVFJ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1160]:
+                  - generic [ref=e1161]:
+                    - generic [ref=e1162]: CNBC
+                    - generic [ref=e1168]:
+                      - generic:
+                        - 'button "More - CNBC Daily Open: ''Welcome to Foldables'' Samsung roasts Apple for being late to party" [ref=e1169] [cursor=pointer]'
+                        - tooltip [ref=e1173]: More
+                  - 'link "CNBC Daily Open: ''Welcome to Foldables'' Samsung roasts Apple for being late to party - CNBC - 2 hours ago - By Anniek Bao" [ref=e1174] [cursor=pointer]':
+                    - /url: ./read/CBMingFBVV95cUxNR0tEYm5oQkI3aVY5QjlXTGQyQURUT085dGVxQ0FYX2RoTnVMUk9ydDJ4NGpXbUxhU2QyS2w0aG9JVU1CMjdQR2xQalk2cGtEcDFyQUpKTXJ0SW5zRmp3dnlJWVdtclN1RVZfTGMzMlJjU29NZ3B1QUpYeENfSnhTVnJpSmh5V1MwU3d1RG9iX0FoNFVmLTNJLVVsRDNnQdIBowFBVV95cUxPMzQxWURUR2FrTVkweldfMmZaVHZLS2NvSU9ybkZGNjdEeVEtR2s2MU1lV3hUOVYydzNYUWxwZVlwMlQtUThYRUZ0dTZ5QVdTWmJjSGhRZDB0WnhCc3NPSUMyOENlOXBwTk9UVEVwREdpMEg2S1E4OTBkb1RUSUt0dFJNZjFNd1RiZ1BVQkpHMmY5c283dDNodG80a3hjeGJVVVFJ?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: "CNBC Daily Open: 'Welcome to Foldables' Samsung roasts Apple for being late to party"
+                - figure [ref=e1175]
+              - generic [ref=e1176]:
+                - time [ref=e1177]: 2 hours ago
+                - separator [ref=e1178]
+                - generic [ref=e1179]: By Anniek Bao
+                - generic [ref=e1180]:
+                  - 'link "See more headlines & perspectives - CNBC Daily Open: ''Welcome to Foldables'' Samsung roasts Apple for being late to party" [ref=e1182] [cursor=pointer]':
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ptcGVQdkVSRTFGRGlWUzBDRElDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1185]: See more headlines & perspectives
+            - separator [ref=e1186]
+            - generic [ref=e1189]:
+              - generic [ref=e1190]:
+                - link [ref=e1192] [cursor=pointer]:
+                  - /url: ./read/CBMiqAFBVV95cUxQRE82YjBCZWVKaWljVlZvWTVDSTN3UkIxdXJqM0tSRjBMVzV0VGt2Vmp6LVdES1ZiUWxZelB3MjE1Wk9fZmw5Z2hfbnZLMFFWWlNZLU5mOXJHSWk2Z3RmN1M1emZjUUNUUF9WaDNsaTk4b0ZQbUFBV1dSVWtUTGU4MUtuSHBKTzhvc2NfMHVRRjI1VDZkcTdfYTdubUVXa3owZFlpOWFTY0nSAaQBQVVfeXFMT3V5VTJXT0JuNWoyYXRZcUVUT0x6Rk41aFk3akRianVzN2M3VklneWpLZEJCb3FpNS1SRUFTVVJVTzhEM1otZHdkenFzTGRxeGpOM2M0U1A3ODJxdjVPY25NV1BVdm8zV05uTkwxWElha1Vvb3FCMFZucEpZWGl5V0QyZXdva0dZYWZVd3ladS1ZQjJiTmtLT29hOXp6X2ZYbDZpLWY?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1194]:
+                  - generic [ref=e1195]:
+                    - generic [ref=e1196]: gsmarena.com
+                    - generic [ref=e1202]:
+                      - generic:
+                        - button "More - Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news" [ref=e1203] [cursor=pointer]
+                        - tooltip [ref=e1207]: More
+                  - link "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - gsmarena.com - 4 hours ago" [ref=e1208] [cursor=pointer]:
+                    - /url: ./read/CBMiqAFBVV95cUxQRE82YjBCZWVKaWljVlZvWTVDSTN3UkIxdXJqM0tSRjBMVzV0VGt2Vmp6LVdES1ZiUWxZelB3MjE1Wk9fZmw5Z2hfbnZLMFFWWlNZLU5mOXJHSWk2Z3RmN1M1emZjUUNUUF9WaDNsaTk4b0ZQbUFBV1dSVWtUTGU4MUtuSHBKTzhvc2NfMHVRRjI1VDZkcTdfYTdubUVXa3owZFlpOWFTY0nSAaQBQVVfeXFMT3V5VTJXT0JuNWoyYXRZcUVUT0x6Rk41aFk3akRianVzN2M3VklneWpLZEJCb3FpNS1SRUFTVVJVTzhEM1otZHdkenFzTGRxeGpOM2M0U1A3ODJxdjVPY25NV1BVdm8zV05uTkwxWElha1Vvb3FCMFZucEpZWGl5V0QyZXdva0dZYWZVd3ladS1ZQjJiTmtLT29hOXp6X2ZYbDZpLWY?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news
+                - figure [ref=e1209]
+              - generic [ref=e1210]:
+                - time [ref=e1211]: 4 hours ago
+                - generic [ref=e1212]:
+                  - link "See more headlines & perspectives - Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news" [ref=e1214] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ltNUtUN0VSRnUyZmMyVl9GT2N5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1217]: See more headlines & perspectives
+            - separator [ref=e1218]
+            - generic [ref=e1221]:
+              - generic [ref=e1222]:
+                - link [ref=e1224] [cursor=pointer]:
+                  - /url: ./read/CBMihgFBVV95cUxQMGhkVXBFMUF5VUY3NFF5ZXJhUlF0RVdTOXY1UkQwekJldHhva1pYM3Rpd1BkRW9vMmtWa2pRd0V2b20xU3hsRXdOdjV2bC1GcnFPeE9hbU1oZ2c0VlNVMU4yNlBMMFVPYlptaURwNk9XeURlbnBTLU1WSjlYVVNmWk9xUkZKQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1226]:
+                  - generic [ref=e1227]:
+                    - generic [ref=e1228]: MacRumors
+                    - generic [ref=e1234]:
+                      - generic:
+                        - button "More - Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications" [ref=e1235] [cursor=pointer]
+                        - tooltip [ref=e1239]: More
+                  - link "Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications - MacRumors - 9 hours ago - By Juli Clover" [ref=e1240] [cursor=pointer]:
+                    - /url: ./read/CBMihgFBVV95cUxQMGhkVXBFMUF5VUY3NFF5ZXJhUlF0RVdTOXY1UkQwekJldHhva1pYM3Rpd1BkRW9vMmtWa2pRd0V2b20xU3hsRXdOdjV2bC1GcnFPeE9hbU1oZ2c0VlNVMU4yNlBMMFVPYlptaURwNk9XeURlbnBTLU1WSjlYVVNmWk9xUkZKQQ?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications
+                - figure [ref=e1241]
+              - generic [ref=e1242]:
+                - time [ref=e1243]: 9 hours ago
+                - separator [ref=e1244]
+                - generic [ref=e1245]: By Juli Clover
+                - generic [ref=e1246]:
+                  - link "See more headlines & perspectives - Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications" [ref=e1248] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lod29YNUVSR1RVM1FwVXd3Sk5pZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1251]: See more headlines & perspectives
+        - generic [ref=e1254]:
+          - heading [level=3] [ref=e1256]:
+            - link "Entertainment" [ref=e1257] [cursor=pointer]:
+              - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+          - separator [ref=e1260]
+          - generic [ref=e1261]:
+            - generic [ref=e1264]:
+              - generic [ref=e1265]:
+                - link [ref=e1267] [cursor=pointer]:
+                  - /url: ./read/CBMitgFBVV95cUxOMzJuYlNTQTlCSmFBRF8ta0ZzUzJkeFQ5V09vYS05WjJab1RTNDFJbWpvS0xjS0g2MVNfcTZ6QXFUVUhYcDNVMmdGbTNibHBPLWQ2ZG9HMkFCVDhQdkZEQmQ5SjFQcVk5Z2RWallGZmloa2NRM3pjT19IOWI3RGt5b2kzc2lxNUZOOVdnQ3VqUTlHZUpzZU5sNEhWZlE5YWN3MVFJcVFfWmhKZ1FPdXVha2lfQzFpQdIBuwFBVV95cUxPVjFhVS00OFFkZS1nWnJ4RTJaVEdSaGRNNzhKVkxNXzN2OUJQczZtZjJjaG5jRjl2TUtPT1JLUllNTDdCQ0Rrc2o0T1FXbV9KTXV5bDdNUUJWaGFGQXdHSWFhaHoxcWFRV2pZaUxnZ0NuRzZocUZxYTlzb2thRGdiM3RPM1RVY3BWbGoyUHdDTXQyQmIxYTFaanB2amNOWGVzVWd6ZUUyMHBBVW41UWhIeHhpUFZGM0w1dGYw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1269]:
+                  - generic [ref=e1270]:
+                    - generic [ref=e1271]: Fox News
+                    - generic [ref=e1277]:
+                      - generic:
+                        - button "More - Dolly Parton’s sister reveals ‘last thing’ country legend asked of her before death" [ref=e1278] [cursor=pointer]
+                        - tooltip [ref=e1282]: More
+                  - link "Dolly Parton’s sister reveals ‘last thing’ country legend asked of her before death - Fox News - 6 hours ago - By Lori Bashian" [ref=e1283] [cursor=pointer]:
+                    - /url: ./read/CBMitgFBVV95cUxOMzJuYlNTQTlCSmFBRF8ta0ZzUzJkeFQ5V09vYS05WjJab1RTNDFJbWpvS0xjS0g2MVNfcTZ6QXFUVUhYcDNVMmdGbTNibHBPLWQ2ZG9HMkFCVDhQdkZEQmQ5SjFQcVk5Z2RWallGZmloa2NRM3pjT19IOWI3RGt5b2kzc2lxNUZOOVdnQ3VqUTlHZUpzZU5sNEhWZlE5YWN3MVFJcVFfWmhKZ1FPdXVha2lfQzFpQdIBuwFBVV95cUxPVjFhVS00OFFkZS1nWnJ4RTJaVEdSaGRNNzhKVkxNXzN2OUJQczZtZjJjaG5jRjl2TUtPT1JLUllNTDdCQ0Rrc2o0T1FXbV9KTXV5bDdNUUJWaGFGQXdHSWFhaHoxcWFRV2pZaUxnZ0NuRzZocUZxYTlzb2thRGdiM3RPM1RVY3BWbGoyUHdDTXQyQmIxYTFaanB2amNOWGVzVWd6ZUUyMHBBVW41UWhIeHhpUFZGM0w1dGYw?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Dolly Parton’s sister reveals ‘last thing’ country legend asked of her before death
+                - figure [ref=e1284]
+              - generic [ref=e1285]:
+                - time [ref=e1286]: 6 hours ago
+                - separator [ref=e1287]
+                - generic [ref=e1288]: By Lori Bashian
+                - generic [ref=e1289]:
+                  - link "See more headlines & perspectives - Dolly Parton’s sister reveals ‘last thing’ country legend asked of her before death" [ref=e1291] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWMjdyM0VSR01ZQzJ2YVVIanNDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1294]: See more headlines & perspectives
+            - separator [ref=e1295]
+            - generic [ref=e1298]:
+              - generic [ref=e1299]:
+                - link [ref=e1301] [cursor=pointer]:
+                  - /url: ./read/CBMiqwFBVV95cUxNOG8zV3NYbFBRUFRvZ1dFcmNaR3ItVEN3MHgxRGFwTl9LYkszTzVUMGdoZElTN09yR000NnVzN2hVOUk0aHRaSUF4Sk1iY2tQcVJERXl4MUJUUktfMnlWSEJCOWNfdzRxY2hwak52REV2ZWhzeTkxUTExckJmTGVxa3ZnY3J5bHlwX0o4X2IwRTZSMGtTdzVBMFRtRlUtZjJEcU5rUTFRLThGUlHSAbABQVVfeXFMT3FxeDhpV1oxTlJpNEg5NjlrNkpLVTRVdzd1cllUQXpPU0NUazZRSjJsZlh0aWVtZGVnSEpZUjBFV25KSFVGd1ZRYzFKWEhVNnNiZzlxWThGRk54VktQQ0ZqT3FJajluRE5HV3VRR2F0dEtrbmRkX1h5OEx0YVNnUkk2MWNwR0V3ODNSZXQ1d0dJcnpmMEV2YS1zZzlNaW9hemxzWUt3VjYzVHFFQTRnWVo?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1303]:
+                  - generic [ref=e1304]:
+                    - generic [ref=e1305]: Al Jazeera
+                    - generic [ref=e1311]:
+                      - generic:
+                        - button "More - Israeli film on Gaza receives 25-minute ovation at Venice premiere" [ref=e1312] [cursor=pointer]
+                        - tooltip [ref=e1316]: More
+                  - link "Israeli film on Gaza receives 25-minute ovation at Venice premiere - Al Jazeera - 4 hours ago" [ref=e1317] [cursor=pointer]:
+                    - /url: ./read/CBMiqwFBVV95cUxNOG8zV3NYbFBRUFRvZ1dFcmNaR3ItVEN3MHgxRGFwTl9LYkszTzVUMGdoZElTN09yR000NnVzN2hVOUk0aHRaSUF4Sk1iY2tQcVJERXl4MUJUUktfMnlWSEJCOWNfdzRxY2hwak52REV2ZWhzeTkxUTExckJmTGVxa3ZnY3J5bHlwX0o4X2IwRTZSMGtTdzVBMFRtRlUtZjJEcU5rUTFRLThGUlHSAbABQVVfeXFMT3FxeDhpV1oxTlJpNEg5NjlrNkpLVTRVdzd1cllUQXpPU0NUazZRSjJsZlh0aWVtZGVnSEpZUjBFV25KSFVGd1ZRYzFKWEhVNnNiZzlxWThGRk54VktQQ0ZqT3FJajluRE5HV3VRR2F0dEtrbmRkX1h5OEx0YVNnUkk2MWNwR0V3ODNSZXQ1d0dJcnpmMEV2YS1zZzlNaW9hemxzWUt3VjYzVHFFQTRnWVo?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Israeli film on Gaza receives 25-minute ovation at Venice premiere
+                - figure [ref=e1318]
+              - generic [ref=e1319]:
+                - time [ref=e1320]: 4 hours ago
+                - generic [ref=e1321]:
+                  - link "See more headlines & perspectives - Israeli film on Gaza receives 25-minute ovation at Venice premiere" [ref=e1323] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lyb05MN0VSRlptTmZvdEpLcVNpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1326]: See more headlines & perspectives
+            - separator [ref=e1327]
+            - generic [ref=e1330]:
+              - generic [ref=e1331]:
+                - link [ref=e1333] [cursor=pointer]:
+                  - /url: ./read/CBMimgFBVV95cUxNWHJQMXN6aS1ONUtickdqVFhabnBYbXJ6ZHlmeVBRa2Utd1ZRSHhOQlIwdmZRWnppMjRTZjRrX0NlSXM5Y01VTGw2d2NBYldycTZHMXFuZDNFa1RGNDMtNTdtcWluTHZVdEpUQ3ZWeHcxby04dFlUZnY4aEpQZHdnX2xheU16M1o1ZmVPRTlGQVhUZTJhUXhmN1Fn?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1335]:
+                  - generic [ref=e1336]:
+                    - generic [ref=e1337]: Yahoo
+                    - generic [ref=e1343]:
+                      - generic:
+                        - button "More - The Clock Is Ticking to Pull Off an Entirely New ‘60 Minutes’" [ref=e1344] [cursor=pointer]
+                        - tooltip [ref=e1348]: More
+                  - link "The Clock Is Ticking to Pull Off an Entirely New ‘60 Minutes’ - Yahoo - 11 hours ago - By Alex Weprin" [ref=e1349] [cursor=pointer]:
+                    - /url: ./read/CBMimgFBVV95cUxNWHJQMXN6aS1ONUtickdqVFhabnBYbXJ6ZHlmeVBRa2Utd1ZRSHhOQlIwdmZRWnppMjRTZjRrX0NlSXM5Y01VTGw2d2NBYldycTZHMXFuZDNFa1RGNDMtNTdtcWluTHZVdEpUQ3ZWeHcxby04dFlUZnY4aEpQZHdnX2xheU16M1o1ZmVPRTlGQVhUZTJhUXhmN1Fn?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: The Clock Is Ticking to Pull Off an Entirely New ‘60 Minutes’
+                - figure [ref=e1350]
+              - generic [ref=e1351]:
+                - time [ref=e1352]: 11 hours ago
+                - separator [ref=e1353]
+                - generic [ref=e1354]: By Alex Weprin
+                - generic [ref=e1355]:
+                  - link "See more headlines & perspectives - The Clock Is Ticking to Pull Off an Entirely New ‘60 Minutes’" [ref=e1357] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pHa0lQMUVSSEN4WnFsNTItTERTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1360]: See more headlines & perspectives
+        - generic [ref=e1363]:
+          - heading [level=3] [ref=e1365]:
+            - link "Sports" [ref=e1366] [cursor=pointer]:
+              - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+          - separator [ref=e1369]
+          - generic [ref=e1370]:
+            - generic [ref=e1373]:
+              - generic [ref=e1374]:
+                - link [ref=e1376] [cursor=pointer]:
+                  - /url: ./read/CBMisAFBVV95cUxNMk9ic1cyTU9kZVp5Ny1pU05zc19CZmFLZWprRUZQek1jZzdvdklfMjh4S3BUU3lvN3JfYjlvME1UYld4ejJpWXZSd29SVlJfVFN1M0JmTkljNTRIQlIyYkd6NGU3VVI3UHRTQjZNRS1JeG5lY3Rkc1dBSFpaOUo0VDJlNmFidHhrRE8tQjNuQ19Va3d3Z0M1NXQyR1B5MnFkRmQ1aEF6VUVWNl9Gak9Scw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1378]:
+                  - generic [ref=e1379]:
+                    - generic [ref=e1380]: NBC Sports
+                    - generic [ref=e1386]:
+                      - generic:
+                        - button "More - Brock Purdy, 49ers dominate Rams 27-7 in Australia" [ref=e1387] [cursor=pointer]
+                        - tooltip [ref=e1391]: More
+                  - link "Brock Purdy, 49ers dominate Rams 27-7 in Australia - NBC Sports - 54 minutes ago - By Charean Williams" [ref=e1392] [cursor=pointer]:
+                    - /url: ./read/CBMisAFBVV95cUxNMk9ic1cyTU9kZVp5Ny1pU05zc19CZmFLZWprRUZQek1jZzdvdklfMjh4S3BUU3lvN3JfYjlvME1UYld4ejJpWXZSd29SVlJfVFN1M0JmTkljNTRIQlIyYkd6NGU3VVI3UHRTQjZNRS1JeG5lY3Rkc1dBSFpaOUo0VDJlNmFidHhrRE8tQjNuQ19Va3d3Z0M1NXQyR1B5MnFkRmQ1aEF6VUVWNl9Gak9Scw?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: Brock Purdy, 49ers dominate Rams 27-7 in Australia
+                - figure [ref=e1393]
+              - generic [ref=e1394]:
+                - time [ref=e1395]: 54 minutes ago
+                - separator [ref=e1396]
+                - generic [ref=e1397]: By Charean Williams
+                - generic [ref=e1398]:
+                  - link "See more headlines & perspectives - Brock Purdy, 49ers dominate Rams 27-7 in Australia" [ref=e1400] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o0aXZYd0VSRWhjM1ZFMlZFM0VpZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1403]: See more headlines & perspectives
+            - separator [ref=e1404]
+            - generic [ref=e1407]:
+              - generic [ref=e1408]:
+                - link [ref=e1410] [cursor=pointer]:
+                  - /url: ./read/CBMiZEFVX3lxTFBxRlo4Y19nRzE5cHhSdjRDUlprR2ZKRlhCVzNCLWUzYnhFdldXM3dGVHRpcEdFQUs0di1mUmtNNk1IZ0loendTM0JTYzlxajBERzNMX0JVWWt2aTFsdG9NUnlacUg?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1412]:
+                  - generic [ref=e1413]:
+                    - generic [ref=e1414]: BBC
+                    - generic [ref=e1420]:
+                      - generic:
+                        - 'button "More - US Open 2026 results: Aryna Sabalenka storms past Jessica Pegula to reach fourth successive US Open final" [ref=e1421] [cursor=pointer]'
+                        - tooltip [ref=e1425]: More
+                  - 'link "US Open 2026 results: Aryna Sabalenka storms past Jessica Pegula to reach fourth successive US Open final - BBC - 3 hours ago - By Emily Salley" [ref=e1426] [cursor=pointer]':
+                    - /url: ./read/CBMiZEFVX3lxTFBxRlo4Y19nRzE5cHhSdjRDUlprR2ZKRlhCVzNCLWUzYnhFdldXM3dGVHRpcEdFQUs0di1mUmtNNk1IZ0loendTM0JTYzlxajBERzNMX0JVWWt2aTFsdG9NUnlacUg?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: "US Open 2026 results: Aryna Sabalenka storms past Jessica Pegula to reach fourth successive US Open final"
+                - figure [ref=e1427]
+              - generic [ref=e1428]:
+                - time [ref=e1429]: 3 hours ago
+                - separator [ref=e1430]
+                - generic [ref=e1431]: By Emily Salley
+                - generic [ref=e1432]:
+                  - 'link "See more headlines & perspectives - US Open 2026 results: Aryna Sabalenka storms past Jessica Pegula to reach fourth successive US Open final" [ref=e1434] [cursor=pointer]':
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lSNE1IN0VSRUlSZmFDQzFseWF5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1437]: See more headlines & perspectives
+            - separator [ref=e1438]
+            - generic [ref=e1441]:
+              - generic [ref=e1442]:
+                - link [ref=e1444] [cursor=pointer]:
+                  - /url: ./read/CBMitgFBVV95cUxQSzBRYmNuaDN2ck5NRlY1YXNUVFhwbU5yRXRyNEtIZjVTcVVWbjl5MnlsR091dm1yUi1XY1I5NWNBU1RfZUFSUnREcUU1Mk16bTJSakdvUDQ4RnpINlF6R1pTSXlHR1lSSnRhZjNoeXViUXZXbW1MX0dIZWxKX1g4UGtfYVRaT21PQThCWDFfSlYtUHEzSWY4Smw1d0VMbUExUkRuaHJOdjduLVA4M3JmTEkzWnh1Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1446]:
+                  - generic [ref=e1447]:
+                    - generic [ref=e1448]: FOX Sports
+                    - generic [ref=e1454]:
+                      - generic:
+                        - button "More - College Football Week 2 Expert Picks, Predictions For Michigan-Oklahoma And More" [ref=e1455] [cursor=pointer]
+                        - tooltip [ref=e1459]: More
+                  - link "College Football Week 2 Expert Picks, Predictions For Michigan-Oklahoma And More - FOX Sports - 11 hours ago" [ref=e1460] [cursor=pointer]:
+                    - /url: ./read/CBMitgFBVV95cUxQSzBRYmNuaDN2ck5NRlY1YXNUVFhwbU5yRXRyNEtIZjVTcVVWbjl5MnlsR091dm1yUi1XY1I5NWNBU1RfZUFSUnREcUU1Mk16bTJSakdvUDQ4RnpINlF6R1pTSXlHR1lSSnRhZjNoeXViUXZXbW1MX0dIZWxKX1g4UGtfYVRaT21PQThCWDFfSlYtUHEzSWY4Smw1d0VMbUExUkRuaHJOdjduLVA4M3JmTEkzWnh1Zw?hl=en-US&gl=US&ceid=US%3Aen
+                    - text: College Football Week 2 Expert Picks, Predictions For Michigan-Oklahoma And More
+                - figure [ref=e1461]
+              - generic [ref=e1462]:
+                - time [ref=e1463]: 11 hours ago
+                - generic [ref=e1464]:
+                  - link "See more headlines & perspectives - College Football Week 2 Expert Picks, Predictions For Michigan-Oklahoma And More" [ref=e1466] [cursor=pointer]:
+                    - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oteVlENkVSRnRWM3g0eGI4OWtTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - tooltip [ref=e1469]: See more headlines & perspectives
+    - generic [ref=e1480]:
+      - heading "Sources" [level=2] [ref=e1481]
+      - paragraph [ref=e1482]: Popular in your area
+      - generic [ref=e1483]:
+        - button [ref=e1488] [cursor=pointer]
+        - generic [ref=e1492]:
+          - generic [ref=e1496]:
+            - generic [ref=e1497]: Introducing News Showcase
+            - generic [ref=e1498]: A new feature from Google highlighting stories selected by newsroom editors
+          - generic [ref=e1504]:
+            - generic [ref=e1505]:
+              - link [ref=e1506] [cursor=pointer]:
+                - /url: ./publications/CAAqKAgKIiJDQklTRXdnTWFnOEtEV0pzYjI5dFltVnlaeTVqYjIwb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+                - heading "Bloomberg" [level=3] [ref=e1507]:
+                  - img "Bloomberg" [ref=e1508]
+              - generic [ref=e1510]:
+                - button "Follow this source - Bloomberg" [ref=e1512]:
+                  - generic [ref=e1518]: Follow
+                - tooltip [ref=e1519]: Follow this source
+            - heading "Top Stories" [level=4] [ref=e1520]
+            - generic [ref=e1521]:
+              - generic [ref=e1522]:
+                - link [ref=e1524] [cursor=pointer]:
+                  - /url: ./read/CBMi9ARBVV95cUxNaWFxeVRhd2Z6d0hVcWU4VFJXT2F0UV9fWDR3YTV1YWhBZVQ1TkVSTkJUZ0UxaWdLQ3hTTkxBaUo3NDlhaDh1N1JmcnFnODRGVmo0QjF3b0JWRDFVRUdtSGtfVHRZS2JLLTVCT2IwZlI2cTNMalFJVVJOUGUyb01kR0hYYkJkSkNzak9IZDlMMlg0dEsxWjRLOEQ5QkhwTnJrNERHTjdJMXFoWFBhVXNNVW1OYTJfMmtjTnB4VGx3Y3dBdWlGbmtPZGZ5YzUxb29rV0lSbVJZVWZDMDlFOXdFc0kzM0F6aW5Bd3Q3LUdKOHZjVGtUMU9veEo3ektwZHMyaDZBaFNlbzc2RWJUTWZKcWRJQWpGSm43ejEtVEFRVHJINEhaWXQ4UUc2b0NQMEtabVZzWVhOYkNHRlJPRE9qNHlxeTFQV0xTYnB1aVdveUkyWkhlSkJXX21PbmNOTmYyRHk4MjBXVUNtcTdpd1ExM0ZaOFQ5WTRiRENaeGZFRlFsLUdGWGZHWEJDcmVqa01uU21KNFBKUDlLNzF6WEd1Q21oUElHM2poVGZtMmlsX0Y3djFfaFh4dzU5dnpDZi00djRMTFA1VlVlR1dhVlZISUlfU3dtbURuaTF5ZjlQNWVxbE9naHh2dXhUdlB0Nzd2MDJVTURnNk1salZ4OEwySjhyTVJXZnlNUTE1ZmFVU0pMcXNYUWtCMjhRQVRIdHY0b1ItemlmcUo4cmhTNVBOd2RVNW4yNUhiNlo1Q091N09jazFldFhfWnUxeGRaMTNyQlB3Uzd1ampTajFCMjZnV1pfeGZJRWZaRnZzdlE1bmxCRkpn?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1525]: Technology
+                - link "Oracle Posts Cloud Sales That Top Estimates on AI Demand" [ref=e1526] [cursor=pointer]:
+                  - /url: ./read/CBMi9ARBVV95cUxNaWFxeVRhd2Z6d0hVcWU4VFJXT2F0UV9fWDR3YTV1YWhBZVQ1TkVSTkJUZ0UxaWdLQ3hTTkxBaUo3NDlhaDh1N1JmcnFnODRGVmo0QjF3b0JWRDFVRUdtSGtfVHRZS2JLLTVCT2IwZlI2cTNMalFJVVJOUGUyb01kR0hYYkJkSkNzak9IZDlMMlg0dEsxWjRLOEQ5QkhwTnJrNERHTjdJMXFoWFBhVXNNVW1OYTJfMmtjTnB4VGx3Y3dBdWlGbmtPZGZ5YzUxb29rV0lSbVJZVWZDMDlFOXdFc0kzM0F6aW5Bd3Q3LUdKOHZjVGtUMU9veEo3ektwZHMyaDZBaFNlbzc2RWJUTWZKcWRJQWpGSm43ejEtVEFRVHJINEhaWXQ4UUc2b0NQMEtabVZzWVhOYkNHRlJPRE9qNHlxeTFQV0xTYnB1aVdveUkyWkhlSkJXX21PbmNOTmYyRHk4MjBXVUNtcTdpd1ExM0ZaOFQ5WTRiRENaeGZFRlFsLUdGWGZHWEJDcmVqa01uU21KNFBKUDlLNzF6WEd1Q21oUElHM2poVGZtMmlsX0Y3djFfaFh4dzU5dnpDZi00djRMTFA1VlVlR1dhVlZISUlfU3dtbURuaTF5ZjlQNWVxbE9naHh2dXhUdlB0Nzd2MDJVTURnNk1salZ4OEwySjhyTVJXZnlNUTE1ZmFVU0pMcXNYUWtCMjhRQVRIdHY0b1ItemlmcUo4cmhTNVBOd2RVNW4yNUhiNlo1Q091N09jazFldFhfWnUxeGRaMTNyQlB3Uzd1ampTajFCMjZnV1pfeGZJRWZaRnZzdlE1bmxCRkpn?hl=en-US&gl=US&ceid=US%3Aen
+                - figure [ref=e1527]
+              - generic [ref=e1528]:
+                - link [ref=e1530] [cursor=pointer]:
+                  - /url: ./read/CBMi8wRBVV95cUxNQXhWQUlhWFBzTmt2bkVTdWo1NmpTLUVZM1JudGxyZHVnU0pPc1JoSjNkSDVPTXN2Zy1vZWZlYms0dENIdGlWMzBQOTl4OTdjUTRlanFuLTRqU1NqMVhyVkpHQVRMU2pMUlRocTFJMlg3a0ZQS2RFQWpNY2EyS2pkV1Y3SzU1WmRKTzBIcFJoM3dqLVJoclJVRUhXNWZrQWpsY1RaMmFIRWZnNmc1TEJUd05zSVdrNGtjTUJmQXB3NmJtcTgtakIweVdFdVVfY0NfS1NUa09Nd3owN0JjMEpibmN6WVMyQ3UzQVdramtHYnRSWERIQjlRNVdBeW5maElLZzgwenlnSXJ0NjRvQmJlbHpwWGMyTXN6dkpERlBDTmhVZmZvcHoyeG9GMXRDOG1kQmROQS1nOG9IWVVsV2lkQk1zMWQ3U056OUo3aFBuRUpNcjFyajkwTnJJVjBEQUp5WEdvUXY0T2ROOE5ycEIxeTlZMXlIQ1V0RkhTNldfMFBzaF9JcWdiOWVMYm5IaUlJMXNzRVExOTNMTUV5dXYzTmx2R3FJbW9tYlZmSHhyekVDRGxvWVYxNjBjZ3JfLVV3VHYyaDFPRHNyRnhURHN3SElDcVF6eTFWdmp4SWYzM01aNFZEcUd1RFduWUZmRmZHR0tYSXJMYnpXSzR2eDlvUlZIZFczeUNkVzBQc0V3RXZaX08weHhNb3hiTkRRTlN2LWlsWHVsbFRqNWNCM2lnMG90U3AwWGZMWVF2N215eFE2ZFJWUVFZR2VjS0dVakRvaDNKYno0SDBGbU8wWm1Lb0F4NUVFc3dFOVZVb3JBMy1SMEk?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1531]: Markets
+                - link "Bessent's US Debt Buyback Disappoints, Sending Yields Higher" [ref=e1532] [cursor=pointer]:
+                  - /url: ./read/CBMi8wRBVV95cUxNQXhWQUlhWFBzTmt2bkVTdWo1NmpTLUVZM1JudGxyZHVnU0pPc1JoSjNkSDVPTXN2Zy1vZWZlYms0dENIdGlWMzBQOTl4OTdjUTRlanFuLTRqU1NqMVhyVkpHQVRMU2pMUlRocTFJMlg3a0ZQS2RFQWpNY2EyS2pkV1Y3SzU1WmRKTzBIcFJoM3dqLVJoclJVRUhXNWZrQWpsY1RaMmFIRWZnNmc1TEJUd05zSVdrNGtjTUJmQXB3NmJtcTgtakIweVdFdVVfY0NfS1NUa09Nd3owN0JjMEpibmN6WVMyQ3UzQVdramtHYnRSWERIQjlRNVdBeW5maElLZzgwenlnSXJ0NjRvQmJlbHpwWGMyTXN6dkpERlBDTmhVZmZvcHoyeG9GMXRDOG1kQmROQS1nOG9IWVVsV2lkQk1zMWQ3U056OUo3aFBuRUpNcjFyajkwTnJJVjBEQUp5WEdvUXY0T2ROOE5ycEIxeTlZMXlIQ1V0RkhTNldfMFBzaF9JcWdiOWVMYm5IaUlJMXNzRVExOTNMTUV5dXYzTmx2R3FJbW9tYlZmSHhyekVDRGxvWVYxNjBjZ3JfLVV3VHYyaDFPRHNyRnhURHN3SElDcVF6eTFWdmp4SWYzM01aNFZEcUd1RFduWUZmRmZHR0tYSXJMYnpXSzR2eDlvUlZIZFczeUNkVzBQc0V3RXZaX08weHhNb3hiTkRRTlN2LWlsWHVsbFRqNWNCM2lnMG90U3AwWGZMWVF2N215eFE2ZFJWUVFZR2VjS0dVakRvaDNKYno0SDBGbU8wWm1Lb0F4NUVFc3dFOVZVb3JBMy1SMEk?hl=en-US&gl=US&ceid=US%3Aen
+                - figure [ref=e1533]
+              - generic [ref=e1534]:
+                - link [ref=e1536] [cursor=pointer]:
+                  - /url: ./read/CBMi-gRBVV95cUxOMkktZHZlaHI1QVVjNUVsQ0hzblFCTWdKUHpXSGJEYnZJSzd0VjJMX2hDMzdpT3dESnFzQVEzblRiblI5V095N3c4X3lUQ3BSSVNEZE9EdGdSeFp0SHFkaWMya3RkQVdBcmNtU2pRaFVHaEU3cmhnSzZsRm41Zkc0eG81ajNPbWZWdDhiV2ZVVHVmOEVPMkpDajU3ZnJhQ1BsNEswRFMyeDBmU0tqR0RtYmJ1RzJoemRfU3Y0aVdxbGJoXy01Z1BjODlpYldSeFZJQUtOVHpUcHcxeEtjalI1RVFYREFwTHFoMEp6SVNodkdkaFlYNGFvMnFUaGdzSmo2QVVVWWxFUWFSVmh3aDd4eG0xMXpvelhtY0hzakVuM3NDc0ZCWkNBa2hsRkJEWF8zX195VVl5Uk1LRVBMTjI2dGRnc3ZWcDFGUUpNdGZkQ2c0enVzalRLM3dWUVFyTWV3T3JsVkF0QnhLUFR3MFNpdm85OVFEcUhfNjF0eVpDREhSYXMzdmo2QlpkU2tKUnJjekhwMWpGaXlXYWpHYzR0dTNHcXBFMWwwdDhSVlV1UVVSNnhMZ2hHYzZxaXRtQVJDR2JNdy0weWpSSmVzaWJpczcxbXY1NDZ5ZzRQcUxDX19ORk5kWkFBNWR5blViMU5XNncyUWdrRDk1SmRtVnd2NFI0ZTdselhoZ0JmdU5tbnREVGR6ZDUwNjJUY2tlMS01U1MxVFhhS3A3Y3RhSVNQck9lVUFzWk5TMXhHUm00VmFyWlc4U1ZNTGlxTG1HaFJMN3NEX000c3F3M0oxZEFCRnlwa0VwekZQZ244R0djNVFGYzZtdG5QUlVR?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1537]: Exclusive
+                - link "Hired to Code, He Built HRT and a $27 Billion Fortune" [ref=e1538] [cursor=pointer]:
+                  - /url: ./read/CBMi-gRBVV95cUxOMkktZHZlaHI1QVVjNUVsQ0hzblFCTWdKUHpXSGJEYnZJSzd0VjJMX2hDMzdpT3dESnFzQVEzblRiblI5V095N3c4X3lUQ3BSSVNEZE9EdGdSeFp0SHFkaWMya3RkQVdBcmNtU2pRaFVHaEU3cmhnSzZsRm41Zkc0eG81ajNPbWZWdDhiV2ZVVHVmOEVPMkpDajU3ZnJhQ1BsNEswRFMyeDBmU0tqR0RtYmJ1RzJoemRfU3Y0aVdxbGJoXy01Z1BjODlpYldSeFZJQUtOVHpUcHcxeEtjalI1RVFYREFwTHFoMEp6SVNodkdkaFlYNGFvMnFUaGdzSmo2QVVVWWxFUWFSVmh3aDd4eG0xMXpvelhtY0hzakVuM3NDc0ZCWkNBa2hsRkJEWF8zX195VVl5Uk1LRVBMTjI2dGRnc3ZWcDFGUUpNdGZkQ2c0enVzalRLM3dWUVFyTWV3T3JsVkF0QnhLUFR3MFNpdm85OVFEcUhfNjF0eVpDREhSYXMzdmo2QlpkU2tKUnJjekhwMWpGaXlXYWpHYzR0dTNHcXBFMWwwdDhSVlV1UVVSNnhMZ2hHYzZxaXRtQVJDR2JNdy0weWpSSmVzaWJpczcxbXY1NDZ5ZzRQcUxDX19ORk5kWkFBNWR5blViMU5XNncyUWdrRDk1SmRtVnd2NFI0ZTdselhoZ0JmdU5tbnREVGR6ZDUwNjJUY2tlMS01U1MxVFhhS3A3Y3RhSVNQck9lVUFzWk5TMXhHUm00VmFyWlc4U1ZNTGlxTG1HaFJMN3NEX000c3F3M0oxZEFCRnlwa0VwekZQZ244R0djNVFGYzZtdG5QUlVR?hl=en-US&gl=US&ceid=US%3Aen
+                - figure [ref=e1539]
+            - generic [ref=e1540]:
+              - generic [ref=e1541]:
+                - generic [ref=e1542]: Showcase
+                - time [ref=e1543]: • 7 hours ago
+              - generic [ref=e1548]:
+                - button "More - Bloomberg" [ref=e1549] [cursor=pointer]
+                - tooltip [ref=e1553]: More
+          - generic [ref=e1557]:
+            - generic [ref=e1558]:
+              - link [ref=e1559] [cursor=pointer]:
+                - /url: ./publications/CAAqLQgKIidDQklTRndnTWFoTUtFVzFoYm5OcGIyNW5iRzlpWVd3dVkyOXRLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - heading "Mansion Global" [level=3] [ref=e1560]:
+                  - img "Mansion Global" [ref=e1561]
+              - generic [ref=e1563]:
+                - button "Follow this source - Mansion Global" [ref=e1565]:
+                  - generic [ref=e1571]: Follow
+                - tooltip [ref=e1572]: Follow this source
+            - heading "Luxury Real Estate News" [level=4] [ref=e1573]
+            - generic [ref=e1574]:
+              - generic [ref=e1575]:
+                - link [ref=e1577] [cursor=pointer]:
+                  - /url: ./read/CBMihwVBVV95cUxNeGphcmZVUmVla2tTOG0zT2pKWXhlS1pkZEFXaGRGTk52a1U4UlpIaVZYeXZaOGFGM0pLaFozWnd6SUdXcTRlWU9YSjg4cllSVXZjWmNoZGZKUE5mcGJLQ2IwWWhhLXE1S3F0cHQzdnFtMTd1X044QlN1eDdXRGh5RGdWRDdQWmtyWXBYMy1ZOTUxVkZvSHRRZ1l5bmttSDJnb2xGV29KbTBnWDJ0RnMxOUlsQTN1cXV2YkNqMnBONC1QYUNRcUo0bGhFampkbHFTd0NsNTJxeXlNTU9RZWowTm1MZ2tBSGhqRWswd3UxU3UxbWE4bnVJUVFlS3dDWk5UdXh4NnYzWEdPZThuNXBLWHljV21KWjZNU3JLY2lGQy1QQnVjWGt5cnF6NVlVYnN2MmtLOUhVa0lzVHJjZlFNVVVUdFA0OXNIS3NkNmFxUjhFaEVET3A0ZlJsVTBFXy1oWFJNVGFsS0NpT054VENXSmpMQUdhS1hpNVZuN2szWGZOcXVKVHN4UWpYb1dNTlBtdXF4WkRRc29wLVk4UFVta0hIYlVHOFIzbndDdzBNZG9KTU9Vd1RZZUxhT2hEcXEwVnNlajNDLUZEN2NtVE9LdTY0QmI2amM4aFFoRnFPREVUTDZ4Wmlqc3FOVXhsR0VsUjJrc3lkU1FEeWpCRXB6aldDSE45cy1mSGhCTF9UMWVNbHNYekNVeGdTd1RwM3BLSnFOOVdQN1FEUm95RHdvd1VJU1dOYWw1cUNrLW9xalVqYlVQdjlkNnBPTEx2V0lOcUp5QlQyWGkwTkVJb1NScDR4NHdESnZwRWE1bGhfZkI2TkE3UDVrWjZ5Tk9lN2hIeFFBeFRaSQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1578]: California
+                - link "Storybook Home on San Fran's Belvedere Island Lists for $3.6M" [ref=e1579] [cursor=pointer]:
+                  - /url: ./read/CBMihwVBVV95cUxNeGphcmZVUmVla2tTOG0zT2pKWXhlS1pkZEFXaGRGTk52a1U4UlpIaVZYeXZaOGFGM0pLaFozWnd6SUdXcTRlWU9YSjg4cllSVXZjWmNoZGZKUE5mcGJLQ2IwWWhhLXE1S3F0cHQzdnFtMTd1X044QlN1eDdXRGh5RGdWRDdQWmtyWXBYMy1ZOTUxVkZvSHRRZ1l5bmttSDJnb2xGV29KbTBnWDJ0RnMxOUlsQTN1cXV2YkNqMnBONC1QYUNRcUo0bGhFampkbHFTd0NsNTJxeXlNTU9RZWowTm1MZ2tBSGhqRWswd3UxU3UxbWE4bnVJUVFlS3dDWk5UdXh4NnYzWEdPZThuNXBLWHljV21KWjZNU3JLY2lGQy1QQnVjWGt5cnF6NVlVYnN2MmtLOUhVa0lzVHJjZlFNVVVUdFA0OXNIS3NkNmFxUjhFaEVET3A0ZlJsVTBFXy1oWFJNVGFsS0NpT054VENXSmpMQUdhS1hpNVZuN2szWGZOcXVKVHN4UWpYb1dNTlBtdXF4WkRRc29wLVk4UFVta0hIYlVHOFIzbndDdzBNZG9KTU9Vd1RZZUxhT2hEcXEwVnNlajNDLUZEN2NtVE9LdTY0QmI2amM4aFFoRnFPREVUTDZ4Wmlqc3FOVXhsR0VsUjJrc3lkU1FEeWpCRXB6aldDSE45cy1mSGhCTF9UMWVNbHNYekNVeGdTd1RwM3BLSnFOOVdQN1FEUm95RHdvd1VJU1dOYWw1cUNrLW9xalVqYlVQdjlkNnBPTEx2V0lOcUp5QlQyWGkwTkVJb1NScDR4NHdESnZwRWE1bGhfZkI2TkE3UDVrWjZ5Tk9lN2hIeFFBeFRaSQ?hl=en-US&gl=US&ceid=US%3Aen
+                - figure [ref=e1580]
+              - generic [ref=e1581]:
+                - link [ref=e1583] [cursor=pointer]:
+                  - /url: ./read/CBMi-ARBVV95cUxOQnNXUHRKeDRPNi1seFBYOElLcHlERVhxZThPdWZ4aWdXYlJaMEZKQllTYUwyWE9yR05PU283TXc1NVBNX2JmUFRKZHBaLTF1WE1FLWlqdl8tUFB5VVRtbU5qdFZLSU9LZ3NjMmNDNVR3NTgxMUtDaU9acWtZX1NNVEo5RXFYZjBEY3ZNVktuTTNZTFdYcWdZdHlwWEsyeGYtM1V1WUpWUFlBNjYxS3RDQmZ2ekljQnItZ0hvY1FiVXZKMWV0Nkc2cWx4aXVWb3F4ZTJXYkpWb1g0Q05mVlVRY0diUWhsakZ0NXhmMElaalk1dGx6S2lycG0yMGpmZFdWRy1hNmNWODQ1aFRkdlo4UWViUnRMN0VETk9xYVRacXYyZHdXVWg1bDZTWEZOOGF0YnFUd0EyRjZaN1NROW9vRnFIMXhEZlRHWFVYTDdMbUhHV2pSdjhjdXVYcHBzMWhVZEpXaFlHcm5MRlZWQWIwSTNCR0NtcloxbUdJbnZjckdYeEczM0VrbmxNdnV4QlVWRkF3b2hza2VzNWl3RGVRa1lKLTlzS3UtenRHUVNIZE54SVlKUGEwQUpSaTBKeF8wblkxNTFaRjBFQXlMamJ6Q2F6ZDRBZzZFelo5Q3RxdkJlZ2RUNXBycG1oZDNKalU1QkdaZzJBUmhfLWpFNnNjNnVENUw2TmxzLVRpaUNXZUE2eEpteUpGaENoZUE3RkVxdmUyTlhERk1QRUtNWThCRHFtazVmMF9YTmpHakRqYUFFZWdocjFzRG5qdWtBR3NuWUV1WnBMT1hWbnhwOTNNOC1mOXZOTU5yQWdKUlNpc2NmNGVldkk3bA?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1584]: Rebuilds & Renos
+                - link "A Designer Restored the Drama to a Pad in France’s Film Capital" [ref=e1585] [cursor=pointer]:
+                  - /url: ./read/CBMi-ARBVV95cUxOQnNXUHRKeDRPNi1seFBYOElLcHlERVhxZThPdWZ4aWdXYlJaMEZKQllTYUwyWE9yR05PU283TXc1NVBNX2JmUFRKZHBaLTF1WE1FLWlqdl8tUFB5VVRtbU5qdFZLSU9LZ3NjMmNDNVR3NTgxMUtDaU9acWtZX1NNVEo5RXFYZjBEY3ZNVktuTTNZTFdYcWdZdHlwWEsyeGYtM1V1WUpWUFlBNjYxS3RDQmZ2ekljQnItZ0hvY1FiVXZKMWV0Nkc2cWx4aXVWb3F4ZTJXYkpWb1g0Q05mVlVRY0diUWhsakZ0NXhmMElaalk1dGx6S2lycG0yMGpmZFdWRy1hNmNWODQ1aFRkdlo4UWViUnRMN0VETk9xYVRacXYyZHdXVWg1bDZTWEZOOGF0YnFUd0EyRjZaN1NROW9vRnFIMXhEZlRHWFVYTDdMbUhHV2pSdjhjdXVYcHBzMWhVZEpXaFlHcm5MRlZWQWIwSTNCR0NtcloxbUdJbnZjckdYeEczM0VrbmxNdnV4QlVWRkF3b2hza2VzNWl3RGVRa1lKLTlzS3UtenRHUVNIZE54SVlKUGEwQUpSaTBKeF8wblkxNTFaRjBFQXlMamJ6Q2F6ZDRBZzZFelo5Q3RxdkJlZ2RUNXBycG1oZDNKalU1QkdaZzJBUmhfLWpFNnNjNnVENUw2TmxzLVRpaUNXZUE2eEpteUpGaENoZUE3RkVxdmUyTlhERk1QRUtNWThCRHFtazVmMF9YTmpHakRqYUFFZWdocjFzRG5qdWtBR3NuWUV1WnBMT1hWbnhwOTNNOC1mOXZOTU5yQWdKUlNpc2NmNGVldkk3bA?hl=en-US&gl=US&ceid=US%3Aen
+                - figure [ref=e1586]
+              - generic [ref=e1587]:
+                - link [ref=e1589] [cursor=pointer]:
+                  - /url: ./read/CBMigAVBVV95cUxQbGR4bVlsTVNvMVd2ZGpZRk10c3JZUXYtM09xU3dvM25EZGNYT3FTUjVhbUd1TmlldDdzSlRCMGhYMXE5V1VJb3htczFwTkZQSjEyVkI1R0g2eVdIV1JNbWpuN2sxR0l1WlFFUXo5VTVleWVHMWNwUVBnR3p2Tkp0b1JzRW95QVhEUmg2cjQwRlZ5RTZKU3hzZFdpelVnbVprM2hrX2hYVnY0SThMdEJMRFpza0ZhSEtINHg2MmdjQUJTemZieEV4VlJiVHFPbWdrQnhkM2JTbGxpMmVzSDFNMEZrTlM4aUxMVHVRZ0pLejFnbFBfZGx5azhYUGRObjZxblpZN3NNdFQzUXI1QVFsZm54MlJQU3ZCNGFHRVZNeElyeXctbUZvQTREcDZUS19wR3FPYzBweGE5Zl82WWJMVkFVam1TbUFFM1JBYnNQc3U3bzNRTE9FY2NRdmJjLXNsQkthLXdDSmdObElpVV9tUUFJMmRnQ19qSm1acEFfbC14Y001RVM1RDl3WEljQnYxWlhBcmhLQi1lWVhGM1VhZnEzSlpGQ01vdGVhMXRRaklrS0Jad2tFbl9NUUZGM24yaFRiZVRHQnlMal84cFZYRGR4NjFrSHVOX1JHZFVJaldIcUhjMnM5SmE3alpFQTQtbVVRY0NqMWwwNVBlamhaSmRzOHNFeEFqVllaTVVGbWNyRTRWZUc4MUYzY2ZiX2pDM2VVWlRpUkVNdmNJZmhMekczUmhNZlhfWlFiOTBqU1FzUnc2Yld4QzBCcF9jM0FYVnFLaFRuR2ZNVWUxNXNwT3UtbUNfR1lPejQ4cmhiWk1fRzJEMVZXWkZCck14RWpW?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1590]: New York
+                - link "Top of a 200-Year-Old Orphanage Lists as a Penthouse for $11.75M" [ref=e1591] [cursor=pointer]:
+                  - /url: ./read/CBMigAVBVV95cUxQbGR4bVlsTVNvMVd2ZGpZRk10c3JZUXYtM09xU3dvM25EZGNYT3FTUjVhbUd1TmlldDdzSlRCMGhYMXE5V1VJb3htczFwTkZQSjEyVkI1R0g2eVdIV1JNbWpuN2sxR0l1WlFFUXo5VTVleWVHMWNwUVBnR3p2Tkp0b1JzRW95QVhEUmg2cjQwRlZ5RTZKU3hzZFdpelVnbVprM2hrX2hYVnY0SThMdEJMRFpza0ZhSEtINHg2MmdjQUJTemZieEV4VlJiVHFPbWdrQnhkM2JTbGxpMmVzSDFNMEZrTlM4aUxMVHVRZ0pLejFnbFBfZGx5azhYUGRObjZxblpZN3NNdFQzUXI1QVFsZm54MlJQU3ZCNGFHRVZNeElyeXctbUZvQTREcDZUS19wR3FPYzBweGE5Zl82WWJMVkFVam1TbUFFM1JBYnNQc3U3bzNRTE9FY2NRdmJjLXNsQkthLXdDSmdObElpVV9tUUFJMmRnQ19qSm1acEFfbC14Y001RVM1RDl3WEljQnYxWlhBcmhLQi1lWVhGM1VhZnEzSlpGQ01vdGVhMXRRaklrS0Jad2tFbl9NUUZGM24yaFRiZVRHQnlMal84cFZYRGR4NjFrSHVOX1JHZFVJaldIcUhjMnM5SmE3alpFQTQtbVVRY0NqMWwwNVBlamhaSmRzOHNFeEFqVllaTVVGbWNyRTRWZUc4MUYzY2ZiX2pDM2VVWlRpUkVNdmNJZmhMekczUmhNZlhfWlFiOTBqU1FzUnc2Yld4QzBCcF9jM0FYVnFLaFRuR2ZNVWUxNXNwT3UtbUNfR1lPejQ4cmhiWk1fRzJEMVZXWkZCck14RWpW?hl=en-US&gl=US&ceid=US%3Aen
+                - figure [ref=e1592]
+            - generic [ref=e1593]:
+              - generic [ref=e1594]:
+                - generic [ref=e1595]: Showcase
+                - time [ref=e1596]: • 7 hours ago
+              - generic [ref=e1601]:
+                - button "More - Mansion Global" [ref=e1602] [cursor=pointer]
+                - tooltip [ref=e1606]: More
+          - generic [ref=e1610]:
+            - generic [ref=e1611]:
+              - link [ref=e1612] [cursor=pointer]:
+                - /url: ./publications/CAAqLQgKIidDQklTRndnTWFoTUtFWE5oYkdselluVnllWEJ2YzNRdVkyOXRLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen
+                - heading "Salisbury Post" [level=3] [ref=e1613]:
+                  - img "Salisbury Post" [ref=e1614]
+              - generic [ref=e1616]:
+                - button "Follow this source - Salisbury Post" [ref=e1618]:
+                  - generic [ref=e1624]: Follow
+                - tooltip [ref=e1625]: Follow this source
+            - heading "Top News" [level=4] [ref=e1626]
+            - generic [ref=e1627]:
+              - generic [ref=e1628]:
+                - link [ref=e1630] [cursor=pointer]:
+                  - /url: ./read/CBMi1gJBVV95cUxNa0dobC1SRHJYSEt4UDRibEphQjFfSmhHS0RlTHVKMDBkRXF1R0UzSVp3bXJnLW1NdWE5TUZUUGNKbXE4NTZCdzkxUXVjRWpOMkFtR1hDeGdpRnRsOVpoblVFVzBDNmlMb09yUnFfNkpMVkJEN1FvMFYybXlqaTJwcERURHdvOEp1WldDTFBCUXRUampWQ0hqZ1RZa3B3Q3lsQ3YwUXdSNlBBRDc1SzZuM3VsVEpQSzlYMXFkT3hVNW91cG9IbWNEQ1lSbU5jcVRETWdIVEJNZlhoTGRkOHhnNHpXU0wxV3NYb2kzQVdHLXM3LWFMdEcwOUhJNV9ncUxwZWJQbGNBTENqTGlBSThFdzZrdnl5ak1Ta1p6X3Z2UzF0ZXEwcmpBeTVPUUxqeDV3V3VWVE05RHV4R1pNZ0xwYzFJaTIwWFIwZDVZTGtleDM4VGhPVkE?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1631]: News
+                - 'link "Creek Week returns: More than 20 events celebrating local waters" [ref=e1632] [cursor=pointer]':
+                  - /url: ./read/CBMi1gJBVV95cUxNa0dobC1SRHJYSEt4UDRibEphQjFfSmhHS0RlTHVKMDBkRXF1R0UzSVp3bXJnLW1NdWE5TUZUUGNKbXE4NTZCdzkxUXVjRWpOMkFtR1hDeGdpRnRsOVpoblVFVzBDNmlMb09yUnFfNkpMVkJEN1FvMFYybXlqaTJwcERURHdvOEp1WldDTFBCUXRUampWQ0hqZ1RZa3B3Q3lsQ3YwUXdSNlBBRDc1SzZuM3VsVEpQSzlYMXFkT3hVNW91cG9IbWNEQ1lSbU5jcVRETWdIVEJNZlhoTGRkOHhnNHpXU0wxV3NYb2kzQVdHLXM3LWFMdEcwOUhJNV9ncUxwZWJQbGNBTENqTGlBSThFdzZrdnl5ak1Ta1p6X3Z2UzF0ZXEwcmpBeTVPUUxqeDV3V3VWVE05RHV4R1pNZ0xwYzFJaTIwWFIwZDVZTGtleDM4VGhPVkE?hl=en-US&gl=US&ceid=US%3Aen
+                - figure [ref=e1633]
+              - generic [ref=e1634]:
+                - link [ref=e1636] [cursor=pointer]:
+                  - /url: ./read/CBMijwNBVV95cUxPWFdHcGR2U0pUSE0zQVp4YmYyZmtjM1paQ3JQX2xZbGxSSUhmR1FVVVJxTWJZZlRsR1BMZGRWR0JqMzE2RVVmOU9EVGJRd2NLdzFiRGtUTGh4c3h4NjFVWVhnbkRfQklTVTk5UnozRHRBV3FPVHAxYnRNcVdDT21LQkJqNzU3cUZHYXR1Sl8wc3VRMm1hVV8tOHh1cENybXZyMWc0bmpTSl8wLTBoanBSX1J4R1BZQm1maDg2VVhCTlFSZWhHS2N5U2l1YU5ncXpLOXhuS21YVFZIdVd0WF8wOUFQYUVUdG9ITUVzZTVMVzNVTU02ZGZ4dUh6RnQtYWNDR3BOT1ozOUNfeW5rTEdUZC0wcVhUNmMyYUNKYjRvdG9kbEpJbkVKSnhHYmlWU096MGQ5OVRNMElPN1JaQ2RnOXNrSlBzZVhzeHg2eHlSOFlfdHp2TXdEWVVkclU5Yjdoc0JNNnhTaUw2SERfdFd1NVV4U3JLUm5wa0ZsaU42STRRd0YxcXFWSWsycVVTYW8?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1637]: News
+                - link "Activities planned at Germanfest to make Old Stone House..." [ref=e1638] [cursor=pointer]:
+                  - /url: ./read/CBMijwNBVV95cUxPWFdHcGR2U0pUSE0zQVp4YmYyZmtjM1paQ3JQX2xZbGxSSUhmR1FVVVJxTWJZZlRsR1BMZGRWR0JqMzE2RVVmOU9EVGJRd2NLdzFiRGtUTGh4c3h4NjFVWVhnbkRfQklTVTk5UnozRHRBV3FPVHAxYnRNcVdDT21LQkJqNzU3cUZHYXR1Sl8wc3VRMm1hVV8tOHh1cENybXZyMWc0bmpTSl8wLTBoanBSX1J4R1BZQm1maDg2VVhCTlFSZWhHS2N5U2l1YU5ncXpLOXhuS21YVFZIdVd0WF8wOUFQYUVUdG9ITUVzZTVMVzNVTU02ZGZ4dUh6RnQtYWNDR3BOT1ozOUNfeW5rTEdUZC0wcVhUNmMyYUNKYjRvdG9kbEpJbkVKSnhHYmlWU096MGQ5OVRNMElPN1JaQ2RnOXNrSlBzZVhzeHg2eHlSOFlfdHp2TXdEWVVkclU5Yjdoc0JNNnhTaUw2SERfdFd1NVV4U3JLUm5wa0ZsaU42STRRd0YxcXFWSWsycVVTYW8?hl=en-US&gl=US&ceid=US%3Aen
+                - figure [ref=e1639]
+              - generic [ref=e1640]:
+                - link [ref=e1642] [cursor=pointer]:
+                  - /url: ./read/CBMiyAJBVV95cUxQcFBiWEZOdXIzYUVFMzhBTEtMQ05BLVdJSTZiYXY5MHFrZzhXWHVaY0tLWlBUa2tnc2pvUnptZThpNUtvM2dGQkN0NnFKRXZ3NExVYkF4eXB0YXYxZGlrOThueVkycHJJYXVvLUR1ajJ5b1ZEVEdfWWVTVG9ISzdEcjROS05uajRpelQzUHZlS2ZFLXVBRHVtSG5BYnl3aVhFN283STRhVXdGeDNHamhfM3dSbnZtc2JlVF9GaHNFQ2UzLTFIV2hxWU10cjlfSjBnOFRRYVJPNVRwU0lUUjMwWFlsNTJDMHFaMW5kU2xWclRlY1RreEFjbFJfbEZoWEVkMXlnQmU1TTZyRVBnYUR3ejhEZ2N3amFSSTFXSWFZQlBTY1ZUbW9maDdXcVN3czhncW03Rkx0dE1rYlcySWQ0R0NyODFidlhz?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e1643]: News
+                - link "RoCo’s Springer now representing Pender on nat’l ..." [ref=e1644] [cursor=pointer]:
+                  - /url: ./read/CBMiyAJBVV95cUxQcFBiWEZOdXIzYUVFMzhBTEtMQ05BLVdJSTZiYXY5MHFrZzhXWHVaY0tLWlBUa2tnc2pvUnptZThpNUtvM2dGQkN0NnFKRXZ3NExVYkF4eXB0YXYxZGlrOThueVkycHJJYXVvLUR1ajJ5b1ZEVEdfWWVTVG9ISzdEcjROS05uajRpelQzUHZlS2ZFLXVBRHVtSG5BYnl3aVhFN283STRhVXdGeDNHamhfM3dSbnZtc2JlVF9GaHNFQ2UzLTFIV2hxWU10cjlfSjBnOFRRYVJPNVRwU0lUUjMwWFlsNTJDMHFaMW5kU2xWclRlY1RreEFjbFJfbEZoWEVkMXlnQmU1TTZyRVBnYUR3ejhEZ2N3amFSSTFXSWFZQlBTY1ZUbW9maDdXcVN3czhncW03Rkx0dE1rYlcySWQ0R0NyODFidlhz?hl=en-US&gl=US&ceid=US%3Aen
+                - figure [ref=e1645]
+            - generic [ref=e1646]:
+              - generic [ref=e1647]:
+                - generic [ref=e1648]: Showcase
+                - time [ref=e1649]: • 6 minutes ago
+              - generic [ref=e1654]:
+                - button "More - Salisbury Post" [ref=e1655] [cursor=pointer]
+                - tooltip [ref=e1659]: More
+          - link [ref=e1661] [cursor=pointer]:
+            - /url: ./showcase?hl=en-US&gl=US&ceid=US%3Aen
+            - button "See more sources" [ref=e1662]
+    - generic [ref=e1671]:
+      - heading "Beyond the front page" [level=2] [ref=e1672]
+      - paragraph [ref=e1673]: Notable stories and conversation starters
+      - generic [ref=e1674]:
+        - generic [ref=e1678]:
+          - generic [ref=e1679]:
+            - link [ref=e1681] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxPb0RWeUlKcjQ2a0tpOTVLeGpkRVdza1M1R09pcjZ2UkFYQzhzYTdyc3JOVDItN0dQWjduU2puZ055MjlWWE5VSlRiQ0RQcC1kcjZ0bmtkNWRYbUV4ejQ4bmtmSWdSbmZSMGtpTkRiVzJoWUJkYlJrWW9vdkFFelRUWFdCbnN0NjA5UzBUZG5qa1p2bEF4bFd4ZFk4US1TSThCeDFnOTlNUEZCSmJYczcyVGpZVXRJUkFv?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1683]:
+              - generic [ref=e1684]:
+                - generic [ref=e1685]: Ars Technica
+                - generic [ref=e1691]:
+                  - generic:
+                    - button "More - Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus." [ref=e1692] [cursor=pointer]
+                    - tooltip [ref=e1696]: More
+              - link "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus. - Ars Technica - 2 days ago - By Ashley Belanger" [ref=e1697] [cursor=pointer]:
+                - /url: ./read/CBMiuAFBVV95cUxPb0RWeUlKcjQ2a0tpOTVLeGpkRVdza1M1R09pcjZ2UkFYQzhzYTdyc3JOVDItN0dQWjduU2puZ055MjlWWE5VSlRiQ0RQcC1kcjZ0bmtkNWRYbUV4ejQ4bmtmSWdSbmZSMGtpTkRiVzJoWUJkYlJrWW9vdkFFelRUWFdCbnN0NjA5UzBUZG5qa1p2bEF4bFd4ZFk4US1TSThCeDFnOTlNUEZCSmJYczcyVGpZVXRJUkFv?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.
+            - figure [ref=e1698]
+          - generic [ref=e1699]:
+            - time [ref=e1700]: 2 days ago
+            - separator [ref=e1701]
+            - generic [ref=e1702]: By Ashley Belanger
+        - generic [ref=e1706]:
+          - generic [ref=e1707]:
+            - link [ref=e1709] [cursor=pointer]:
+              - /url: ./read/CBMiYkFVX3lxTE9VMHFhc19oU1hjbjdMV3JxMWlUMkdObmplWFp2bWdaSnpMNXpOSWV0MExIdDVSbG5hRzVsUHBpTzl1Z2hlSjNzR1F2anFzSlpyZVo3OGgyUnZlZlFOYVlZX2l3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1711]:
+              - generic [ref=e1712]:
+                - generic [ref=e1713]: spectrum.ieee.org
+                - generic [ref=e1719]:
+                  - generic:
+                    - button "More - Cleaner Crash Data Could Prove That Human Drivers Are the Risky Ones" [ref=e1720] [cursor=pointer]
+                    - tooltip [ref=e1724]: More
+              - link "Cleaner Crash Data Could Prove That Human Drivers Are the Risky Ones - spectrum.ieee.org - 3 days ago - By Lawrence Ulrich" [ref=e1725] [cursor=pointer]:
+                - /url: ./read/CBMiYkFVX3lxTE9VMHFhc19oU1hjbjdMV3JxMWlUMkdObmplWFp2bWdaSnpMNXpOSWV0MExIdDVSbG5hRzVsUHBpTzl1Z2hlSjNzR1F2anFzSlpyZVo3OGgyUnZlZlFOYVlZX2l3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Cleaner Crash Data Could Prove That Human Drivers Are the Risky Ones
+            - figure [ref=e1726]
+          - generic [ref=e1727]:
+            - time [ref=e1728]: 3 days ago
+            - separator [ref=e1729]
+            - generic [ref=e1730]: By Lawrence Ulrich
+        - generic [ref=e1734]:
+          - generic [ref=e1735]:
+            - link [ref=e1737] [cursor=pointer]:
+              - /url: ./read/CBMinwFBVV95cUxPTGtYMmFlU0xISHQxVmNJS3RLX01xU1RwUVBiR1pTRmZjc19jQXp5dEZmLVJDc21wWEp0bFFjUE96ZHFRdEl6RERxWjEwT0gtTkcycXp1ZEE5elY2RlZGOFBXRmtCakw4bk93dE1DbmJJSVBOc0drRGluZUJuNGJfR29vRElhYTM4TVd5YlA1YThwdXNYZmxjZUVrcDFNdWM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1739]:
+              - generic [ref=e1740]:
+                - generic [ref=e1741]: WIRED
+                - generic [ref=e1747]:
+                  - generic:
+                    - button "More - A Stealth Startup Thinks It Just Hacked the Memory Shortage" [ref=e1748] [cursor=pointer]
+                    - tooltip [ref=e1752]: More
+              - link "A Stealth Startup Thinks It Just Hacked the Memory Shortage - WIRED - 2 days ago - By Lauren Goode" [ref=e1753] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxPTGtYMmFlU0xISHQxVmNJS3RLX01xU1RwUVBiR1pTRmZjc19jQXp5dEZmLVJDc21wWEp0bFFjUE96ZHFRdEl6RERxWjEwT0gtTkcycXp1ZEE5elY2RlZGOFBXRmtCakw4bk93dE1DbmJJSVBOc0drRGluZUJuNGJfR29vRElhYTM4TVd5YlA1YThwdXNYZmxjZUVrcDFNdWM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: A Stealth Startup Thinks It Just Hacked the Memory Shortage
+            - figure [ref=e1754]
+          - generic [ref=e1755]:
+            - time [ref=e1756]: 2 days ago
+            - separator [ref=e1757]
+            - generic [ref=e1758]: By Lauren Goode
+        - generic [ref=e1762]:
+          - generic [ref=e1763]:
+            - link [ref=e1765] [cursor=pointer]:
+              - /url: ./read/CBMijAFBVV95cUxQcFh4a19WRk1tY3NuWm5wamZabmJMV2Y2OUpFTGM5TmN2S3pkT25QSC05bW95S0YxMmotSzBjUmxzbW5WZ3lBaDdHTUI3MDZVaV90SUJfSVBTOWNab1djczFWVjZiU1BBU20xYTZWbmRNaTltVWxYLVNHcjdVTkR2MS0xcDV2X1RfZVRFWg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1767]:
+              - generic [ref=e1768]:
+                - generic [ref=e1769]: The New York Times
+                - generic [ref=e1775]:
+                  - generic:
+                    - button "More - The 92-Year-Old Mathematician and the Teenage Apprentice" [ref=e1776] [cursor=pointer]
+                    - tooltip [ref=e1780]: More
+              - link "The 92-Year-Old Mathematician and the Teenage Apprentice - The New York Times - 5 days ago - By Gregory Barber" [ref=e1781] [cursor=pointer]:
+                - /url: ./read/CBMijAFBVV95cUxQcFh4a19WRk1tY3NuWm5wamZabmJMV2Y2OUpFTGM5TmN2S3pkT25QSC05bW95S0YxMmotSzBjUmxzbW5WZ3lBaDdHTUI3MDZVaV90SUJfSVBTOWNab1djczFWVjZiU1BBU20xYTZWbmRNaTltVWxYLVNHcjdVTkR2MS0xcDV2X1RfZVRFWg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The 92-Year-Old Mathematician and the Teenage Apprentice
+            - figure [ref=e1782]
+          - generic [ref=e1783]:
+            - time [ref=e1784]: 5 days ago
+            - separator [ref=e1785]
+            - generic [ref=e1786]: By Gregory Barber
+    - generic [ref=e1788]:
+      - generic [ref=e1789]: Sign in to get news based on your interests
+      - generic [ref=e1791]:
+        - generic [ref=e1793]: Sign in
+        - link "Sign in" [ref=e1794] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en-US&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&gl=US&ceid=US%3Aen
+  - navigation [ref=e434]:
+    - tablist [ref=e435]:
+      - tab [selected] [ref=e436] [cursor=pointer]:
+        - tab "Home" [selected] [ref=e437]
+      - tab [ref=e438] [cursor=pointer]:
+        - tab "For you" [ref=e439]
+      - tab [ref=e440] [cursor=pointer]:
+        - tab "Following" [ref=e441]
+      - tab [ref=e442] [cursor=pointer]:
+        - tab "Saved stories" [ref=e443]
+      - tab [ref=e444] [cursor=pointer]:
+        - tab "News Showcase" [ref=e445]
+      - tab [ref=e448] [cursor=pointer]:
+        - tab "U.S." [ref=e449]
+      - tab [ref=e450] [cursor=pointer]:
+        - tab "World" [ref=e451]
+      - tab [ref=e452] [cursor=pointer]:
+        - tab "Local" [ref=e453]
+      - tab [ref=e454] [cursor=pointer]:
+        - tab "Business" [ref=e455]
+      - tab [ref=e456] [cursor=pointer]:
+        - tab "Technology" [ref=e457]
+      - tab [ref=e458] [cursor=pointer]:
+        - tab "Entertainment" [ref=e459]
+      - tab [ref=e460] [cursor=pointer]:
+        - tab "Sports" [ref=e461]
+    - generic [ref=e465]:
+      - button "More" [ref=e466] [cursor=pointer]
+      - tooltip [ref=e470]: More

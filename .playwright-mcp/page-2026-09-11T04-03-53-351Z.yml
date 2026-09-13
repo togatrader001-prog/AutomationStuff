@@ -1,0 +1,1386 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Google News" [ref=e8] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e10]: News
+      - generic [ref=e11]:
+        - search [ref=e13]:
+          - generic [ref=e18]:
+            - combobox "Search for topics, locations & sources" [ref=e20]
+            - status
+          - button "Advanced search" [ref=e21] [cursor=pointer]:
+            - generic [ref=e22]:
+              - generic "Advanced search" [ref=e23]
+              - tooltip [ref=e26]: Advanced search
+          - button "Search" [ref=e27] [cursor=pointer]
+        - generic [ref=e31]:
+          - generic [ref=e36]:
+            - button "Help" [ref=e37] [cursor=pointer]
+            - tooltip [ref=e41]: Help
+          - generic [ref=e46]:
+            - button "Settings" [ref=e47] [cursor=pointer]
+            - tooltip [ref=e52]: Settings
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e58] [cursor=pointer]
+        - link "Sign in" [ref=e62] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Fnews.google.com%2Fstories%2FCAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSRUFIc3V5QmI3eXF5Z0FQAQ%3Fhl%3Den-US%26gl%3DUS%26ceid%3DUS%253Aen&followup=https%3A%2F%2Fnews.google.com%2Fstories%2FCAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSRUFIc3V5QmI3eXF5Z0FQAQ%3Fhl%3Den-US%26gl%3DUS%26ceid%3DUS%253Aen&hl=en-US&ec=GAZAqgM
+  - navigation [ref=e432]:
+    - tablist [ref=e433]:
+      - tab [ref=e434] [cursor=pointer]:
+        - tab "Home" [ref=e435]
+      - tab [ref=e436] [cursor=pointer]:
+        - tab "For you" [ref=e437]
+      - tab [ref=e438] [cursor=pointer]:
+        - tab "Following" [ref=e439]
+      - tab [ref=e440] [cursor=pointer]:
+        - tab "News Showcase" [ref=e441]
+      - tab [ref=e444] [cursor=pointer]:
+        - tab "U.S." [ref=e445]
+      - tab [ref=e446] [cursor=pointer]:
+        - tab "World" [ref=e447]
+      - tab [ref=e448] [cursor=pointer]:
+        - tab "Local" [ref=e449]
+      - tab [ref=e450] [cursor=pointer]:
+        - tab "Business" [ref=e451]
+      - tab [ref=e452] [cursor=pointer]:
+        - tab "Technology" [ref=e453]
+      - tab [ref=e454] [cursor=pointer]:
+        - tab "Entertainment" [ref=e455]
+      - tab [ref=e456] [cursor=pointer]:
+        - tab "Sports" [ref=e457]
+      - tab [ref=e458] [cursor=pointer]:
+        - tab "Science" [ref=e459]
+      - tab [ref=e460] [cursor=pointer]:
+        - tab "Health" [ref=e461]
+  - generic [ref=e2009]: Google News - Donald Trump promises $5,000 voter dividend at GOP convention - Overview
+  - main [ref=e2014]:
+    - generic [ref=e2016]:
+      - generic [ref=e2018]:
+        - generic [ref=e2019]:
+          - generic [ref=e2020]: More headlines & perspectives
+          - generic [ref=e2024]:
+            - button "Sort" [ref=e2028] [cursor=pointer]
+            - generic [ref=e2035]:
+              - generic:
+                - generic:
+                  - button "Share" [ref=e2036] [cursor=pointer]
+                  - tooltip [ref=e2040]: Share
+        - heading "Donald Trump promises $5,000 voter dividend at GOP convention" [level=1] [ref=e2043]
+      - generic [ref=e2051]:
+        - generic [ref=e2053]:
+          - heading "Top news" [level=2] [ref=e2056]
+          - generic [ref=e2058]:
+            - generic [ref=e2059]:
+              - link [ref=e2060] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e2061]
+              - generic [ref=e2062]: npr.org
+              - heading [level=4] [ref=e2065]:
+                - link "Vance, Trump issue plea for Americans to vote Republican on last night of convention - npr.org - 13 minutes ago - By Tamara Keith" [ref=e2066] [cursor=pointer]:
+                  - /url: ./read/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Vance, Trump issue plea for Americans to vote Republican on last night of convention
+              - generic [ref=e2067]:
+                - generic [ref=e2068]:
+                  - time [ref=e2069]: 13 minutes ago
+                  - generic [ref=e2070]: • By Tamara Keith
+                - list [ref=e2071]:
+                  - generic [ref=e2072]:
+                    - generic:
+                      - button "Save for later" [ref=e2073] [cursor=pointer]
+                      - tooltip [ref=e2078]: Save for later
+                  - generic [ref=e2081]:
+                    - button "Share" [ref=e2082] [cursor=pointer]
+                    - tooltip [ref=e2091]: Share
+                  - generic [ref=e2096]:
+                    - button "More - Vance, Trump issue plea for Americans to vote Republican on last night of convention" [ref=e2097] [cursor=pointer]
+                    - tooltip [ref=e2101]: More
+            - generic [ref=e2102]:
+              - link [ref=e2103] [cursor=pointer]:
+                - /url: ./read/CBMiaEFVX3lxTE9wQW1WUnFmY2xSMEMxWFgzeWp6NVlNYm44S2diSWVYY3cxZXdWajVTajAxd1NXODl6WmI3VHlPV2NZN1hIMkwtVlBWMER5YVJxUk5SaUJ4amhxbWpWTnlZaEZCWDQ4RV9l?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e2104]
+              - generic [ref=e2105]: CNN
+              - heading [level=4] [ref=e2108]:
+                - link "Trump officials scramble to manage fallout after his $5K check pledge to all Americans - CNN - 6 hours ago - By Adam Cancryn, Tami Luhby & Alayna Treene" [ref=e2109] [cursor=pointer]:
+                  - /url: ./read/CBMiaEFVX3lxTE9wQW1WUnFmY2xSMEMxWFgzeWp6NVlNYm44S2diSWVYY3cxZXdWajVTajAxd1NXODl6WmI3VHlPV2NZN1hIMkwtVlBWMER5YVJxUk5SaUJ4amhxbWpWTnlZaEZCWDQ4RV9l?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump officials scramble to manage fallout after his $5K check pledge to all Americans
+              - generic [ref=e2110]:
+                - generic [ref=e2111]:
+                  - time [ref=e2112]: 6 hours ago
+                  - generic [ref=e2113]: • By Adam Cancryn, Tami Luhby & Alayna Treene
+                - list [ref=e2114]:
+                  - generic [ref=e2115]:
+                    - generic:
+                      - button "Save for later" [ref=e2116] [cursor=pointer]
+                      - tooltip [ref=e2121]: Save for later
+                  - generic [ref=e2124]:
+                    - button "Share" [ref=e2125] [cursor=pointer]
+                    - tooltip [ref=e2134]: Share
+                  - generic [ref=e2139]:
+                    - button "More - Trump officials scramble to manage fallout after his $5K check pledge to all Americans" [ref=e2140] [cursor=pointer]
+                    - tooltip [ref=e2144]: More
+            - generic [ref=e2145]:
+              - link [ref=e2146] [cursor=pointer]:
+                - /url: ./read/CBMijgFBVV95cUxQcTdLOVFrbkF4N3F0QkhLWTI4bjJRZnppdHhCazJKeWRTVlpKa1AyRGlQVFI5X0t1TXdrcGRJTm9iY0tsUzgtSDJCeU5fZlpNX3JWVFZsZ3RUNjFVNXl5SVdOMmZSWlpFcVhDY2trTEtiWkhMUUl6bkprM0pUNWZIYWlma2xQUHBDa2VMN3lR0gGTAUFVX3lxTFA3M3pwVjNRX01GN21SbHpNUEJEVDJsbUZBYlZPWkxXczJ1aFZvV0ltTUwySGZCbHhKeWxtbDNJR1VLSlVGaTZ0N3poS0xMbG9fbWJwdWxra0htYkRFM3lSZXA0aGpBRE9pYTJZV0IxS0xTTzVpcV9Jc0JqV1dYREdYWm9mQWpIbGxhZnduZDAzQkRCRQ?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e2147]
+              - generic [ref=e2148]: FOX 9 Minneapolis-St. Paul
+              - heading [level=4] [ref=e2151]:
+                - link "Trump's $5K check promise draws backlash - FOX 9 Minneapolis-St. Paul - 1 hour ago - By Mike Manzoni" [ref=e2152] [cursor=pointer]:
+                  - /url: ./read/CBMijgFBVV95cUxQcTdLOVFrbkF4N3F0QkhLWTI4bjJRZnppdHhCazJKeWRTVlpKa1AyRGlQVFI5X0t1TXdrcGRJTm9iY0tsUzgtSDJCeU5fZlpNX3JWVFZsZ3RUNjFVNXl5SVdOMmZSWlpFcVhDY2trTEtiWkhMUUl6bkprM0pUNWZIYWlma2xQUHBDa2VMN3lR0gGTAUFVX3lxTFA3M3pwVjNRX01GN21SbHpNUEJEVDJsbUZBYlZPWkxXczJ1aFZvV0ltTUwySGZCbHhKeWxtbDNJR1VLSlVGaTZ0N3poS0xMbG9fbWJwdWxra0htYkRFM3lSZXA0aGpBRE9pYTJZV0IxS0xTTzVpcV9Jc0JqV1dYREdYWm9mQWpIbGxhZnduZDAzQkRCRQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump's $5K check promise draws backlash
+              - generic [ref=e2153]:
+                - generic [ref=e2154]:
+                  - time [ref=e2155]: 1 hour ago
+                  - generic [ref=e2156]: • By Mike Manzoni
+                - list [ref=e2157]:
+                  - generic [ref=e2158]:
+                    - generic:
+                      - button "Save for later" [ref=e2159] [cursor=pointer]
+                      - tooltip [ref=e2164]: Save for later
+                  - generic [ref=e2167]:
+                    - button "Share" [ref=e2168] [cursor=pointer]
+                    - tooltip [ref=e2177]: Share
+                  - generic [ref=e2182]:
+                    - button "More - Trump's $5K check promise draws backlash" [ref=e2183] [cursor=pointer]
+                    - tooltip [ref=e2187]: More
+            - generic [ref=e2188]:
+              - link [ref=e2189] [cursor=pointer]:
+                - /url: ./read/CBMickFVX3lxTE5KMGZSZVh6UVUtZDZFcDFneGMwTlJ5WDFSdzRSVlZMWF9Iam1rOGtRRDlDOWs0c1BySjJBYTJnczlJb25PcjJhTWZZUFU1QURXVFZSaC1Ud2RjeDhxdXdSX0Z0Y1BvaW80dlo3ZF80Q3Ewd9IBd0FVX3lxTE1TU0VTcHl1NXMtMjdMdlhmZGQ1VlBIOWxZN0EwS2ZoU0o4em9MMnlaYl94aXgzWWRhblgzMnY2S1NfUHR2eGpyMEdTdi11OHVsRS1NSE5oXzJjMkZPazRzR3pVcUdJNk1uaU5DM2tRZFNON2Q5VTVN?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e2190]
+              - generic [ref=e2191]: CNBC
+              - heading [level=4] [ref=e2194]:
+                - link "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback - CNBC - 19 hours ago - By Kevin Breuninger & Chloe Taylor" [ref=e2195] [cursor=pointer]:
+                  - /url: ./read/CBMickFVX3lxTE5KMGZSZVh6UVUtZDZFcDFneGMwTlJ5WDFSdzRSVlZMWF9Iam1rOGtRRDlDOWs0c1BySjJBYTJnczlJb25PcjJhTWZZUFU1QURXVFZSaC1Ud2RjeDhxdXdSX0Z0Y1BvaW80dlo3ZF80Q3Ewd9IBd0FVX3lxTE1TU0VTcHl1NXMtMjdMdlhmZGQ1VlBIOWxZN0EwS2ZoU0o4em9MMnlaYl94aXgzWWRhblgzMnY2S1NfUHR2eGpyMEdTdi11OHVsRS1NSE5oXzJjMkZPazRzR3pVcUdJNk1uaU5DM2tRZFNON2Q5VTVN?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback
+              - generic [ref=e2196]:
+                - generic [ref=e2197]:
+                  - time [ref=e2198]: 19 hours ago
+                  - generic [ref=e2199]: • By Kevin Breuninger & Chloe Taylor
+                - list [ref=e2200]:
+                  - generic [ref=e2201]:
+                    - generic:
+                      - button "Save for later" [ref=e2202] [cursor=pointer]
+                      - tooltip [ref=e2207]: Save for later
+                  - generic [ref=e2210]:
+                    - button "Share" [ref=e2211] [cursor=pointer]
+                    - tooltip [ref=e2220]: Share
+                  - generic [ref=e2225]:
+                    - button "More - Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback" [ref=e2226] [cursor=pointer]
+                    - tooltip [ref=e2230]: More
+            - generic [ref=e2231]:
+              - link [ref=e2232] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxNMjRBTHVBRmhaeWUxQ1M3MnZ0NHVkWnpNS3pBdGJHRUt4TEcyUTN0NHV1emNwRzQyN0ZuMkx5VjRHLUtRTVB1bzJEQXpwb09kMVB0algxVG95UEdzcTktdE9zTmV6aFA3eXZwdkdnZ0JQZzZUWU9VQnJJaGVBNThfZXp6bzdLaGE5RVQ3LXIwRlhfVWgtOEFmcjNqVDQ?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e2233]
+              - generic [ref=e2234]: The New York Times
+              - heading [level=4] [ref=e2237]:
+                - 'link "‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention - The New York Times - 14 hours ago - By Shane Goldmacher & Patricia Mazzei" [ref=e2238] [cursor=pointer]':
+                  - /url: ./read/CBMinAFBVV95cUxNMjRBTHVBRmhaeWUxQ1M3MnZ0NHVkWnpNS3pBdGJHRUt4TEcyUTN0NHV1emNwRzQyN0ZuMkx5VjRHLUtRTVB1bzJEQXpwb09kMVB0algxVG95UEdzcTktdE9zTmV6aFA3eXZwdkdnZ0JQZzZUWU9VQnJJaGVBNThfZXp6bzdLaGE5RVQ3LXIwRlhfVWgtOEFmcjNqVDQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention"
+              - generic [ref=e2239]:
+                - generic [ref=e2240]:
+                  - time [ref=e2241]: 14 hours ago
+                  - generic [ref=e2242]: • By Shane Goldmacher & Patricia Mazzei
+                - list [ref=e2243]:
+                  - generic [ref=e2244]:
+                    - generic:
+                      - button "Save for later" [ref=e2245] [cursor=pointer]
+                      - tooltip [ref=e2250]: Save for later
+                  - generic [ref=e2253]:
+                    - button "Share" [ref=e2254] [cursor=pointer]
+                    - tooltip [ref=e2263]: Share
+                  - generic [ref=e2268]:
+                    - 'button "More - ‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention" [ref=e2269] [cursor=pointer]'
+                    - tooltip [ref=e2273]: More
+        - generic [ref=e2275]:
+          - heading [level=2] [ref=e2278]:
+            - link "Posts on X" [ref=e2280] [cursor=pointer]:
+              - /url: https://x.com/TeamTrump/status/2098042974982533157
+          - generic [ref=e2282]:
+            - generic [ref=e2283]:
+              - link "View this post on X" [ref=e2284] [cursor=pointer]:
+                - /url: https://x.com/WhiteHouse/status/2098046589948281076
+              - generic [ref=e2287]:
+                - generic [ref=e2288]: The White House
+                - generic [ref=e2289]: "@WhiteHouse"
+              - generic [ref=e2290]: President Donald J. Trump announces $500 rebate checks to nearly 1 million hardworking Americans who were wrongly overcharged through Obamacare. "Our Administration is doing the right thing and giving the money back to the people who were wrongly ripped off." pic.x.com/XWA1wlzRH8
+              - generic [ref=e2291]:
+                - generic [ref=e2292]: Posted on X
+                - time [ref=e2295]: • 9/10/26 9:51 AM
+            - generic [ref=e2296]:
+              - link "View this post on X" [ref=e2297] [cursor=pointer]:
+                - /url: https://x.com/RepTimKennedy/status/2098076957250363413
+              - generic [ref=e2300]:
+                - generic [ref=e2301]: Rep. Tim Kennedy
+                - generic [ref=e2302]: "@RepTimKennedy"
+              - generic [ref=e2303]:
+                - text: "Donald Trump is a snake oil salesman - always has been, always will be. His reckless trade wars are costing families more than $2500 every year, and now he wants you to believe you’ll get it all back, and then some. House Democrats have an actual plan to make life more affordable: end the tariffs, cancel the healthcare cuts, stop the illegal wars."
+                - link "www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-check.html" [ref=e2304] [cursor=pointer]:
+                  - /url: http://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-check.html
+              - generic [ref=e2305]:
+                - generic [ref=e2306]: Posted on X
+                - time [ref=e2309]: • 9/10/26 11:51 AM
+            - generic [ref=e2310]:
+              - link "View this post on X" [ref=e2311] [cursor=pointer]:
+                - /url: https://x.com/TeamTrump/status/2098045326485831839
+              - generic [ref=e2314]:
+                - generic [ref=e2315]: Team Trump (Text TRUMP to 88022)
+                - generic [ref=e2316]: "@TeamTrump"
+              - generic [ref=e2317]: "🚨 President @realDonaldTrump PROMISES every American Citizen a $5,000 dividend if @Republicans keep the House and Senate: 🇺🇸🗳️💸 pic.x.com/D3iVm7rxbw"
+              - generic [ref=e2318]:
+                - generic [ref=e2319]: Posted on X
+                - time [ref=e2322]: • 9/10/26 9:46 AM
+            - generic [ref=e2323]:
+              - link "View this post on X" [ref=e2324] [cursor=pointer]:
+                - /url: https://x.com/TeamTrump/status/2098042974982533157
+              - generic [ref=e2327]:
+                - generic [ref=e2328]: Team Trump (Text TRUMP to 88022)
+                - generic [ref=e2329]: "@TeamTrump"
+              - generic [ref=e2330]: "President @realDonaldTrump: \"Vote Republican and we leave the world in our dust for generations to come.\" 🇺🇸 pic.x.com/ri3pEgLCR9"
+              - generic [ref=e2331]:
+                - generic [ref=e2332]: Posted on X
+                - time [ref=e2335]: • 9/10/26 9:36 AM
+            - link "View on X" [ref=e2338] [cursor=pointer]:
+              - /url: https://x.com/TeamTrump/status/2098042974982533157
+        - heading "All coverage" [level=2] [ref=e2343]
+        - generic [ref=e2346]:
+          - link [ref=e2347] [cursor=pointer]:
+            - /url: ./read/CBMi2AFBVV95cUxOR3kxZFBHT1NFdy0zLUkzVHRNQWVWSlZNNXRDOVF1YXlXcElZalBVa2RjSHFMaHNrMmtCUVFaYzdvaHdWMnBiT1FYMnZkN0JHRC1TVUFGQm1KOXF3eUx4R0huZzRxZ0pHaXRXazVEaFJGdVpSbTZBYVJzYUh4ZUxsald1YTlSMmlCb1Z3VTc3cXMyOUV3VUxRbzFDWWNMVWZzWXk2MHI4dE1wVlBMMkFYdTlvejRKY2thamxEOEhQcDByT1V3cmN1QWs0NE5MNGJ5MzFEOEFGU3Q?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2348]
+          - generic [ref=e2349]: The Guardian
+          - heading [level=4] [ref=e2352]:
+            - link "Trump doubles down on pledge of $5,000 payments if his party retains control of Congress as he address convention a second time – live - The Guardian - 17 hours ago - By Tom Ambrose, Shrai Popat & Chris Hippensteel" [ref=e2353] [cursor=pointer]:
+              - /url: ./read/CBMi2AFBVV95cUxOR3kxZFBHT1NFdy0zLUkzVHRNQWVWSlZNNXRDOVF1YXlXcElZalBVa2RjSHFMaHNrMmtCUVFaYzdvaHdWMnBiT1FYMnZkN0JHRC1TVUFGQm1KOXF3eUx4R0huZzRxZ0pHaXRXazVEaFJGdVpSbTZBYVJzYUh4ZUxsald1YTlSMmlCb1Z3VTc3cXMyOUV3VUxRbzFDWWNMVWZzWXk2MHI4dE1wVlBMMkFYdTlvejRKY2thamxEOEhQcDByT1V3cmN1QWs0NE5MNGJ5MzFEOEFGU3Q?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump doubles down on pledge of $5,000 payments if his party retains control of Congress as he address convention a second time – live
+          - generic [ref=e2354]:
+            - generic [ref=e2355]:
+              - time [ref=e2356]: 17 hours ago
+              - generic [ref=e2357]: • By Tom Ambrose, Shrai Popat & Chris Hippensteel
+            - list [ref=e2358]:
+              - generic [ref=e2359]:
+                - generic:
+                  - button "Save for later" [ref=e2360] [cursor=pointer]
+                  - tooltip [ref=e2365]: Save for later
+              - generic [ref=e2368]:
+                - button "Share" [ref=e2369] [cursor=pointer]
+                - tooltip [ref=e2378]: Share
+              - generic [ref=e2383]:
+                - button "More - Trump doubles down on pledge of $5,000 payments if his party retains control of Congress as he address convention a second time – live" [ref=e2384] [cursor=pointer]
+                - tooltip [ref=e2388]: More
+        - generic [ref=e2390]:
+          - link [ref=e2391] [cursor=pointer]:
+            - /url: ./read/CBMiuAFBVV95cUxNRGJwcmFocG1hc3ZySnUxWDBxUjNIVkMyRWxXSGJLQ0dGZUxrT3p0MHBRMmtWTl9wLUtpMG9FNTVneVV3QUl0dlZQLUNuM1BYczlRSVZyclZXWVI5YklLZUdDOWhuYXZPRG5VVXRyazBHMVFIUmh6TW9TVUNTcUZLaXgwU3pFT3VweW5wSE1TbU5oTHV1QlpjUU9hOGt4RXRucGw2ZFlGMnpPQk1Ydm95S0drTDhUazIw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2392]
+          - generic [ref=e2393]: WSJ
+          - heading [level=4] [ref=e2396]:
+            - link "$5,000 Checks for Every American? What to Know About Trump’s Latest Promise - WSJ - 7 hours ago - By Richard Rubin & Matt Grossman" [ref=e2397] [cursor=pointer]:
+              - /url: ./read/CBMiuAFBVV95cUxNRGJwcmFocG1hc3ZySnUxWDBxUjNIVkMyRWxXSGJLQ0dGZUxrT3p0MHBRMmtWTl9wLUtpMG9FNTVneVV3QUl0dlZQLUNuM1BYczlRSVZyclZXWVI5YklLZUdDOWhuYXZPRG5VVXRyazBHMVFIUmh6TW9TVUNTcUZLaXgwU3pFT3VweW5wSE1TbU5oTHV1QlpjUU9hOGt4RXRucGw2ZFlGMnpPQk1Ydm95S0drTDhUazIw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: $5,000 Checks for Every American? What to Know About Trump’s Latest Promise
+          - generic [ref=e2398]:
+            - generic [ref=e2399]:
+              - time [ref=e2400]: 7 hours ago
+              - generic [ref=e2401]: • By Richard Rubin & Matt Grossman
+            - list [ref=e2402]:
+              - generic [ref=e2403]:
+                - generic:
+                  - button "Save for later" [ref=e2404] [cursor=pointer]
+                  - tooltip [ref=e2409]: Save for later
+              - generic [ref=e2412]:
+                - button "Share" [ref=e2413] [cursor=pointer]
+                - tooltip [ref=e2422]: Share
+              - generic [ref=e2427]:
+                - button "More - $5,000 Checks for Every American? What to Know About Trump’s Latest Promise" [ref=e2428] [cursor=pointer]
+                - tooltip [ref=e2432]: More
+        - generic [ref=e2434]:
+          - link [ref=e2435] [cursor=pointer]:
+            - /url: ./read/CBMinwFBVV95cUxOSmVLZDFTa3NCTTFISXlrWWVSenpOOEpkNWZOTVZ5S2R4bDhBTktWMEQxRVJDWldTUk9WV1VYM3dmYllGcjVVaVlpeWMyS2N2VDFiNG1iWlZKNUFITzhDRTBKckFZZGhEdUVNY1JHMlZwQVZGODZIbFRNN3E0REZzc3FPXzJ3Sm16c3lmQ1g4ZE82OTFuWEJ1N3lmNkhrbjg?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2436]
+          - generic [ref=e2437]: Politico
+          - heading [level=4] [ref=e2440]:
+            - 'link "DeSantis rebukes Trump’s $5K checks: ‘More debt and more inflation’ - Politico - 7 hours ago - By Kimberly Leonard & Andrew Atterbury" [ref=e2441] [cursor=pointer]':
+              - /url: ./read/CBMinwFBVV95cUxOSmVLZDFTa3NCTTFISXlrWWVSenpOOEpkNWZOTVZ5S2R4bDhBTktWMEQxRVJDWldTUk9WV1VYM3dmYllGcjVVaVlpeWMyS2N2VDFiNG1iWlZKNUFITzhDRTBKckFZZGhEdUVNY1JHMlZwQVZGODZIbFRNN3E0REZzc3FPXzJ3Sm16c3lmQ1g4ZE82OTFuWEJ1N3lmNkhrbjg?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "DeSantis rebukes Trump’s $5K checks: ‘More debt and more inflation’"
+          - generic [ref=e2442]:
+            - generic [ref=e2443]:
+              - time [ref=e2444]: 7 hours ago
+              - generic [ref=e2445]: • By Kimberly Leonard & Andrew Atterbury
+            - list [ref=e2446]:
+              - generic [ref=e2447]:
+                - generic:
+                  - button "Save for later" [ref=e2448] [cursor=pointer]
+                  - tooltip [ref=e2453]: Save for later
+              - generic [ref=e2456]:
+                - button "Share" [ref=e2457] [cursor=pointer]
+                - tooltip [ref=e2466]: Share
+              - generic [ref=e2471]:
+                - 'button "More - DeSantis rebukes Trump’s $5K checks: ‘More debt and more inflation’" [ref=e2472] [cursor=pointer]'
+                - tooltip [ref=e2476]: More
+        - generic [ref=e2478]:
+          - link [ref=e2479] [cursor=pointer]:
+            - /url: ./read/CBMiWkFVX3lxTE45MXJxUXVfYUYwbVZKQ3RkbU5hckFsQWl3Q3lnSjU3Q1F2Mjd3RDZpazNZYmY5S0ZER1lYVkxGQWdRWU5CdFY1d2daOGxoQ3N2NkpkbFozeXQ1UQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2480]
+          - generic [ref=e2481]: BBC
+          - heading [level=4] [ref=e2484]:
+            - link "Can Trump really pay $5,000 to every American adult? - BBC - 11 hours ago - By Alex Boyd" [ref=e2485] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTE45MXJxUXVfYUYwbVZKQ3RkbU5hckFsQWl3Q3lnSjU3Q1F2Mjd3RDZpazNZYmY5S0ZER1lYVkxGQWdRWU5CdFY1d2daOGxoQ3N2NkpkbFozeXQ1UQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Can Trump really pay $5,000 to every American adult?
+          - generic [ref=e2486]:
+            - generic [ref=e2487]:
+              - time [ref=e2488]: 11 hours ago
+              - generic [ref=e2489]: • By Alex Boyd
+            - list [ref=e2490]:
+              - generic [ref=e2491]:
+                - generic:
+                  - button "Save for later" [ref=e2492] [cursor=pointer]
+                  - tooltip [ref=e2497]: Save for later
+              - generic [ref=e2500]:
+                - button "Share" [ref=e2501] [cursor=pointer]
+                - tooltip [ref=e2510]: Share
+              - generic [ref=e2515]:
+                - button "More - Can Trump really pay $5,000 to every American adult?" [ref=e2516] [cursor=pointer]
+                - tooltip [ref=e2520]: More
+        - generic [ref=e2522]:
+          - link [ref=e2523] [cursor=pointer]:
+            - /url: ./read/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2524]
+          - generic [ref=e2525]: Axios
+          - heading [level=4] [ref=e2528]:
+            - link "Trump reveals why $5,000 checks can wait until after the midterms - Axios - 2 hours ago - By Herb Scribner" [ref=e2529] [cursor=pointer]:
+              - /url: ./read/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump reveals why $5,000 checks can wait until after the midterms
+          - generic [ref=e2530]:
+            - generic [ref=e2531]:
+              - time [ref=e2532]: 2 hours ago
+              - generic [ref=e2533]: • By Herb Scribner
+            - list [ref=e2534]:
+              - generic [ref=e2535]:
+                - generic:
+                  - button "Save for later" [ref=e2536] [cursor=pointer]
+                  - tooltip [ref=e2541]: Save for later
+              - generic [ref=e2544]:
+                - button "Share" [ref=e2545] [cursor=pointer]
+                - tooltip [ref=e2554]: Share
+              - generic [ref=e2559]:
+                - button "More - Trump reveals why $5,000 checks can wait until after the midterms" [ref=e2560] [cursor=pointer]
+                - tooltip [ref=e2564]: More
+        - generic [ref=e2566]:
+          - link [ref=e2567] [cursor=pointer]:
+            - /url: ./read/CBMisAFBVV95cUxOZWpiQmZVSUJQODAtWDdkLWZHbDhJa3JQX1RMQzVtd1puMElJWlFhdldyWk1FNlh6S1ljTjdxMV9IOXZ2LW9lUHI4MzdjSmNpRVM1cWpxZ2NPOUMzZURoN1I5a2JKYWNvZWNLaDNxcHgwTDgzZ250U3hmQVNDZWdzWFJwNEVDSXhaNkNQdUZUU3E2eHlHb1lVMTc2bzBZVG1VcUEyQkd5MGZSanhDOWZ5MQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2568]
+          - generic [ref=e2569]: CBS News
+          - heading [level=4] [ref=e2572]:
+            - link "President Trump says he doesn't think $5,000 dividend payments would need to be approved by Congress - CBS Texas - CBS News - 7 hours ago - By Jack Fink & Briauna Brown" [ref=e2573] [cursor=pointer]:
+              - /url: ./read/CBMisAFBVV95cUxOZWpiQmZVSUJQODAtWDdkLWZHbDhJa3JQX1RMQzVtd1puMElJWlFhdldyWk1FNlh6S1ljTjdxMV9IOXZ2LW9lUHI4MzdjSmNpRVM1cWpxZ2NPOUMzZURoN1I5a2JKYWNvZWNLaDNxcHgwTDgzZ250U3hmQVNDZWdzWFJwNEVDSXhaNkNQdUZUU3E2eHlHb1lVMTc2bzBZVG1VcUEyQkd5MGZSanhDOWZ5MQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: President Trump says he doesn't think $5,000 dividend payments would need to be approved by Congress - CBS Texas
+          - generic [ref=e2574]:
+            - generic [ref=e2575]:
+              - time [ref=e2576]: 7 hours ago
+              - generic [ref=e2577]: • By Jack Fink & Briauna Brown
+            - list [ref=e2578]:
+              - generic [ref=e2579]:
+                - generic:
+                  - button "Save for later" [ref=e2580] [cursor=pointer]
+                  - tooltip [ref=e2585]: Save for later
+              - generic [ref=e2588]:
+                - button "Share" [ref=e2589] [cursor=pointer]
+                - tooltip [ref=e2598]: Share
+              - generic [ref=e2603]:
+                - button "More - President Trump says he doesn't think $5,000 dividend payments would need to be approved by Congress - CBS Texas" [ref=e2604] [cursor=pointer]
+                - tooltip [ref=e2608]: More
+        - generic [ref=e2610]:
+          - link [ref=e2611] [cursor=pointer]:
+            - /url: ./read/CBMivwFBVV95cUxOVGJMMXduZGxrYWF5WnFSV2NLWXpTMUJKQkVPUzJveVZWOUwtWm9xV1c0c2Zqell6VjlEQXpKY1pJT3ZfTWFRY1dKYnBxWWFDS3VteHE5Z0NKeUNGckZNOE5FWE5POTVFenBDbU1LUVBtdUVqcDFBV0pZOXJjbGlmeno2MmQ3emw4enEzb2hnSUxDbktNcXFkbWhOZWRSZEg4eFMzYU95WHZmeW9nR0h5R0NYX20wUzJiTnZVV2JtONIBxAFBVV95cUxNM05VNV9MNWF2eEpmaU1FOGJPS3l0UmZVREVldmdGb0dORlB1S2JuQWxNMVo4cFJ6d2ZGQjFaMk8tYi1oSzlRUFN0a1NrQ0hybjU1Qlc3ZkJVMFhqWHI0WDFyenI0NFoxZGtQT2ZURDdNSi1Ud0hYUWZkcGFNLTNPczRpdnVkSTdObGxWdFRLenBoaS1MTFBZMl9UWkgzVmJpOU53U25UU2lFMXJCcHVhM1U2WGFudldPLWRabExEYXl2b2lL?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2612]
+          - generic [ref=e2613]: The Hill
+          - heading [level=4] [ref=e2616]:
+            - link "Fox News’s Baier presses Vance on Trump’s $5K dividend promise - The Hill - 13 hours ago" [ref=e2617] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxOVGJMMXduZGxrYWF5WnFSV2NLWXpTMUJKQkVPUzJveVZWOUwtWm9xV1c0c2Zqell6VjlEQXpKY1pJT3ZfTWFRY1dKYnBxWWFDS3VteHE5Z0NKeUNGckZNOE5FWE5POTVFenBDbU1LUVBtdUVqcDFBV0pZOXJjbGlmeno2MmQ3emw4enEzb2hnSUxDbktNcXFkbWhOZWRSZEg4eFMzYU95WHZmeW9nR0h5R0NYX20wUzJiTnZVV2JtONIBxAFBVV95cUxNM05VNV9MNWF2eEpmaU1FOGJPS3l0UmZVREVldmdGb0dORlB1S2JuQWxNMVo4cFJ6d2ZGQjFaMk8tYi1oSzlRUFN0a1NrQ0hybjU1Qlc3ZkJVMFhqWHI0WDFyenI0NFoxZGtQT2ZURDdNSi1Ud0hYUWZkcGFNLTNPczRpdnVkSTdObGxWdFRLenBoaS1MTFBZMl9UWkgzVmJpOU53U25UU2lFMXJCcHVhM1U2WGFudldPLWRabExEYXl2b2lL?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Fox News’s Baier presses Vance on Trump’s $5K dividend promise
+          - generic [ref=e2618]:
+            - time [ref=e2620]: 13 hours ago
+            - list [ref=e2621]:
+              - generic [ref=e2622]:
+                - generic:
+                  - button "Save for later" [ref=e2623] [cursor=pointer]
+                  - tooltip [ref=e2628]: Save for later
+              - generic [ref=e2631]:
+                - button "Share" [ref=e2632] [cursor=pointer]
+                - tooltip [ref=e2641]: Share
+              - generic [ref=e2646]:
+                - button "More - Fox News’s Baier presses Vance on Trump’s $5K dividend promise" [ref=e2647] [cursor=pointer]
+                - tooltip [ref=e2651]: More
+        - generic [ref=e2653]:
+          - link [ref=e2654] [cursor=pointer]:
+            - /url: ./read/CBMiogFBVV95cUxNaFo2NjdHMEdacGhHTW9UOHZCaTNiQ0p5dTBuNDVjUFJNOWlibzNWRElyT0c1c1I4MjZNdWJVTGk4Z3pGbjBrOHNYaURqZlJTd3ZPbm14MXZWZ2FuUE0xek1sTWtYNW1ZalM2SjIzNjhYSGRVM0xCbkhKVWlfc1dWYmw1bThDbjctc0Q5VXgzTHhkNjc5akZFZkkxeGxIcjZKWGc?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2655]
+          - generic [ref=e2656]: AP News
+          - heading [level=4] [ref=e2659]:
+            - link "Trump, hoping to salvage midterms, makes a dubious pledge to give every US adult $5,000 if GOP wins - AP News - 16 hours ago - By Jonathan J. Cooper" [ref=e2660] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxNaFo2NjdHMEdacGhHTW9UOHZCaTNiQ0p5dTBuNDVjUFJNOWlibzNWRElyT0c1c1I4MjZNdWJVTGk4Z3pGbjBrOHNYaURqZlJTd3ZPbm14MXZWZ2FuUE0xek1sTWtYNW1ZalM2SjIzNjhYSGRVM0xCbkhKVWlfc1dWYmw1bThDbjctc0Q5VXgzTHhkNjc5akZFZkkxeGxIcjZKWGc?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump, hoping to salvage midterms, makes a dubious pledge to give every US adult $5,000 if GOP wins
+          - generic [ref=e2661]:
+            - generic [ref=e2662]:
+              - time [ref=e2663]: 16 hours ago
+              - generic [ref=e2664]: • By Jonathan J. Cooper
+            - list [ref=e2665]:
+              - generic [ref=e2666]:
+                - generic:
+                  - button "Save for later" [ref=e2667] [cursor=pointer]
+                  - tooltip [ref=e2672]: Save for later
+              - generic [ref=e2675]:
+                - button "Share" [ref=e2676] [cursor=pointer]
+                - tooltip [ref=e2685]: Share
+              - generic [ref=e2690]:
+                - button "More - Trump, hoping to salvage midterms, makes a dubious pledge to give every US adult $5,000 if GOP wins" [ref=e2691] [cursor=pointer]
+                - tooltip [ref=e2695]: More
+        - generic [ref=e2697]:
+          - link [ref=e2698] [cursor=pointer]:
+            - /url: ./read/CBMinAFBVV95cUxQdHJ0MGt6LXhTcms2LTkxSWN1V1J2UVFPVnBtWjJnY04ydkI3WHp2UXYwOWFQMTFXTHMyMjc2S1Z1aFlmMjZ6UVk2TjlwbkhJY0Q2MFZPMno5RnRsNmRQMjNCSklwNWtGU2U5TEw5V1Y1Um1QRXZWTUdHd1pfSGVzenRKX2RVZjcxWkRHd2RaWHBleVF1bXR2YXZQQ1Q?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2699]
+          - generic [ref=e2700]: The Washington Post
+          - heading [level=4] [ref=e2703]:
+            - link "What to know about Trump’s proposed $5,000 payouts - The Washington Post - 4 hours ago - By Victoria Craw, Steve Thompson & Aoife Walsh" [ref=e2704] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxQdHJ0MGt6LXhTcms2LTkxSWN1V1J2UVFPVnBtWjJnY04ydkI3WHp2UXYwOWFQMTFXTHMyMjc2S1Z1aFlmMjZ6UVk2TjlwbkhJY0Q2MFZPMno5RnRsNmRQMjNCSklwNWtGU2U5TEw5V1Y1Um1QRXZWTUdHd1pfSGVzenRKX2RVZjcxWkRHd2RaWHBleVF1bXR2YXZQQ1Q?hl=en-US&gl=US&ceid=US%3Aen
+              - text: What to know about Trump’s proposed $5,000 payouts
+          - generic [ref=e2705]:
+            - generic [ref=e2706]:
+              - time [ref=e2707]: 4 hours ago
+              - generic [ref=e2708]: • By Victoria Craw, Steve Thompson & Aoife Walsh
+            - list [ref=e2709]:
+              - generic [ref=e2710]:
+                - generic:
+                  - button "Save for later" [ref=e2711] [cursor=pointer]
+                  - tooltip [ref=e2716]: Save for later
+              - generic [ref=e2719]:
+                - button "Share" [ref=e2720] [cursor=pointer]
+                - tooltip [ref=e2729]: Share
+              - generic [ref=e2734]:
+                - button "More - What to know about Trump’s proposed $5,000 payouts" [ref=e2735] [cursor=pointer]
+                - tooltip [ref=e2739]: More
+        - generic [ref=e2741]:
+          - link [ref=e2742] [cursor=pointer]:
+            - /url: ./read/CBMiywFBVV95cUxNU3hkU0h0QlluUV83dGhuOE5yd3dhdi1qbXo3OWFlU2x0ZFFxUHh3UGJIcGNoeHFnNTJGSFBkTWc5MERobVlzOWhrVVRGVjN6UlZyWHpVVmo5QlpFYmNNcXRxUVBObFlVOVlYRkNUZlVNYXhpTU1lQkNaQmtqTzFNa25mbFh5N3l3V0xOV2xDYVAtc1N6YjBtNFE2V0xjZ1lsZUhaaFdncnNZTXcySjNQOXdsSU14SEdWdlRHX2duLV9YejBhRXlERHJfWdIB0AFBVV95cUxQeFM1R3RDOFJyeFlreV9RLTNEejZhSGozNEFFSU5TYmxVN1QxcmI5TUYtMWlEQkVaMlJIRlV4ODZrZ0pCZE1jX18wcjFaQlZIRnBlVFdTbVJWQ0JGcU52amhqb2xGZ1JleXdZeS1TMDIxOWxvbGNJWFVPX2lVNDd6Q1dValhrTkpTLXZyM3RLLWV0V1dxdEZiaVozaUJIeFh2cnpkMEFlUGV0TjdVV3BVM2Q4RG80dm5tcVV6elBjM1hFVXdVSUNndEo0ejU1VmxW?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2743]
+          - generic [ref=e2744]: Fox News
+          - heading [level=4] [ref=e2747]:
+            - link "Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention - Fox News - 2 days ago - By Peter D'Abrosca" [ref=e2748] [cursor=pointer]:
+              - /url: ./read/CBMiywFBVV95cUxNU3hkU0h0QlluUV83dGhuOE5yd3dhdi1qbXo3OWFlU2x0ZFFxUHh3UGJIcGNoeHFnNTJGSFBkTWc5MERobVlzOWhrVVRGVjN6UlZyWHpVVmo5QlpFYmNNcXRxUVBObFlVOVlYRkNUZlVNYXhpTU1lQkNaQmtqTzFNa25mbFh5N3l3V0xOV2xDYVAtc1N6YjBtNFE2V0xjZ1lsZUhaaFdncnNZTXcySjNQOXdsSU14SEdWdlRHX2duLV9YejBhRXlERHJfWdIB0AFBVV95cUxQeFM1R3RDOFJyeFlreV9RLTNEejZhSGozNEFFSU5TYmxVN1QxcmI5TUYtMWlEQkVaMlJIRlV4ODZrZ0pCZE1jX18wcjFaQlZIRnBlVFdTbVJWQ0JGcU52amhqb2xGZ1JleXdZeS1TMDIxOWxvbGNJWFVPX2lVNDd6Q1dValhrTkpTLXZyM3RLLWV0V1dxdEZiaVozaUJIeFh2cnpkMEFlUGV0TjdVV3BVM2Q4RG80dm5tcVV6elBjM1hFVXdVSUNndEo0ejU1VmxW?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention
+          - generic [ref=e2749]:
+            - generic [ref=e2750]:
+              - time [ref=e2751]: 2 days ago
+              - generic [ref=e2752]: • By Peter D'Abrosca
+            - list [ref=e2753]:
+              - generic [ref=e2754]:
+                - generic:
+                  - button "Save for later" [ref=e2755] [cursor=pointer]
+                  - tooltip [ref=e2760]: Save for later
+              - generic [ref=e2763]:
+                - button "Share" [ref=e2764] [cursor=pointer]
+                - tooltip [ref=e2773]: Share
+              - generic [ref=e2778]:
+                - button "More - Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention" [ref=e2779] [cursor=pointer]
+                - tooltip [ref=e2783]: More
+        - generic [ref=e2785]:
+          - link [ref=e2786] [cursor=pointer]:
+            - /url: ./read/CBMid0FVX3lxTFBoNzhpMDZtdUpoQkFIZmY3R2RRUWNiSHh3VzZsT1VTTmM2ZVZRNlFtbXJFNHFhaUZxX3dNTUQ1ZWV6bjUwalJYVEZObm1nQ1U5V1dvRnpMVzYzNjgxeFd2bHlTR0o1OGFvTXctVE5US1ZiaWc1U21r?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2787]
+          - generic [ref=e2788]: MS NOW
+          - heading [level=4] [ref=e2791]:
+            - link "Trump has promised two payments to Americans in the past 24 hours. Neither has been approved by Congress. - MS NOW - 5 hours ago - By Mychael Schnell, Jack Fitzpatrick & Jacqueline Alemany" [ref=e2792] [cursor=pointer]:
+              - /url: ./read/CBMid0FVX3lxTFBoNzhpMDZtdUpoQkFIZmY3R2RRUWNiSHh3VzZsT1VTTmM2ZVZRNlFtbXJFNHFhaUZxX3dNTUQ1ZWV6bjUwalJYVEZObm1nQ1U5V1dvRnpMVzYzNjgxeFd2bHlTR0o1OGFvTXctVE5US1ZiaWc1U21r?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump has promised two payments to Americans in the past 24 hours. Neither has been approved by Congress.
+          - generic [ref=e2793]:
+            - generic [ref=e2794]:
+              - time [ref=e2795]: 5 hours ago
+              - generic [ref=e2796]: • By Mychael Schnell, Jack Fitzpatrick & Jacqueline Alemany
+            - list [ref=e2797]:
+              - generic [ref=e2798]:
+                - generic:
+                  - button "Save for later" [ref=e2799] [cursor=pointer]
+                  - tooltip [ref=e2804]: Save for later
+              - generic [ref=e2807]:
+                - button "Share" [ref=e2808] [cursor=pointer]
+                - tooltip [ref=e2817]: Share
+              - generic [ref=e2822]:
+                - button "More - Trump has promised two payments to Americans in the past 24 hours. Neither has been approved by Congress." [ref=e2823] [cursor=pointer]
+                - tooltip [ref=e2827]: More
+        - generic [ref=e2829]:
+          - link [ref=e2830] [cursor=pointer]:
+            - /url: ./read/CBMipwFBVV95cUxQLUpvTktEakxnTWxQdlRkMFR0dkFDM2s4RU92UDdSdXlSdzNNWDJwcDZBbXFOSERXTW5kU2JDRUpjVGdkajEzbXFoWlIzaTd2elozREFUUUUzQlJBb2RvWHZtMVZyQlF0ckVrTm9oQ1FwOW01alZiNjFoV0t4aU91RkFLSE11MmR6MEhlbUE4dWZvbmJGYWNPV0d3Y0RkTGlVVlNwYm9Ydw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2831]
+          - generic [ref=e2832]: Pensacola News Journal
+          - heading [level=4] [ref=e2835]:
+            - link "Trump has now promised $12K in payouts. Will we ever see them? - Pensacola News Journal - 12 hours ago - By Brandon Girod" [ref=e2836] [cursor=pointer]:
+              - /url: ./read/CBMipwFBVV95cUxQLUpvTktEakxnTWxQdlRkMFR0dkFDM2s4RU92UDdSdXlSdzNNWDJwcDZBbXFOSERXTW5kU2JDRUpjVGdkajEzbXFoWlIzaTd2elozREFUUUUzQlJBb2RvWHZtMVZyQlF0ckVrTm9oQ1FwOW01alZiNjFoV0t4aU91RkFLSE11MmR6MEhlbUE4dWZvbmJGYWNPV0d3Y0RkTGlVVlNwYm9Ydw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump has now promised $12K in payouts. Will we ever see them?
+          - generic [ref=e2837]:
+            - generic [ref=e2838]:
+              - time [ref=e2839]: 12 hours ago
+              - generic [ref=e2840]: • By Brandon Girod
+            - list [ref=e2841]:
+              - generic [ref=e2842]:
+                - generic:
+                  - button "Save for later" [ref=e2843] [cursor=pointer]
+                  - tooltip [ref=e2848]: Save for later
+              - generic [ref=e2851]:
+                - button "Share" [ref=e2852] [cursor=pointer]
+                - tooltip [ref=e2861]: Share
+              - generic [ref=e2866]:
+                - button "More - Trump has now promised $12K in payouts. Will we ever see them?" [ref=e2867] [cursor=pointer]
+                - tooltip [ref=e2871]: More
+        - generic [ref=e2873]:
+          - link [ref=e2874] [cursor=pointer]:
+            - /url: ./read/CBMikwFBVV95cUxORlNOanVHSjVLNEpSUndFMWViQlJnZTZGTk15UFlMVkNkamdZbjZuMTNHSlBVTUIyN0NKbWlVZHVmYVl2ZG41QXFVbzJCNV9nU1A1Q0tfRGhjekpYNGhZeE1aSXVyZkdqc3QwVXhsRDNLMjQ5R1lfWDZkZ3ZLZS1MZmlVV0ladkQ2YjQ5cDBRdXlPNFk?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2875]
+          - generic [ref=e2876]: Fortune
+          - heading [level=4] [ref=e2879]:
+            - link "Trump’s $5,000 pledge and the bond market revolt shows it's a voter bribe — costing every American $8,000 - Fortune - 10 hours ago - By Jeffrey Sonnenfeld & Steven Tian" [ref=e2880] [cursor=pointer]:
+              - /url: ./read/CBMikwFBVV95cUxORlNOanVHSjVLNEpSUndFMWViQlJnZTZGTk15UFlMVkNkamdZbjZuMTNHSlBVTUIyN0NKbWlVZHVmYVl2ZG41QXFVbzJCNV9nU1A1Q0tfRGhjekpYNGhZeE1aSXVyZkdqc3QwVXhsRDNLMjQ5R1lfWDZkZ3ZLZS1MZmlVV0ladkQ2YjQ5cDBRdXlPNFk?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump’s $5,000 pledge and the bond market revolt shows it's a voter bribe — costing every American $8,000
+          - generic [ref=e2881]:
+            - generic [ref=e2882]:
+              - time [ref=e2883]: 10 hours ago
+              - generic [ref=e2884]: • By Jeffrey Sonnenfeld & Steven Tian
+            - list [ref=e2885]:
+              - generic [ref=e2886]:
+                - generic:
+                  - button "Save for later" [ref=e2887] [cursor=pointer]
+                  - tooltip [ref=e2892]: Save for later
+              - generic [ref=e2895]:
+                - button "Share" [ref=e2896] [cursor=pointer]
+                - tooltip [ref=e2905]: Share
+              - generic [ref=e2910]:
+                - button "More - Trump’s $5,000 pledge and the bond market revolt shows it's a voter bribe — costing every American $8,000" [ref=e2911] [cursor=pointer]
+                - tooltip [ref=e2915]: More
+        - generic [ref=e2917]:
+          - link [ref=e2918] [cursor=pointer]:
+            - /url: ./read/CBMi0gFBVV95cUxQcnA1TTdrVW1pS3hMcEM3OEw1TlhXazI5MTNMSW9PTnkwSUk3b0ZZcHk0VTNJVGtLZ3VaaGNBZ0JmRkVranFpeW9GeWtxSzF4cjFvQzhUNGx2Yi1TOXIyZm9rRVRlb3Q2T2FBem82MFdOZFFEcldtYy1uY1dBekc1alZfc0J0YW1VNzRnVFZWcW1DbmFHWTBGdGFZSnVjOXRYbS15bnBlZVVtMlVXU3NYdi1iVmVwdlYxMUVkcEdHcHJ4S1dfT0E5Q3o1bWEzVlN3d1E?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2919]
+          - generic [ref=e2920]: NBC News
+          - heading [level=4] [ref=e2923]:
+            - 'link "Live updates: JD Vance set to speak on Day 2 of GOP midterm convention - NBC News - 6 hours ago" [ref=e2924] [cursor=pointer]':
+              - /url: ./read/CBMi0gFBVV95cUxQcnA1TTdrVW1pS3hMcEM3OEw1TlhXazI5MTNMSW9PTnkwSUk3b0ZZcHk0VTNJVGtLZ3VaaGNBZ0JmRkVranFpeW9GeWtxSzF4cjFvQzhUNGx2Yi1TOXIyZm9rRVRlb3Q2T2FBem82MFdOZFFEcldtYy1uY1dBekc1alZfc0J0YW1VNzRnVFZWcW1DbmFHWTBGdGFZSnVjOXRYbS15bnBlZVVtMlVXU3NYdi1iVmVwdlYxMUVkcEdHcHJ4S1dfT0E5Q3o1bWEzVlN3d1E?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "Live updates: JD Vance set to speak on Day 2 of GOP midterm convention"
+          - generic [ref=e2925]:
+            - time [ref=e2927]: 6 hours ago
+            - list [ref=e2928]:
+              - generic [ref=e2929]:
+                - generic:
+                  - button "Save for later" [ref=e2930] [cursor=pointer]
+                  - tooltip [ref=e2935]: Save for later
+              - generic [ref=e2938]:
+                - button "Share" [ref=e2939] [cursor=pointer]
+                - tooltip [ref=e2948]: Share
+              - generic [ref=e2953]:
+                - 'button "More - Live updates: JD Vance set to speak on Day 2 of GOP midterm convention" [ref=e2954] [cursor=pointer]'
+                - tooltip [ref=e2958]: More
+        - generic [ref=e2960]:
+          - link [ref=e2961] [cursor=pointer]:
+            - /url: ./read/CBMitwFBVV95cUxQSU5iZnBMRnFxSjRwUFhNRDI1WGxkRUxpX2JNamFHRzNmWDlVNmhObWRGRWNWZGVuNVBuV3ZiOXhoQ0JONS1jOGx2QUNIWDQxRG5SMW5vck9VMTFYQjh5LXBsclVWdlJzQ0RsVTVNY1JhRlU2b1I5TzBzTEZQb2VwUEVheFBSN25qMXlMMU1ka0lrQkVJMFFPS3VmUHY1X0x3RW5ybzVrUVhLeHl6cjlzTGhpbm9leHc?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e2962]
+          - generic [ref=e2963]: PBS
+          - heading [level=4] [ref=e2966]:
+            - link "Trump promised $5,000 checks if Republicans win the midterms. How would that work? - PBS - 7 hours ago - By Maria Ramirez Uribe" [ref=e2967] [cursor=pointer]:
+              - /url: ./read/CBMitwFBVV95cUxQSU5iZnBMRnFxSjRwUFhNRDI1WGxkRUxpX2JNamFHRzNmWDlVNmhObWRGRWNWZGVuNVBuV3ZiOXhoQ0JONS1jOGx2QUNIWDQxRG5SMW5vck9VMTFYQjh5LXBsclVWdlJzQ0RsVTVNY1JhRlU2b1I5TzBzTEZQb2VwUEVheFBSN25qMXlMMU1ka0lrQkVJMFFPS3VmUHY1X0x3RW5ybzVrUVhLeHl6cjlzTGhpbm9leHc?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump promised $5,000 checks if Republicans win the midterms. How would that work?
+          - generic [ref=e2968]:
+            - generic [ref=e2969]:
+              - time [ref=e2970]: 7 hours ago
+              - generic [ref=e2971]: • By Maria Ramirez Uribe
+            - list [ref=e2972]:
+              - generic [ref=e2973]:
+                - generic:
+                  - button "Save for later" [ref=e2974] [cursor=pointer]
+                  - tooltip [ref=e2979]: Save for later
+              - generic [ref=e2982]:
+                - button "Share" [ref=e2983] [cursor=pointer]
+                - tooltip [ref=e2992]: Share
+              - generic [ref=e2997]:
+                - button "More - Trump promised $5,000 checks if Republicans win the midterms. How would that work?" [ref=e2998] [cursor=pointer]
+                - tooltip [ref=e3002]: More
+        - generic [ref=e3004]:
+          - link [ref=e3005] [cursor=pointer]:
+            - /url: ./read/CBMitwFBVV95cUxPYzZ1VkNtUnhwVm5VX1AzU0llbHk4MC1DX3R4WmFkUDEyT2d4YjB1czBkQnpDaVRQSWZONG1zYVFXUTVwQVBJMVhtSTFGMkxaTF82ZnRucmNEeTVwQi11RlhZd05WLVRRVkFpeU85WGF1dmZuckdSMUY1eDRUeXNNUHpDSGNlRjlNZTh2V0p3Y29qRDIwTmxhSDFIMUVCUW1KS1NEZnhJY1M5dVpHX0lTdXhMUWJROEE?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3006]
+          - generic [ref=e3007]: the-independent.com
+          - heading [level=4] [ref=e3010]:
+            - link "Jeffries buys NFL Thursday Night Football ad blitz after Trump’s $5,000 midterm election ‘dividend’ promise - the-independent.com - 10 hours ago - By Eric Garcia" [ref=e3011] [cursor=pointer]:
+              - /url: ./read/CBMitwFBVV95cUxPYzZ1VkNtUnhwVm5VX1AzU0llbHk4MC1DX3R4WmFkUDEyT2d4YjB1czBkQnpDaVRQSWZONG1zYVFXUTVwQVBJMVhtSTFGMkxaTF82ZnRucmNEeTVwQi11RlhZd05WLVRRVkFpeU85WGF1dmZuckdSMUY1eDRUeXNNUHpDSGNlRjlNZTh2V0p3Y29qRDIwTmxhSDFIMUVCUW1KS1NEZnhJY1M5dVpHX0lTdXhMUWJROEE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Jeffries buys NFL Thursday Night Football ad blitz after Trump’s $5,000 midterm election ‘dividend’ promise
+          - generic [ref=e3012]:
+            - generic [ref=e3013]:
+              - time [ref=e3014]: 10 hours ago
+              - generic [ref=e3015]: • By Eric Garcia
+            - list [ref=e3016]:
+              - generic [ref=e3017]:
+                - generic:
+                  - button "Save for later" [ref=e3018] [cursor=pointer]
+                  - tooltip [ref=e3023]: Save for later
+              - generic [ref=e3026]:
+                - button "Share" [ref=e3027] [cursor=pointer]
+                - tooltip [ref=e3036]: Share
+              - generic [ref=e3041]:
+                - button "More - Jeffries buys NFL Thursday Night Football ad blitz after Trump’s $5,000 midterm election ‘dividend’ promise" [ref=e3042] [cursor=pointer]
+                - tooltip [ref=e3046]: More
+        - generic [ref=e3048]:
+          - link [ref=e3049] [cursor=pointer]:
+            - /url: ./read/CBMiogFBVV95cUxQeU13MnNSZkJSaUhJNGZYY3o3ckVBZm5JYUR2Z0lHUzRBV1FTZWs3WmFzX2I5aS1xTDF6aDFyalVwQkEtbmNMOV94UzctaDlMcU0yVmVTYWpNNnNsbl83ZzVibi1lVlNCVDRlSklZT0NPVkRUaFJDWTdsLWduYlVzOXJ6UmpPZ21kQWRYMk1VdU1BRUdtYk1VZ3lHbGZ2SmMzUEE?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3050]
+          - generic [ref=e3051]: Reuters
+          - heading [level=4] [ref=e3054]:
+            - 'link "Explainer: Is Trump''s $5,000 ''dividend'' legal and how would it work? - Reuters - 5 hours ago - By Andy Sullivan, Jonathan Stempel & Saqib Ahmed" [ref=e3055] [cursor=pointer]':
+              - /url: ./read/CBMiogFBVV95cUxQeU13MnNSZkJSaUhJNGZYY3o3ckVBZm5JYUR2Z0lHUzRBV1FTZWs3WmFzX2I5aS1xTDF6aDFyalVwQkEtbmNMOV94UzctaDlMcU0yVmVTYWpNNnNsbl83ZzVibi1lVlNCVDRlSklZT0NPVkRUaFJDWTdsLWduYlVzOXJ6UmpPZ21kQWRYMk1VdU1BRUdtYk1VZ3lHbGZ2SmMzUEE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "Explainer: Is Trump's $5,000 'dividend' legal and how would it work?"
+          - generic [ref=e3056]:
+            - generic [ref=e3057]:
+              - time [ref=e3058]: 5 hours ago
+              - generic [ref=e3059]: • By Andy Sullivan, Jonathan Stempel & Saqib Ahmed
+            - list [ref=e3060]:
+              - generic [ref=e3061]:
+                - generic:
+                  - button "Save for later" [ref=e3062] [cursor=pointer]
+                  - tooltip [ref=e3067]: Save for later
+              - generic [ref=e3070]:
+                - button "Share" [ref=e3071] [cursor=pointer]
+                - tooltip [ref=e3080]: Share
+              - generic [ref=e3085]:
+                - 'button "More - Explainer: Is Trump''s $5,000 ''dividend'' legal and how would it work?" [ref=e3086] [cursor=pointer]'
+                - tooltip [ref=e3090]: More
+        - generic [ref=e3092]:
+          - link [ref=e3093] [cursor=pointer]:
+            - /url: ./read/CBMiqwFBVV95cUxQQnRXeFZsNTNnel9rQ05YQ3QyZGg5ZE1XQW1OUUgxb2lLd19icmd2bkdsNE1qMGlIcVdYNW9FR0VQeHdjNHZmc2xjQTJSRG5FbWhhVGNNWnBPNFZuUmxWcHdnZzk0REt2cVVKYXg4X3BHRWEyWGRKbEh3eDRiSWtselN6TjhoR3kzc05STnhfT1RkQTlUX0JNX2M4R2ZNS1BsOWZxZTZpRWdDTFE?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3094]
+          - generic [ref=e3095]: Bloomberg.com
+          - heading [level=4] [ref=e3098]:
+            - link "Trump’s $5,000 Payout Promise Is Soaked in Flop Sweat - Bloomberg.com - 10 hours ago - By Mark Gongloff" [ref=e3099] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxQQnRXeFZsNTNnel9rQ05YQ3QyZGg5ZE1XQW1OUUgxb2lLd19icmd2bkdsNE1qMGlIcVdYNW9FR0VQeHdjNHZmc2xjQTJSRG5FbWhhVGNNWnBPNFZuUmxWcHdnZzk0REt2cVVKYXg4X3BHRWEyWGRKbEh3eDRiSWtselN6TjhoR3kzc05STnhfT1RkQTlUX0JNX2M4R2ZNS1BsOWZxZTZpRWdDTFE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump’s $5,000 Payout Promise Is Soaked in Flop Sweat
+          - generic [ref=e3100]:
+            - generic [ref=e3101]:
+              - time [ref=e3102]: 10 hours ago
+              - generic [ref=e3103]: • By Mark Gongloff
+            - list [ref=e3104]:
+              - generic [ref=e3105]:
+                - generic:
+                  - button "Save for later" [ref=e3106] [cursor=pointer]
+                  - tooltip [ref=e3111]: Save for later
+              - generic [ref=e3114]:
+                - button "Share" [ref=e3115] [cursor=pointer]
+                - tooltip [ref=e3124]: Share
+              - generic [ref=e3129]:
+                - button "More - Trump’s $5,000 Payout Promise Is Soaked in Flop Sweat" [ref=e3130] [cursor=pointer]
+                - tooltip [ref=e3134]: More
+        - generic [ref=e3136]:
+          - link [ref=e3137] [cursor=pointer]:
+            - /url: ./read/CBMiigFBVV95cUxOcjJNNUVBM2pkem1rN3dwaTYzeGRlRlBPNWlidEV3RFdUeXhScUhoNllzaUpMTExrMlRjS2lnMGtUMVFKN2xqRHZKQzY5bWlpUFZ4VlhsdVpqbzlVajMzTDlkbE45WUh5ejdCWHBmWERGbWNSdXdjQnFFU29fVDVpR0RXWktqUUZibnc?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3138]
+          - generic [ref=e3139]: New York Magazine
+          - heading [level=4] [ref=e3142]:
+            - link "The Psychology Behind Trump’s Plan to Give Everyone $5,000 - New York Magazine - 9 hours ago - By Ed Kilgore" [ref=e3143] [cursor=pointer]:
+              - /url: ./read/CBMiigFBVV95cUxOcjJNNUVBM2pkem1rN3dwaTYzeGRlRlBPNWlidEV3RFdUeXhScUhoNllzaUpMTExrMlRjS2lnMGtUMVFKN2xqRHZKQzY5bWlpUFZ4VlhsdVpqbzlVajMzTDlkbE45WUh5ejdCWHBmWERGbWNSdXdjQnFFU29fVDVpR0RXWktqUUZibnc?hl=en-US&gl=US&ceid=US%3Aen
+              - text: The Psychology Behind Trump’s Plan to Give Everyone $5,000
+          - generic [ref=e3144]:
+            - generic [ref=e3145]:
+              - time [ref=e3146]: 9 hours ago
+              - generic [ref=e3147]: • By Ed Kilgore
+            - list [ref=e3148]:
+              - generic [ref=e3149]:
+                - generic:
+                  - button "Save for later" [ref=e3150] [cursor=pointer]
+                  - tooltip [ref=e3155]: Save for later
+              - generic [ref=e3158]:
+                - button "Share" [ref=e3159] [cursor=pointer]
+                - tooltip [ref=e3168]: Share
+              - generic [ref=e3173]:
+                - button "More - The Psychology Behind Trump’s Plan to Give Everyone $5,000" [ref=e3174] [cursor=pointer]
+                - tooltip [ref=e3178]: More
+        - generic [ref=e3180]:
+          - link [ref=e3181] [cursor=pointer]:
+            - /url: ./read/CBMilwFBVV95cUxNNTlKQUFORExCMC1OZ2tOOS1GRzZnNG5YcTRfaHdyTG44NGxZUnZueFhacFY0RGJzSTI1bDIxNFNvT3VaZXpQMjVjNUhLcms2M3IwZmhaZW1vazBPbFNubmJwMWUyazhFSHlFM0ZkY2RMclF0TG02cmVxd0g1ZFdGOW9mME5QTGEyTEFmRjlBUUJMQVVBMXlZ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3182]
+          - generic [ref=e3183]: economist.com
+          - heading [level=4] [ref=e3186]:
+            - 'link "World in Brief: Trump’s $5,000-a-person midterm sweetener; Treasury yields jump - economist.com - 17 hours ago" [ref=e3187] [cursor=pointer]':
+              - /url: ./read/CBMilwFBVV95cUxNNTlKQUFORExCMC1OZ2tOOS1GRzZnNG5YcTRfaHdyTG44NGxZUnZueFhacFY0RGJzSTI1bDIxNFNvT3VaZXpQMjVjNUhLcms2M3IwZmhaZW1vazBPbFNubmJwMWUyazhFSHlFM0ZkY2RMclF0TG02cmVxd0g1ZFdGOW9mME5QTGEyTEFmRjlBUUJMQVVBMXlZ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "World in Brief: Trump’s $5,000-a-person midterm sweetener; Treasury yields jump"
+          - generic [ref=e3188]:
+            - time [ref=e3190]: 17 hours ago
+            - list [ref=e3191]:
+              - generic [ref=e3192]:
+                - generic:
+                  - button "Save for later" [ref=e3193] [cursor=pointer]
+                  - tooltip [ref=e3198]: Save for later
+              - generic [ref=e3201]:
+                - button "Share" [ref=e3202] [cursor=pointer]
+                - tooltip [ref=e3211]: Share
+              - generic [ref=e3216]:
+                - 'button "More - World in Brief: Trump’s $5,000-a-person midterm sweetener; Treasury yields jump" [ref=e3217] [cursor=pointer]'
+                - tooltip [ref=e3221]: More
+        - generic [ref=e3223]:
+          - link [ref=e3224] [cursor=pointer]:
+            - /url: ./read/CBMiowFBVV95cUxOWjRGUXhoSk1nSXZOVEhMUU5pSk53NU1ULURWcUotOXhmMDJwR2hkV2R2MXNoSXg2a0c5QVQ2V01yYnJjUU9HcjcwZlFrSkltS1RVV3VnZjN3NWp1YUZ6cDhNVTlFUV9jbnAyVGRCTG5kdGh4dTFHT3R2eGJ1ZVpjcUZBVjNESGxoX1ZhcUttcmJzNC1sN3ltcXpYakZjcWZKWEM0?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3225]
+          - generic [ref=e3226]: USA Today
+          - heading [level=4] [ref=e3229]:
+            - link "Trump floats $5,000 checks 'if the Republicans win'. Is that a bribe? - USA Today - 6 hours ago - By Christopher Cann, Aysha Bagchi & Jeanine Santucci" [ref=e3230] [cursor=pointer]:
+              - /url: ./read/CBMiowFBVV95cUxOWjRGUXhoSk1nSXZOVEhMUU5pSk53NU1ULURWcUotOXhmMDJwR2hkV2R2MXNoSXg2a0c5QVQ2V01yYnJjUU9HcjcwZlFrSkltS1RVV3VnZjN3NWp1YUZ6cDhNVTlFUV9jbnAyVGRCTG5kdGh4dTFHT3R2eGJ1ZVpjcUZBVjNESGxoX1ZhcUttcmJzNC1sN3ltcXpYakZjcWZKWEM0?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump floats $5,000 checks 'if the Republicans win'. Is that a bribe?
+          - generic [ref=e3231]:
+            - generic [ref=e3232]:
+              - time [ref=e3233]: 6 hours ago
+              - generic [ref=e3234]: • By Christopher Cann, Aysha Bagchi & Jeanine Santucci
+            - list [ref=e3235]:
+              - generic [ref=e3236]:
+                - generic:
+                  - button "Save for later" [ref=e3237] [cursor=pointer]
+                  - tooltip [ref=e3242]: Save for later
+              - generic [ref=e3245]:
+                - button "Share" [ref=e3246] [cursor=pointer]
+                - tooltip [ref=e3255]: Share
+              - generic [ref=e3260]:
+                - button "More - Trump floats $5,000 checks 'if the Republicans win'. Is that a bribe?" [ref=e3261] [cursor=pointer]
+                - tooltip [ref=e3265]: More
+        - generic [ref=e3267]:
+          - link [ref=e3268] [cursor=pointer]:
+            - /url: ./read/CBMiswFBVV95cUxQdVVPYU5CaV84bkVBVnZscm9PWU9yeXlPZi0xM0FsMExOeGlvQkQ2d2hCdE1WSThJUmV4NVI4Mmt3c1BjSVR0dzZSZ1U2UHYzclc2d2J5ZUYxRUlGX0tnYkRPYTBHYS1LOGFUX0R0ZWVfbjJnZS1IQU1ZOFgyNHlYWF9aYUp6ZHk2WGdvTzQya0Z6LVZWeFZMUkswQUx1eXJDUDluUUo3cEpJS09UNDhFb21oTQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3269]
+          - generic [ref=e3270]: Semafor
+          - heading [level=4] [ref=e3273]:
+            - link "Republicans’ midterm promise is more populism, and more cash - Semafor - 1 hour ago - By David Weigel" [ref=e3274] [cursor=pointer]:
+              - /url: ./read/CBMiswFBVV95cUxQdVVPYU5CaV84bkVBVnZscm9PWU9yeXlPZi0xM0FsMExOeGlvQkQ2d2hCdE1WSThJUmV4NVI4Mmt3c1BjSVR0dzZSZ1U2UHYzclc2d2J5ZUYxRUlGX0tnYkRPYTBHYS1LOGFUX0R0ZWVfbjJnZS1IQU1ZOFgyNHlYWF9aYUp6ZHk2WGdvTzQya0Z6LVZWeFZMUkswQUx1eXJDUDluUUo3cEpJS09UNDhFb21oTQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Republicans’ midterm promise is more populism, and more cash
+          - generic [ref=e3275]:
+            - generic [ref=e3276]:
+              - time [ref=e3277]: 1 hour ago
+              - generic [ref=e3278]: • By David Weigel
+            - list [ref=e3279]:
+              - generic [ref=e3280]:
+                - generic:
+                  - button "Save for later" [ref=e3281] [cursor=pointer]
+                  - tooltip [ref=e3286]: Save for later
+              - generic [ref=e3289]:
+                - button "Share" [ref=e3290] [cursor=pointer]
+                - tooltip [ref=e3299]: Share
+              - generic [ref=e3304]:
+                - button "More - Republicans’ midterm promise is more populism, and more cash" [ref=e3305] [cursor=pointer]
+                - tooltip [ref=e3309]: More
+        - generic [ref=e3311]:
+          - link [ref=e3312] [cursor=pointer]:
+            - /url: ./read/CBMijwFBVV95cUxOYlhNYlJQX0M5T051YXdnZWxGdUlZa0J5YnQtSnlHSWFkLXdRVVJCYjZSbE5rSjJjV0tnc3RVSHY5bGR4Z3ZDTG9qbTB1VmgtYkVzamY3X1l3b2JYZ19fd0lxcHZXMi1pQlBhQ2J3RDcxdnpzaktNQlBHQTVkdmZCa04tRWZXZHJpaXU0RmxDRQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3313]
+          - generic [ref=e3314]: Slate
+          - heading [level=4] [ref=e3317]:
+            - link "Can Trump Buy Back Americans’ Love at $5,000 a Piece? Guess We’ll Find Out. - Slate - 10 hours ago - By Ben Jacobs" [ref=e3318] [cursor=pointer]:
+              - /url: ./read/CBMijwFBVV95cUxOYlhNYlJQX0M5T051YXdnZWxGdUlZa0J5YnQtSnlHSWFkLXdRVVJCYjZSbE5rSjJjV0tnc3RVSHY5bGR4Z3ZDTG9qbTB1VmgtYkVzamY3X1l3b2JYZ19fd0lxcHZXMi1pQlBhQ2J3RDcxdnpzaktNQlBHQTVkdmZCa04tRWZXZHJpaXU0RmxDRQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Can Trump Buy Back Americans’ Love at $5,000 a Piece? Guess We’ll Find Out.
+          - generic [ref=e3319]:
+            - generic [ref=e3320]:
+              - time [ref=e3321]: 10 hours ago
+              - generic [ref=e3322]: • By Ben Jacobs
+            - list [ref=e3323]:
+              - generic [ref=e3324]:
+                - generic:
+                  - button "Save for later" [ref=e3325] [cursor=pointer]
+                  - tooltip [ref=e3330]: Save for later
+              - generic [ref=e3333]:
+                - button "Share" [ref=e3334] [cursor=pointer]
+                - tooltip [ref=e3343]: Share
+              - generic [ref=e3348]:
+                - button "More - Can Trump Buy Back Americans’ Love at $5,000 a Piece? Guess We’ll Find Out." [ref=e3349] [cursor=pointer]
+                - tooltip [ref=e3353]: More
+        - generic [ref=e3355]:
+          - link [ref=e3356] [cursor=pointer]:
+            - /url: ./read/CBMikwFBVV95cUxOX2Z2QURBODl5dl95SmVfQkRoSVJOdEF4LXRCRnNQRFVrMkdSb01YVnJOUVFJcllpUWREeDl2Zkh0V2RmLVdDZ2tIMWRpVzNxSTliYlhkNU96NDdycnZzVjZuM3V4NVU4QXFIc1lXVU9Jd1hRZno3R2Q4b2V2SmxvZ3RpNkJNVUlvdUFReUQxWjA0Q3c?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3357]
+          - generic [ref=e3358]: The Daily Beast
+          - heading [level=4] [ref=e3361]:
+            - link "Fox News Star Calls BS on Trump’s Wild Cash Bribe Plot - The Daily Beast - 12 hours ago - By Leigh Kimmins" [ref=e3362] [cursor=pointer]:
+              - /url: ./read/CBMikwFBVV95cUxOX2Z2QURBODl5dl95SmVfQkRoSVJOdEF4LXRCRnNQRFVrMkdSb01YVnJOUVFJcllpUWREeDl2Zkh0V2RmLVdDZ2tIMWRpVzNxSTliYlhkNU96NDdycnZzVjZuM3V4NVU4QXFIc1lXVU9Jd1hRZno3R2Q4b2V2SmxvZ3RpNkJNVUlvdUFReUQxWjA0Q3c?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Fox News Star Calls BS on Trump’s Wild Cash Bribe Plot
+          - generic [ref=e3363]:
+            - generic [ref=e3364]:
+              - time [ref=e3365]: 12 hours ago
+              - generic [ref=e3366]: • By Leigh Kimmins
+            - list [ref=e3367]:
+              - generic [ref=e3368]:
+                - generic:
+                  - button "Save for later" [ref=e3369] [cursor=pointer]
+                  - tooltip [ref=e3374]: Save for later
+              - generic [ref=e3377]:
+                - button "Share" [ref=e3378] [cursor=pointer]
+                - tooltip [ref=e3387]: Share
+              - generic [ref=e3392]:
+                - button "More - Fox News Star Calls BS on Trump’s Wild Cash Bribe Plot" [ref=e3393] [cursor=pointer]
+                - tooltip [ref=e3397]: More
+        - generic [ref=e3399]:
+          - link [ref=e3400] [cursor=pointer]:
+            - /url: ./read/CBMiqwFBVV95cUxPbHVBWnBCVGZWVDFhS2VSS254LTU2dF94eWxfdWdpVHpLcHYybmpzc19QTndXSUR6S3I4WjJWMGZxRnRvQUh2ZklmR0hQSjRpSDU5S1ZWS0VDSjg4dGN2NEg0cld4Rl9ITGY0WHh1cXgyei1IVGxIRUVHaU1JLVZmUTBSQjFwbG5lLWt2U0psR0g1SVlQNDJsR2NGdnJ2UmFsVjNiUS1TNlkyT1nSAbABQVVfeXFMUFpuN29Ua2lUOXpSdkFZdVgtRXRnZHZHUlhXOVRJUlJmd1FQdUJvOUZqUXZ2elcwcG5EYzFjOXJUTXIzbUpPUmhUaFNfZV94TGVjcWNGMlBrTEdoTzBwM090b2Y1d2dQUjYxb0kyamFRMEU3anNiV1pyZG1OdnJ6THh1UVBLSWhwZldTOXNDbVV4R3lfb1dHZlpaZkgyanltRlFUM041dWRWUE5iUi1PQko?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3401]
+          - generic [ref=e3402]: ABC News - Breaking News, Latest News and Videos
+          - heading [level=4] [ref=e3405]:
+            - link "Trump promised $2,000 tariff 'dividends,' but they still haven't materialized 10 months later - ABC News - Breaking News, Latest News and Videos - 13 hours ago - By Fritz Farrow" [ref=e3406] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxPbHVBWnBCVGZWVDFhS2VSS254LTU2dF94eWxfdWdpVHpLcHYybmpzc19QTndXSUR6S3I4WjJWMGZxRnRvQUh2ZklmR0hQSjRpSDU5S1ZWS0VDSjg4dGN2NEg0cld4Rl9ITGY0WHh1cXgyei1IVGxIRUVHaU1JLVZmUTBSQjFwbG5lLWt2U0psR0g1SVlQNDJsR2NGdnJ2UmFsVjNiUS1TNlkyT1nSAbABQVVfeXFMUFpuN29Ua2lUOXpSdkFZdVgtRXRnZHZHUlhXOVRJUlJmd1FQdUJvOUZqUXZ2elcwcG5EYzFjOXJUTXIzbUpPUmhUaFNfZV94TGVjcWNGMlBrTEdoTzBwM090b2Y1d2dQUjYxb0kyamFRMEU3anNiV1pyZG1OdnJ6THh1UVBLSWhwZldTOXNDbVV4R3lfb1dHZlpaZkgyanltRlFUM041dWRWUE5iUi1PQko?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump promised $2,000 tariff 'dividends,' but they still haven't materialized 10 months later
+          - generic [ref=e3407]:
+            - generic [ref=e3408]:
+              - time [ref=e3409]: 13 hours ago
+              - generic [ref=e3410]: • By Fritz Farrow
+            - list [ref=e3411]:
+              - generic [ref=e3412]:
+                - generic:
+                  - button "Save for later" [ref=e3413] [cursor=pointer]
+                  - tooltip [ref=e3418]: Save for later
+              - generic [ref=e3421]:
+                - button "Share" [ref=e3422] [cursor=pointer]
+                - tooltip [ref=e3431]: Share
+              - generic [ref=e3436]:
+                - button "More - Trump promised $2,000 tariff 'dividends,' but they still haven't materialized 10 months later" [ref=e3437] [cursor=pointer]
+                - tooltip [ref=e3441]: More
+        - generic [ref=e3443]:
+          - link [ref=e3444] [cursor=pointer]:
+            - /url: ./read/CBMif0FVX3lxTE10WUx1Z0NDYk5UTXNwNUQwMXl4SERfOUJhYlNnX3pIa3BGdHJFUW5xV1ZjNjA0VmRLWTZYM3A5TlhjaXpjX3hnRklMWG9aajB3cmVjMzVSZzNaemdGejJZTGFva1JEVHduMmdTSDJmUDFkS1h3NE10QUNBd05Dcjg?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3445]
+          - generic [ref=e3446]: The New Republic
+          - heading [level=4] [ref=e3449]:
+            - link "Trump Has Bonkers Excuse for Why He Won’t Just Give Out $5,000 Now - The New Republic - 8 hours ago - By Edith Olmsted" [ref=e3450] [cursor=pointer]:
+              - /url: ./read/CBMif0FVX3lxTE10WUx1Z0NDYk5UTXNwNUQwMXl4SERfOUJhYlNnX3pIa3BGdHJFUW5xV1ZjNjA0VmRLWTZYM3A5TlhjaXpjX3hnRklMWG9aajB3cmVjMzVSZzNaemdGejJZTGFva1JEVHduMmdTSDJmUDFkS1h3NE10QUNBd05Dcjg?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump Has Bonkers Excuse for Why He Won’t Just Give Out $5,000 Now
+          - generic [ref=e3451]:
+            - generic [ref=e3452]:
+              - time [ref=e3453]: 8 hours ago
+              - generic [ref=e3454]: • By Edith Olmsted
+            - list [ref=e3455]:
+              - generic [ref=e3456]:
+                - generic:
+                  - button "Save for later" [ref=e3457] [cursor=pointer]
+                  - tooltip [ref=e3462]: Save for later
+              - generic [ref=e3465]:
+                - button "Share" [ref=e3466] [cursor=pointer]
+                - tooltip [ref=e3475]: Share
+              - generic [ref=e3480]:
+                - button "More - Trump Has Bonkers Excuse for Why He Won’t Just Give Out $5,000 Now" [ref=e3481] [cursor=pointer]
+                - tooltip [ref=e3485]: More
+        - generic [ref=e3487]:
+          - link [ref=e3488] [cursor=pointer]:
+            - /url: ./read/CBMirwFBVV95cUxOckhJSldfRXpCZFUybnBvQ1JQX1hxcmh3dlpCS1ljM3BVQWNnWmxfYkY0TktucWw1QkdvR2toamgzZDZJQVNtRHhsQkRJcV9zRG9YbU9qVVBjYVJIajNtT3dUS3pHYmZtbzdmX3Y1NVFQWW1DUlJ5Q0hlZENLbm9sRFRFM0dGVmNjV2kxZlJMTzk1N01udmpxWG9EVkR0NVA4Sk9CV1g0dUljbHRNbzg00gG0AUFVX3lxTE9PQVFjWjJpTWJoeXp6ZUpKdjNBTmxpenFzSGh0bmdNaE9KMWlYRTg5LWZBdU54eW9ROHBuQjhGcGpnLU9DUUV2SWU2a2YtYm5PV0kwQlFnOWRtMk5rQ3lQRDIzdUJhX3VWNGFZaGQwcmFVSGFFYjVra2FPYUtkNmlZbjdiYU5XSHVpaTBBU1UwUEstT040dXRlUEc5eE05ZVd0Zl9RcUk1Q1J0VldYS0FGR1YyWA?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3489]
+          - generic [ref=e3490]: Al Jazeera
+          - heading [level=4] [ref=e3493]:
+            - link "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical - Al Jazeera - 3 hours ago - By Joseph Stepansky" [ref=e3494] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxOckhJSldfRXpCZFUybnBvQ1JQX1hxcmh3dlpCS1ljM3BVQWNnWmxfYkY0TktucWw1QkdvR2toamgzZDZJQVNtRHhsQkRJcV9zRG9YbU9qVVBjYVJIajNtT3dUS3pHYmZtbzdmX3Y1NVFQWW1DUlJ5Q0hlZENLbm9sRFRFM0dGVmNjV2kxZlJMTzk1N01udmpxWG9EVkR0NVA4Sk9CV1g0dUljbHRNbzg00gG0AUFVX3lxTE9PQVFjWjJpTWJoeXp6ZUpKdjNBTmxpenFzSGh0bmdNaE9KMWlYRTg5LWZBdU54eW9ROHBuQjhGcGpnLU9DUUV2SWU2a2YtYm5PV0kwQlFnOWRtMk5rQ3lQRDIzdUJhX3VWNGFZaGQwcmFVSGFFYjVra2FPYUtkNmlZbjdiYU5XSHVpaTBBU1UwUEstT040dXRlUEc5eE05ZVd0Zl9RcUk1Q1J0VldYS0FGR1YyWA?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Will Trump pay all US adults $5,000? Some Trump supporters are sceptical
+          - generic [ref=e3495]:
+            - generic [ref=e3496]:
+              - time [ref=e3497]: 3 hours ago
+              - generic [ref=e3498]: • By Joseph Stepansky
+            - list [ref=e3499]:
+              - generic [ref=e3500]:
+                - generic:
+                  - button "Save for later" [ref=e3501] [cursor=pointer]
+                  - tooltip [ref=e3506]: Save for later
+              - generic [ref=e3509]:
+                - button "Share" [ref=e3510] [cursor=pointer]
+                - tooltip [ref=e3519]: Share
+              - generic [ref=e3524]:
+                - button "More - Will Trump pay all US adults $5,000? Some Trump supporters are sceptical" [ref=e3525] [cursor=pointer]
+                - tooltip [ref=e3529]: More
+        - generic [ref=e3531]:
+          - link [ref=e3532] [cursor=pointer]:
+            - /url: ./read/CBMiiAFBVV95cUxOMDdkQnpYckJzLW9GV3EtM0c2aWlrNGMtUXFLck1FcTZ5WnFpb3BET1hyRnhPQ3RweFphLTN2eXktRW5PdGJjSnNLclF4T0NrSHJYcUpLdVZKTXVjWmpaeDdhLXpZS2Z1blV4cnhHdDE2LTB4bGJxVk9RWUpnTnhEMy1peEN4SVg2?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3533]
+          - generic [ref=e3534]: Business Insider
+          - heading [level=4] [ref=e3537]:
+            - link "Palantir cofounder and GOP donor says Trump's proposed $5,000 dividend is a 'bribe' - Business Insider - 8 hours ago - By Brent Griffiths" [ref=e3538] [cursor=pointer]:
+              - /url: ./read/CBMiiAFBVV95cUxOMDdkQnpYckJzLW9GV3EtM0c2aWlrNGMtUXFLck1FcTZ5WnFpb3BET1hyRnhPQ3RweFphLTN2eXktRW5PdGJjSnNLclF4T0NrSHJYcUpLdVZKTXVjWmpaeDdhLXpZS2Z1blV4cnhHdDE2LTB4bGJxVk9RWUpnTnhEMy1peEN4SVg2?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Palantir cofounder and GOP donor says Trump's proposed $5,000 dividend is a 'bribe'
+          - generic [ref=e3539]:
+            - generic [ref=e3540]:
+              - time [ref=e3541]: 8 hours ago
+              - generic [ref=e3542]: • By Brent Griffiths
+            - list [ref=e3543]:
+              - generic [ref=e3544]:
+                - generic:
+                  - button "Save for later" [ref=e3545] [cursor=pointer]
+                  - tooltip [ref=e3550]: Save for later
+              - generic [ref=e3553]:
+                - button "Share" [ref=e3554] [cursor=pointer]
+                - tooltip [ref=e3563]: Share
+              - generic [ref=e3568]:
+                - button "More - Palantir cofounder and GOP donor says Trump's proposed $5,000 dividend is a 'bribe'" [ref=e3569] [cursor=pointer]
+                - tooltip [ref=e3573]: More
+        - generic [ref=e3575]:
+          - link [ref=e3576] [cursor=pointer]:
+            - /url: ./read/CBMilwFBVV95cUxPUnRQRVlOWS1DeXU4UVBIbUJqa3JKV1NYZGJ1Sl9XSFBlS0JMRTRQQ3VpeUNqaHVXYWFfT2p5SGh3SUJyc3ZRMmZ3RXBqYVJMZWY1b0dyRHUxZzR4U0J2ZGFPOVVyVkM3eGhubjgxQ1dKQS15Q1RxQ0Yxc045QjBYYTNhX1RaMHFyeFkwMTdpZERNbE9vQnIw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3577]
+          - generic [ref=e3578]: Yahoo
+          - heading [level=4] [ref=e3581]:
+            - link "Trump wants to send Americans money. Congress and economists don't seem thrilled with the idea - Yahoo - 10 hours ago - By Bill Barrow, Lisa Mascaro & Josh Boak" [ref=e3582] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxPUnRQRVlOWS1DeXU4UVBIbUJqa3JKV1NYZGJ1Sl9XSFBlS0JMRTRQQ3VpeUNqaHVXYWFfT2p5SGh3SUJyc3ZRMmZ3RXBqYVJMZWY1b0dyRHUxZzR4U0J2ZGFPOVVyVkM3eGhubjgxQ1dKQS15Q1RxQ0Yxc045QjBYYTNhX1RaMHFyeFkwMTdpZERNbE9vQnIw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump wants to send Americans money. Congress and economists don't seem thrilled with the idea
+          - generic [ref=e3583]:
+            - generic [ref=e3584]:
+              - time [ref=e3585]: 10 hours ago
+              - generic [ref=e3586]: • By Bill Barrow, Lisa Mascaro & Josh Boak
+            - list [ref=e3587]:
+              - generic [ref=e3588]:
+                - generic:
+                  - button "Save for later" [ref=e3589] [cursor=pointer]
+                  - tooltip [ref=e3594]: Save for later
+              - generic [ref=e3597]:
+                - button "Share" [ref=e3598] [cursor=pointer]
+                - tooltip [ref=e3607]: Share
+              - generic [ref=e3612]:
+                - button "More - Trump wants to send Americans money. Congress and economists don't seem thrilled with the idea" [ref=e3613] [cursor=pointer]
+                - tooltip [ref=e3617]: More
+        - generic [ref=e3619]:
+          - link [ref=e3620] [cursor=pointer]:
+            - /url: ./read/CBMiqwFBVV95cUxQVmNuQmtBWHZSWlc1UWpXcEV1d1BuZkxZUFR5WHoyaTNXV0w4a2hOb2lrZEtVbHRhM2tJdmRFd3RwYXA0WXhaSVBzdlFWRmloMEdQRVZMVlBrUkFUeWxlMUpSNkdNODRCVkJ2TDdrREhjLXFJTFpYR3ZDbGtsMVpOZjR5bFJIQkc4Ujg2a2xObDdTbzFGNnpFMlA4V25yMUNpdTl6dkl3NXh1MVE?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3621]
+          - generic [ref=e3622]: Rolling Stone
+          - heading [level=4] [ref=e3625]:
+            - link "Trump Plays Americans for Fools by Trying to Bribe Them for Votes - Rolling Stone - 12 hours ago - By Ryan Bort" [ref=e3626] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxQVmNuQmtBWHZSWlc1UWpXcEV1d1BuZkxZUFR5WHoyaTNXV0w4a2hOb2lrZEtVbHRhM2tJdmRFd3RwYXA0WXhaSVBzdlFWRmloMEdQRVZMVlBrUkFUeWxlMUpSNkdNODRCVkJ2TDdrREhjLXFJTFpYR3ZDbGtsMVpOZjR5bFJIQkc4Ujg2a2xObDdTbzFGNnpFMlA4V25yMUNpdTl6dkl3NXh1MVE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump Plays Americans for Fools by Trying to Bribe Them for Votes
+          - generic [ref=e3627]:
+            - generic [ref=e3628]:
+              - time [ref=e3629]: 12 hours ago
+              - generic [ref=e3630]: • By Ryan Bort
+            - list [ref=e3631]:
+              - generic [ref=e3632]:
+                - generic:
+                  - button "Save for later" [ref=e3633] [cursor=pointer]
+                  - tooltip [ref=e3638]: Save for later
+              - generic [ref=e3641]:
+                - button "Share" [ref=e3642] [cursor=pointer]
+                - tooltip [ref=e3651]: Share
+              - generic [ref=e3656]:
+                - button "More - Trump Plays Americans for Fools by Trying to Bribe Them for Votes" [ref=e3657] [cursor=pointer]
+                - tooltip [ref=e3661]: More
+        - generic [ref=e3663]:
+          - link [ref=e3664] [cursor=pointer]:
+            - /url: ./read/CBMikwFBVV95cUxQU25VcFpnMW1QVUc0OFMzdW5oTmRpbTJSNWhtaVc5UFZDR1hNSkJBSktDTHA5MU4zWldhczRacnVGcDl2T3VWRHl0a01LOXNDaUR2YkV6RUY2bkxsRWt2eFBmenRTTk1IWWhwQzNONmtaVXoxdXF3dXAyYUxSSk84elBVR2szMFpfcWhmZjRmaUxmRmc?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3665]
+          - generic [ref=e3666]: The Boston Globe
+          - heading [level=4] [ref=e3669]:
+            - link "Trump defends Iran war, slams Democrats, and promises cash at Republicans’ midterm convention - The Boston Globe - 2 days ago - By Jill Colvin" [ref=e3670] [cursor=pointer]:
+              - /url: ./read/CBMikwFBVV95cUxQU25VcFpnMW1QVUc0OFMzdW5oTmRpbTJSNWhtaVc5UFZDR1hNSkJBSktDTHA5MU4zWldhczRacnVGcDl2T3VWRHl0a01LOXNDaUR2YkV6RUY2bkxsRWt2eFBmenRTTk1IWWhwQzNONmtaVXoxdXF3dXAyYUxSSk84elBVR2szMFpfcWhmZjRmaUxmRmc?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump defends Iran war, slams Democrats, and promises cash at Republicans’ midterm convention
+          - generic [ref=e3671]:
+            - generic [ref=e3672]:
+              - time [ref=e3673]: 2 days ago
+              - generic [ref=e3674]: • By Jill Colvin
+            - list [ref=e3675]:
+              - generic [ref=e3676]:
+                - generic:
+                  - button "Save for later" [ref=e3677] [cursor=pointer]
+                  - tooltip [ref=e3682]: Save for later
+              - generic [ref=e3685]:
+                - button "Share" [ref=e3686] [cursor=pointer]
+                - tooltip [ref=e3695]: Share
+              - generic [ref=e3700]:
+                - button "More - Trump defends Iran war, slams Democrats, and promises cash at Republicans’ midterm convention" [ref=e3701] [cursor=pointer]
+                - tooltip [ref=e3705]: More
+        - generic [ref=e3707]:
+          - link [ref=e3708] [cursor=pointer]:
+            - /url: ./read/CBMirgFBVV95cUxQNE9jNzdnSEVJbHIzb1FpMDI4TVdIbkRsZXlfUnFIWWZiWXFBQUVWLWNCOHZYQkV2akxORjFiUXYyRTRrRHNOWjRnZjJhbTg3akx6bjl5ZWFkRTRQQWFrVW9pSUd2WmlnYXhwaXpLSFNjTFBsd3NMRzNZZEdLWlU4TFRwZE9DUl9TQTUyOElYbi1aa1hMOHRXX0h3NTFTRE1vSWo0Zk1BdVZtN2U4b3c?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3709]
+          - generic [ref=e3710]: San Francisco Chronicle
+          - heading [level=4] [ref=e3713]:
+            - link "Trump’s $5,000 promise is unseemly, absurd and transparent. It’s also protected speech - San Francisco Chronicle - 8 hours ago - By Erwin Chemerinsky" [ref=e3714] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxQNE9jNzdnSEVJbHIzb1FpMDI4TVdIbkRsZXlfUnFIWWZiWXFBQUVWLWNCOHZYQkV2akxORjFiUXYyRTRrRHNOWjRnZjJhbTg3akx6bjl5ZWFkRTRQQWFrVW9pSUd2WmlnYXhwaXpLSFNjTFBsd3NMRzNZZEdLWlU4TFRwZE9DUl9TQTUyOElYbi1aa1hMOHRXX0h3NTFTRE1vSWo0Zk1BdVZtN2U4b3c?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump’s $5,000 promise is unseemly, absurd and transparent. It’s also protected speech
+          - generic [ref=e3715]:
+            - generic [ref=e3716]:
+              - time [ref=e3717]: 8 hours ago
+              - generic [ref=e3718]: • By Erwin Chemerinsky
+            - list [ref=e3719]:
+              - generic [ref=e3720]:
+                - generic:
+                  - button "Save for later" [ref=e3721] [cursor=pointer]
+                  - tooltip [ref=e3726]: Save for later
+              - generic [ref=e3729]:
+                - button "Share" [ref=e3730] [cursor=pointer]
+                - tooltip [ref=e3739]: Share
+              - generic [ref=e3744]:
+                - button "More - Trump’s $5,000 promise is unseemly, absurd and transparent. It’s also protected speech" [ref=e3745] [cursor=pointer]
+                - tooltip [ref=e3749]: More
+        - generic [ref=e3751]:
+          - link [ref=e3752] [cursor=pointer]:
+            - /url: ./read/CBMixwFBVV95cUxOMEkzQTV4bUQ5R1dSeHVRcmZ6TFRjekprNkl2TEtrU0ZmUWU5Q25oOGJZUlhxTlZnNTVYNGNIS3JPdlJEUlZ1QXFacWlUam01TEdrWkFTUTZvWmxuUWd1WXBvZVE4NlhJOE9jV2U0Y0ZVNWJJZEpjeE5fQVkwMkROSE9sMFhRSE80UERoS3J5ekZBSXB3YnhQdk1rWTMyWHBFanBscXpaTENIaUp4T09PYlI0U2ktb1U3QVQwUGF5RFpvY0gyOUJF0gHbAUFVX3lxTE1VSzIyWEtqdm11aWY0a2YtTEMyZjJkY3RoTUJwTEZyN2MxUXVpYk9wVUZScldCeml6NDF3dG9MeVdEeFdGVnNZTG9Ndjl6Wm5BTGphTGZfdjNwMXRIYkxxTUdQR3pGQ3ktT1pXN3o4akIzdWhLRTl5aHNuMTdIanQwbmtiOHF2Q3Jxbkl1N1IzUzJQdVNOVk0tS2UxU01sMGhJMm40c2ZYY21wUmNWUTMzQlF2dEpJV0loU3ZRR1RGWUpnUVNnWWFiUnlsaVRtZGtrZlUyVGpfZ1Zqaw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3753]
+          - generic [ref=e3754]: Cleveland 19 News
+          - heading [level=4] [ref=e3757]:
+            - link "Local professor on legality of $5,000 ‘Trump dividend’ checks for everyone if Republicans win midterms - Cleveland 19 News - 11 hours ago - By Dan Deroos" [ref=e3758] [cursor=pointer]:
+              - /url: ./read/CBMixwFBVV95cUxOMEkzQTV4bUQ5R1dSeHVRcmZ6TFRjekprNkl2TEtrU0ZmUWU5Q25oOGJZUlhxTlZnNTVYNGNIS3JPdlJEUlZ1QXFacWlUam01TEdrWkFTUTZvWmxuUWd1WXBvZVE4NlhJOE9jV2U0Y0ZVNWJJZEpjeE5fQVkwMkROSE9sMFhRSE80UERoS3J5ekZBSXB3YnhQdk1rWTMyWHBFanBscXpaTENIaUp4T09PYlI0U2ktb1U3QVQwUGF5RFpvY0gyOUJF0gHbAUFVX3lxTE1VSzIyWEtqdm11aWY0a2YtTEMyZjJkY3RoTUJwTEZyN2MxUXVpYk9wVUZScldCeml6NDF3dG9MeVdEeFdGVnNZTG9Ndjl6Wm5BTGphTGZfdjNwMXRIYkxxTUdQR3pGQ3ktT1pXN3o4akIzdWhLRTl5aHNuMTdIanQwbmtiOHF2Q3Jxbkl1N1IzUzJQdVNOVk0tS2UxU01sMGhJMm40c2ZYY21wUmNWUTMzQlF2dEpJV0loU3ZRR1RGWUpnUVNnWWFiUnlsaVRtZGtrZlUyVGpfZ1Zqaw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Local professor on legality of $5,000 ‘Trump dividend’ checks for everyone if Republicans win midterms
+          - generic [ref=e3759]:
+            - generic [ref=e3760]:
+              - time [ref=e3761]: 11 hours ago
+              - generic [ref=e3762]: • By Dan Deroos
+            - list [ref=e3763]:
+              - generic [ref=e3764]:
+                - generic:
+                  - button "Save for later" [ref=e3765] [cursor=pointer]
+                  - tooltip [ref=e3770]: Save for later
+              - generic [ref=e3773]:
+                - button "Share" [ref=e3774] [cursor=pointer]
+                - tooltip [ref=e3783]: Share
+              - generic [ref=e3788]:
+                - button "More - Local professor on legality of $5,000 ‘Trump dividend’ checks for everyone if Republicans win midterms" [ref=e3789] [cursor=pointer]
+                - tooltip [ref=e3793]: More
+        - generic [ref=e3795]:
+          - link [ref=e3796] [cursor=pointer]:
+            - /url: ./read/CBMi4AFBVV95cUxNTHJxYkp6WGpoS2RQWGRkaGQ1cWVBdnFmdGdpOXNXa1VTa0N6UkFVb3QwVU1oS1NwdTR0V05pRE8yMkZtVFdTVzJqQUxLVHRqRHA4T3hLWkVmcXJ2S3VSZFFjTUJLZmhrd1R5Y3ZvVzl5M3BoNTlfX0Y0enB3MUswUFdrVlJtdXlkTG9UQmc0MkRFQTZBNTdydEtBOU5NYXhYeEFXTzdCZXdsQjRaZHBjSkpNT1JVY0pXREE5WHRjd1ZTYlpTNDA1VGZmZDI0QlJrUmkwM0lieE0xQ3lNaGpwVtIB5gFBVV95cUxOVXQyZGxtcXZDdF9OSkNHOThjcW1EM1ZjZTZMWWpVMktiSHpBYkZXRHVrdjF6RW00dVZETnlKYWtuWHpkVkQxZktUTzJURkFxeWROS3g0YzZWTjJPNGJhMW5TRVZMdTE2dWJjNURCU1Q0cGZYX0lDLUg5TjJma0k5MlVSc1VRWkxuc2xFNTRMZGFtUXFYZFJwSmpzbUNBTHFiQkdVQ29BZk5fQ3ZaWGNONFlXZHZ1Y1BlQ2t1N0FTeTFBQ01pc0QxQ0FXanpjamtLY3hBMFkyY3pnTTNiN1oyQlVhTk1QZw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3797]
+          - generic [ref=e3798]: The Times of India
+          - heading [level=4] [ref=e3801]:
+            - 'link "From voter ID to $5,000 cheques: Trump goes desi, mimics India’s election toolkit - The Times of India - 17 hours ago - By Indrajeet Rai" [ref=e3802] [cursor=pointer]':
+              - /url: ./read/CBMi4AFBVV95cUxNTHJxYkp6WGpoS2RQWGRkaGQ1cWVBdnFmdGdpOXNXa1VTa0N6UkFVb3QwVU1oS1NwdTR0V05pRE8yMkZtVFdTVzJqQUxLVHRqRHA4T3hLWkVmcXJ2S3VSZFFjTUJLZmhrd1R5Y3ZvVzl5M3BoNTlfX0Y0enB3MUswUFdrVlJtdXlkTG9UQmc0MkRFQTZBNTdydEtBOU5NYXhYeEFXTzdCZXdsQjRaZHBjSkpNT1JVY0pXREE5WHRjd1ZTYlpTNDA1VGZmZDI0QlJrUmkwM0lieE0xQ3lNaGpwVtIB5gFBVV95cUxOVXQyZGxtcXZDdF9OSkNHOThjcW1EM1ZjZTZMWWpVMktiSHpBYkZXRHVrdjF6RW00dVZETnlKYWtuWHpkVkQxZktUTzJURkFxeWROS3g0YzZWTjJPNGJhMW5TRVZMdTE2dWJjNURCU1Q0cGZYX0lDLUg5TjJma0k5MlVSc1VRWkxuc2xFNTRMZGFtUXFYZFJwSmpzbUNBTHFiQkdVQ29BZk5fQ3ZaWGNONFlXZHZ1Y1BlQ2t1N0FTeTFBQ01pc0QxQ0FXanpjamtLY3hBMFkyY3pnTTNiN1oyQlVhTk1QZw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "From voter ID to $5,000 cheques: Trump goes desi, mimics India’s election toolkit"
+          - generic [ref=e3803]:
+            - generic [ref=e3804]:
+              - time [ref=e3805]: 17 hours ago
+              - generic [ref=e3806]: • By Indrajeet Rai
+            - list [ref=e3807]:
+              - generic [ref=e3808]:
+                - generic:
+                  - button "Save for later" [ref=e3809] [cursor=pointer]
+                  - tooltip [ref=e3814]: Save for later
+              - generic [ref=e3817]:
+                - button "Share" [ref=e3818] [cursor=pointer]
+                - tooltip [ref=e3827]: Share
+              - generic [ref=e3832]:
+                - 'button "More - From voter ID to $5,000 cheques: Trump goes desi, mimics India’s election toolkit" [ref=e3833] [cursor=pointer]'
+                - tooltip [ref=e3837]: More
+        - generic [ref=e3839]:
+          - link [ref=e3840] [cursor=pointer]:
+            - /url: ./read/CBMigAFBVV95cUxPSkZOVlV3SWpFSms5d1h4eENDdVpjeFBGV2ZLUkEtRWNybTNlLVZOTWs2a0VSdnhDbnprVGNXMVRuUUNTQzlMSjhXOUd4UlAtQmtsdFRFNUJkQVhaZ1R1b1VoWEFfSnpSbEZ5VTJXX3Zmam12bnEzaVpjR0gtUWg0Wg?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3841]
+          - generic [ref=e3842]: Barron's
+          - heading [level=4] [ref=e3845]:
+            - link "Buy the Stocks Dip or Foldable iPhone? How to Spend Trump’s $5,000 Handout. - Barron's - 16 hours ago - By Callum Keown" [ref=e3846] [cursor=pointer]:
+              - /url: ./read/CBMigAFBVV95cUxPSkZOVlV3SWpFSms5d1h4eENDdVpjeFBGV2ZLUkEtRWNybTNlLVZOTWs2a0VSdnhDbnprVGNXMVRuUUNTQzlMSjhXOUd4UlAtQmtsdFRFNUJkQVhaZ1R1b1VoWEFfSnpSbEZ5VTJXX3Zmam12bnEzaVpjR0gtUWg0Wg?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Buy the Stocks Dip or Foldable iPhone? How to Spend Trump’s $5,000 Handout.
+          - generic [ref=e3847]:
+            - generic [ref=e3848]:
+              - time [ref=e3849]: 16 hours ago
+              - generic [ref=e3850]: • By Callum Keown
+            - list [ref=e3851]:
+              - generic [ref=e3852]:
+                - generic:
+                  - button "Save for later" [ref=e3853] [cursor=pointer]
+                  - tooltip [ref=e3858]: Save for later
+              - generic [ref=e3861]:
+                - button "Share" [ref=e3862] [cursor=pointer]
+                - tooltip [ref=e3871]: Share
+              - generic [ref=e3876]:
+                - button "More - Buy the Stocks Dip or Foldable iPhone? How to Spend Trump’s $5,000 Handout." [ref=e3877] [cursor=pointer]
+                - tooltip [ref=e3881]: More
+        - generic [ref=e3883]:
+          - link [ref=e3884] [cursor=pointer]:
+            - /url: ./read/CBMihgFBVV95cUxNbVVMWmxLa0ZFWmhUU2tsNVJiLVViRGtuOFg5VGJjZURTOHdmdncxaHRpZEZsT093a3lfZEV0ZUxUS043ZG5mTkl1V2h0eTM1U3I0MmtNamQzaWdwRTZ4alFUb2tWWXdud256ckFtZkRBRmxUODdEbjM3MEFFUlM3QkJlMlM0QQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3885]
+          - generic [ref=e3886]: WLKY
+          - heading [level=4] [ref=e3889]:
+            - link "Kentucky lawmakers on both sides of the aisle react to Trump's $5K promise - WLKY - 9 hours ago - By Alexandra Suckow" [ref=e3890] [cursor=pointer]:
+              - /url: ./read/CBMihgFBVV95cUxNbVVMWmxLa0ZFWmhUU2tsNVJiLVViRGtuOFg5VGJjZURTOHdmdncxaHRpZEZsT093a3lfZEV0ZUxUS043ZG5mTkl1V2h0eTM1U3I0MmtNamQzaWdwRTZ4alFUb2tWWXdud256ckFtZkRBRmxUODdEbjM3MEFFUlM3QkJlMlM0QQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Kentucky lawmakers on both sides of the aisle react to Trump's $5K promise
+          - generic [ref=e3891]:
+            - generic [ref=e3892]:
+              - time [ref=e3893]: 9 hours ago
+              - generic [ref=e3894]: • By Alexandra Suckow
+            - list [ref=e3895]:
+              - generic [ref=e3896]:
+                - generic:
+                  - button "Save for later" [ref=e3897] [cursor=pointer]
+                  - tooltip [ref=e3902]: Save for later
+              - generic [ref=e3905]:
+                - button "Share" [ref=e3906] [cursor=pointer]
+                - tooltip [ref=e3915]: Share
+              - generic [ref=e3920]:
+                - button "More - Kentucky lawmakers on both sides of the aisle react to Trump's $5K promise" [ref=e3921] [cursor=pointer]
+                - tooltip [ref=e3925]: More
+        - generic [ref=e3927]:
+          - link [ref=e3928] [cursor=pointer]:
+            - /url: ./read/CBMiWkFVX3lxTE5lM0tfT0lhd0w0d2JVXzNyS1FOQTRWT2pPS3FvRU5xYXJzSVdQMVQyNVlVMHFSbjNoNUloQ1R0Z3VLS2xEQUR6ZWZ2V1NEbGJRSjVDanJSVWROdw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3929]
+          - generic [ref=e3930]: BBC
+          - heading [level=4] [ref=e3933]:
+            - link "Is Trump's $5,000 pledge a sign of panic? - BBC - 2 hours ago - By Sarah Smith" [ref=e3934] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTE5lM0tfT0lhd0w0d2JVXzNyS1FOQTRWT2pPS3FvRU5xYXJzSVdQMVQyNVlVMHFSbjNoNUloQ1R0Z3VLS2xEQUR6ZWZ2V1NEbGJRSjVDanJSVWROdw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Is Trump's $5,000 pledge a sign of panic?
+          - generic [ref=e3935]:
+            - generic [ref=e3936]:
+              - time [ref=e3937]: 2 hours ago
+              - generic [ref=e3938]: • By Sarah Smith
+            - list [ref=e3939]:
+              - generic [ref=e3940]:
+                - generic:
+                  - button "Save for later" [ref=e3941] [cursor=pointer]
+                  - tooltip [ref=e3946]: Save for later
+              - generic [ref=e3949]:
+                - button "Share" [ref=e3950] [cursor=pointer]
+                - tooltip [ref=e3959]: Share
+              - generic [ref=e3964]:
+                - button "More - Is Trump's $5,000 pledge a sign of panic?" [ref=e3965] [cursor=pointer]
+                - tooltip [ref=e3969]: More
+        - generic [ref=e3971]:
+          - link [ref=e3972] [cursor=pointer]:
+            - /url: ./read/CBMiWkFVX3lxTE16LW5ZZHNBWW40b3BGeGRQLXdaX2xmeWhWdTE5VTFTZ1VLS2M1aDZMdTB4WlQ0NHAwMzhza29uVzV2RzJxb3czMjdMTXFVd0dLYldtRjBfTFVYdw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e3973]
+          - generic [ref=e3974]: BBC
+          - heading [level=4] [ref=e3977]:
+            - link "Trump says every adult American will get $5,000 if Republicans win midterms - BBC - 14 hours ago - By Paulin Kola" [ref=e3978] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTE16LW5ZZHNBWW40b3BGeGRQLXdaX2xmeWhWdTE5VTFTZ1VLS2M1aDZMdTB4WlQ0NHAwMzhza29uVzV2RzJxb3czMjdMTXFVd0dLYldtRjBfTFVYdw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump says every adult American will get $5,000 if Republicans win midterms
+          - generic [ref=e3979]:
+            - generic [ref=e3980]:
+              - time [ref=e3981]: 14 hours ago
+              - generic [ref=e3982]: • By Paulin Kola
+            - list [ref=e3983]:
+              - generic [ref=e3984]:
+                - generic:
+                  - button "Save for later" [ref=e3985] [cursor=pointer]
+                  - tooltip [ref=e3990]: Save for later
+              - generic [ref=e3993]:
+                - button "Share" [ref=e3994] [cursor=pointer]
+                - tooltip [ref=e4003]: Share
+              - generic [ref=e4008]:
+                - button "More - Trump says every adult American will get $5,000 if Republicans win midterms" [ref=e4009] [cursor=pointer]
+                - tooltip [ref=e4013]: More
+        - generic [ref=e4015]:
+          - link [ref=e4016] [cursor=pointer]:
+            - /url: ./read/CBMifkFVX3lxTFBFUVRleFNOX21MekJjRHlMMS1QWTFIelFISmJISmZTMmZpQ1diVTA1WUMzOGdkbFlYemJKY3VrSHhKSVo4U0RVb3J2ZWN0cnRGYnl3NFB5ek9pTm8zcjJzMnpHc3lyQW9qTnQ2TUtzOElqNl9ZWlV1ZmdJaE8zQQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4017]
+          - generic [ref=e4018]: CNN
+          - heading [level=4] [ref=e4021]:
+            - link "Trump’s $5,000 checks would solve a problem that doesn’t exist – and create a new one - CNN - 14 hours ago - By David Goldman" [ref=e4022] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTFBFUVRleFNOX21MekJjRHlMMS1QWTFIelFISmJISmZTMmZpQ1diVTA1WUMzOGdkbFlYemJKY3VrSHhKSVo4U0RVb3J2ZWN0cnRGYnl3NFB5ek9pTm8zcjJzMnpHc3lyQW9qTnQ2TUtzOElqNl9ZWlV1ZmdJaE8zQQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump’s $5,000 checks would solve a problem that doesn’t exist – and create a new one
+          - generic [ref=e4023]:
+            - generic [ref=e4024]:
+              - time [ref=e4025]: 14 hours ago
+              - generic [ref=e4026]: • By David Goldman
+            - list [ref=e4027]:
+              - generic [ref=e4028]:
+                - generic:
+                  - button "Save for later" [ref=e4029] [cursor=pointer]
+                  - tooltip [ref=e4034]: Save for later
+              - generic [ref=e4037]:
+                - button "Share" [ref=e4038] [cursor=pointer]
+                - tooltip [ref=e4047]: Share
+              - generic [ref=e4052]:
+                - button "More - Trump’s $5,000 checks would solve a problem that doesn’t exist – and create a new one" [ref=e4053] [cursor=pointer]
+                - tooltip [ref=e4057]: More
+        - generic [ref=e4059]:
+          - link [ref=e4060] [cursor=pointer]:
+            - /url: ./read/CBMijgFBVV95cUxQWjc4bFh6OVRqT3VWTzlwUlBwMWlXc3BVbHFLTUFZdWpJSy15ZHluaTRqaDQ1eGNoUDRXU05IUFZMRmtrV0wtZUZwNHo0aG0wZ2tmQlhRd25pSTRkM1pQZW1JR3Y2cThMcFhCTy1QQzgtX2RWNjhRMnNCZlJHM3IyOE9pTlFVMXlNSTQxdk5n?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4061]
+          - generic [ref=e4062]: The New York Times
+          - heading [level=4] [ref=e4065]:
+            - link "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms - The New York Times - 11 hours ago - By Katie Rogers" [ref=e4066] [cursor=pointer]:
+              - /url: ./read/CBMijgFBVV95cUxQWjc4bFh6OVRqT3VWTzlwUlBwMWlXc3BVbHFLTUFZdWpJSy15ZHluaTRqaDQ1eGNoUDRXU05IUFZMRmtrV0wtZUZwNHo0aG0wZ2tmQlhRd25pSTRkM1pQZW1JR3Y2cThMcFhCTy1QQzgtX2RWNjhRMnNCZlJHM3IyOE9pTlFVMXlNSTQxdk5n?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms
+          - generic [ref=e4067]:
+            - generic [ref=e4068]:
+              - time [ref=e4069]: 11 hours ago
+              - generic [ref=e4070]: • By Katie Rogers
+            - list [ref=e4071]:
+              - generic [ref=e4072]:
+                - generic:
+                  - button "Save for later" [ref=e4073] [cursor=pointer]
+                  - tooltip [ref=e4078]: Save for later
+              - generic [ref=e4081]:
+                - button "Share" [ref=e4082] [cursor=pointer]
+                - tooltip [ref=e4091]: Share
+              - generic [ref=e4096]:
+                - button "More - Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms" [ref=e4097] [cursor=pointer]
+                - tooltip [ref=e4101]: More
+        - generic [ref=e4103]:
+          - link [ref=e4104] [cursor=pointer]:
+            - /url: ./read/CBMikgFBVV95cUxPQ3FIM1VjSmR0ci1rYVREWHNONHFBSWU5dzJfOThRU3psQWt2V2hTVHJOcFJEWG52R05XWmlFWXNCRWlVS01uNVFZcFdBX19oa0YtaXdHZmZoTzhlRE1vRzdiX1FVR1ZzZzZyQTlWU3p3YjYzMlZUSjlaczRRaTdBc1VsYXc4dkJ4LTNWdjloUU1LQQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4105]
+          - generic [ref=e4106]: The New York Times
+          - heading [level=4] [ref=e4109]:
+            - link "Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer - The New York Times - 7 hours ago - By Reid Epstein & Shane Goldmacher" [ref=e4110] [cursor=pointer]:
+              - /url: ./read/CBMikgFBVV95cUxPQ3FIM1VjSmR0ci1rYVREWHNONHFBSWU5dzJfOThRU3psQWt2V2hTVHJOcFJEWG52R05XWmlFWXNCRWlVS01uNVFZcFdBX19oa0YtaXdHZmZoTzhlRE1vRzdiX1FVR1ZzZzZyQTlWU3p3YjYzMlZUSjlaczRRaTdBc1VsYXc4dkJ4LTNWdjloUU1LQQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer
+          - generic [ref=e4111]:
+            - generic [ref=e4112]:
+              - time [ref=e4113]: 7 hours ago
+              - generic [ref=e4114]: • By Reid Epstein & Shane Goldmacher
+            - list [ref=e4115]:
+              - generic [ref=e4116]:
+                - generic:
+                  - button "Save for later" [ref=e4117] [cursor=pointer]
+                  - tooltip [ref=e4122]: Save for later
+              - generic [ref=e4125]:
+                - button "Share" [ref=e4126] [cursor=pointer]
+                - tooltip [ref=e4135]: Share
+              - generic [ref=e4140]:
+                - button "More - Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer" [ref=e4141] [cursor=pointer]
+                - tooltip [ref=e4145]: More
+        - generic [ref=e4147]:
+          - link [ref=e4148] [cursor=pointer]:
+            - /url: ./read/CBMijwFBVV95cUxQai1lLTFlY2RMV2ltWGVCSUVjdExDcURMSFl6QzBCaGotSWFMNUE4cVFSRncwQ05aWklFUTc0SmMtQldRNW1wR0xzYzVJWmh3LXlHQUNSRlIzS0R5UzJidU1QN0Vic0E4eVZ2a0l5WlF1Y2JvVnRSS3lxQTRaY1pMaDluMl90WUhOaFlZNnhrOA?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4149]
+          - generic [ref=e4150]: Yahoo
+          - heading [level=4] [ref=e4153]:
+            - link "Trump faces blowback with $5,000 dividend promise - Yahoo - 12 hours ago - By Julia Manchester" [ref=e4154] [cursor=pointer]:
+              - /url: ./read/CBMijwFBVV95cUxQai1lLTFlY2RMV2ltWGVCSUVjdExDcURMSFl6QzBCaGotSWFMNUE4cVFSRncwQ05aWklFUTc0SmMtQldRNW1wR0xzYzVJWmh3LXlHQUNSRlIzS0R5UzJidU1QN0Vic0E4eVZ2a0l5WlF1Y2JvVnRSS3lxQTRaY1pMaDluMl90WUhOaFlZNnhrOA?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump faces blowback with $5,000 dividend promise
+          - generic [ref=e4155]:
+            - generic [ref=e4156]:
+              - time [ref=e4157]: 12 hours ago
+              - generic [ref=e4158]: • By Julia Manchester
+            - list [ref=e4159]:
+              - generic [ref=e4160]:
+                - generic:
+                  - button "Save for later" [ref=e4161] [cursor=pointer]
+                  - tooltip [ref=e4166]: Save for later
+              - generic [ref=e4169]:
+                - button "Share" [ref=e4170] [cursor=pointer]
+                - tooltip [ref=e4179]: Share
+              - generic [ref=e4184]:
+                - button "More - Trump faces blowback with $5,000 dividend promise" [ref=e4185] [cursor=pointer]
+                - tooltip [ref=e4189]: More
+        - generic [ref=e4191]:
+          - link [ref=e4192] [cursor=pointer]:
+            - /url: ./read/CBMikwFBVV95cUxPS2FmbWZoVkcxQzJSTnNLVGJrWkoxNUxSZmI3SHJOQmUzTjZfaVNXSlBsWUNrWktOLWFlaE1DRTBEQWF2NGs1eWF2S2RITWNGakxzOWdlT1k2TTZCRHdRa3RWWXdhT1l0elU5VVU4anpTX0JhX0JmQ3pFRmptaHYyc09URVhqZnFnX0hsTGJURkx3YmM?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4193]
+          - generic [ref=e4194]: The Guardian
+          - heading [level=4] [ref=e4197]:
+            - link "Trump promise of $5,000 for US citizens after midterms decried as ‘bribery’ - The Guardian - 13 hours ago - By George Chidi" [ref=e4198] [cursor=pointer]:
+              - /url: ./read/CBMikwFBVV95cUxPS2FmbWZoVkcxQzJSTnNLVGJrWkoxNUxSZmI3SHJOQmUzTjZfaVNXSlBsWUNrWktOLWFlaE1DRTBEQWF2NGs1eWF2S2RITWNGakxzOWdlT1k2TTZCRHdRa3RWWXdhT1l0elU5VVU4anpTX0JhX0JmQ3pFRmptaHYyc09URVhqZnFnX0hsTGJURkx3YmM?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump promise of $5,000 for US citizens after midterms decried as ‘bribery’
+          - generic [ref=e4199]:
+            - generic [ref=e4200]:
+              - time [ref=e4201]: 13 hours ago
+              - generic [ref=e4202]: • By George Chidi
+            - list [ref=e4203]:
+              - generic [ref=e4204]:
+                - generic:
+                  - button "Save for later" [ref=e4205] [cursor=pointer]
+                  - tooltip [ref=e4210]: Save for later
+              - generic [ref=e4213]:
+                - button "Share" [ref=e4214] [cursor=pointer]
+                - tooltip [ref=e4223]: Share
+              - generic [ref=e4228]:
+                - button "More - Trump promise of $5,000 for US citizens after midterms decried as ‘bribery’" [ref=e4229] [cursor=pointer]
+                - tooltip [ref=e4233]: More
+        - generic [ref=e4235]:
+          - link [ref=e4236] [cursor=pointer]:
+            - /url: ./read/CBMiogFBVV95cUxPTmVhd2pmVlBlYWg4UTZtNnJIaXRzM3RNTTJKVXVEWGNCc251X2VOaUtUSENHUjR1aldndjVpdzhzN0J3NEFMWnhlcGFIUF8zSGlkM0ktRVNrTXBqTExNLXBZNl9aZ0NKcWFPMzBEM3BTSC0zaUdmWUVPOURLVXlwNXZUNmZyQ1VHaTlpUEV6SER5b1FqdzVaYlVpLTYxaklaNEE?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4237]
+          - generic [ref=e4238]: The Guardian
+          - heading [level=4] [ref=e4241]:
+            - link "US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech - The Guardian - 2 days ago - By Adam Gabbatt" [ref=e4242] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxPTmVhd2pmVlBlYWg4UTZtNnJIaXRzM3RNTTJKVXVEWGNCc251X2VOaUtUSENHUjR1aldndjVpdzhzN0J3NEFMWnhlcGFIUF8zSGlkM0ktRVNrTXBqTExNLXBZNl9aZ0NKcWFPMzBEM3BTSC0zaUdmWUVPOURLVXlwNXZUNmZyQ1VHaTlpUEV6SER5b1FqdzVaYlVpLTYxaklaNEE?hl=en-US&gl=US&ceid=US%3Aen
+              - text: US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech
+          - generic [ref=e4243]:
+            - generic [ref=e4244]:
+              - time [ref=e4245]: 2 days ago
+              - generic [ref=e4246]: • By Adam Gabbatt
+            - list [ref=e4247]:
+              - generic [ref=e4248]:
+                - generic:
+                  - button "Save for later" [ref=e4249] [cursor=pointer]
+                  - tooltip [ref=e4254]: Save for later
+              - generic [ref=e4257]:
+                - button "Share" [ref=e4258] [cursor=pointer]
+                - tooltip [ref=e4267]: Share
+              - generic [ref=e4272]:
+                - button "More - US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech" [ref=e4273] [cursor=pointer]
+                - tooltip [ref=e4277]: More
+        - generic [ref=e4279]:
+          - link [ref=e4280] [cursor=pointer]:
+            - /url: ./read/CBMiakFVX3lxTE00NTFtOXRhQU4xeS1aVnRXQ1RvYVAyOWVOQXZSVklZOFUycFFPOVlwbnVlTFlfTTVlZTRzRTVzTGp1NHFUME1udXpiOGlsRUpZRHN2UTBTTVFpLWFtcUUydWVldEVkRXV4Snc?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4281]
+          - generic [ref=e4282]: Axios
+          - heading [level=4] [ref=e4285]:
+            - 'link "Trump makes a familiar promise: $5,000 checks for everyone - Axios - 16 hours ago - By Ben Berkowitz" [ref=e4286] [cursor=pointer]':
+              - /url: ./read/CBMiakFVX3lxTE00NTFtOXRhQU4xeS1aVnRXQ1RvYVAyOWVOQXZSVklZOFUycFFPOVlwbnVlTFlfTTVlZTRzRTVzTGp1NHFUME1udXpiOGlsRUpZRHN2UTBTTVFpLWFtcUUydWVldEVkRXV4Snc?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "Trump makes a familiar promise: $5,000 checks for everyone"
+          - generic [ref=e4287]:
+            - generic [ref=e4288]:
+              - time [ref=e4289]: 16 hours ago
+              - generic [ref=e4290]: • By Ben Berkowitz
+            - list [ref=e4291]:
+              - generic [ref=e4292]:
+                - generic:
+                  - button "Save for later" [ref=e4293] [cursor=pointer]
+                  - tooltip [ref=e4298]: Save for later
+              - generic [ref=e4301]:
+                - button "Share" [ref=e4302] [cursor=pointer]
+                - tooltip [ref=e4311]: Share
+              - generic [ref=e4316]:
+                - 'button "More - Trump makes a familiar promise: $5,000 checks for everyone" [ref=e4317] [cursor=pointer]'
+                - tooltip [ref=e4321]: More
+        - generic [ref=e4323]:
+          - link [ref=e4324] [cursor=pointer]:
+            - /url: ./read/CBMiV0FVX3lxTE5oaTc2MlFnbFljekVfdEU2QWVZRHg0VHcyUE9yV01UNjJlY184XzRrX0ltRHBnT0dNZWNWVlpKYWdzdk9KWU1ZQW5BTE1kWGxET19UNFhNSQ?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4325]
+          - generic [ref=e4326]: BBC
+          - heading [level=4] [ref=e4329]:
+            - 'link "Watch: Is Trump''s $5,000 election pledge legal? - BBC - 20 hours ago" [ref=e4330] [cursor=pointer]':
+              - /url: ./read/CBMiV0FVX3lxTE5oaTc2MlFnbFljekVfdEU2QWVZRHg0VHcyUE9yV01UNjJlY184XzRrX0ltRHBnT0dNZWNWVlpKYWdzdk9KWU1ZQW5BTE1kWGxET19UNFhNSQ?hl=en-US&gl=US&ceid=US%3Aen
+              - text: "Watch: Is Trump's $5,000 election pledge legal?"
+          - generic [ref=e4331]:
+            - time [ref=e4333]: 20 hours ago
+            - list [ref=e4334]:
+              - generic [ref=e4335]:
+                - generic:
+                  - button "Save for later" [ref=e4336] [cursor=pointer]
+                  - tooltip [ref=e4341]: Save for later
+              - generic [ref=e4344]:
+                - button "Share" [ref=e4345] [cursor=pointer]
+                - tooltip [ref=e4354]: Share
+              - generic [ref=e4359]:
+                - 'button "More - Watch: Is Trump''s $5,000 election pledge legal?" [ref=e4360] [cursor=pointer]'
+                - tooltip [ref=e4364]: More
+        - generic [ref=e4366]:
+          - link [ref=e4367] [cursor=pointer]:
+            - /url: ./read/CBMisgFBVV95cUxOMGVuOFpkSkhqUkZvSGxoMkFwdVVKMy1rbDI2TlJYYVgzR0RtRFB3RHdNOTNZZ0M1czkzT25vLXRENl8zMUtqdC05d0NmZ0EzTHNUZjlMb3NuN2JCM25oUU5Id2UyNS13MHJ1Z1RIdzNMX1Q3OTYyMG93QmE4VEFINFQ4eXU3QmRZd2JCV0NGUml5dC1nOHdjYkp0c0JCYmRteEROMWtXbmZPNjBmRVBrN01R?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4368]
+          - generic [ref=e4369]: The Washington Post
+          - heading [level=4] [ref=e4372]:
+            - link "Opinion | No one is falling for Trump’s budget-busting ‘dividend’ check gimmick - The Washington Post - 1 hour ago" [ref=e4373] [cursor=pointer]:
+              - /url: ./read/CBMisgFBVV95cUxOMGVuOFpkSkhqUkZvSGxoMkFwdVVKMy1rbDI2TlJYYVgzR0RtRFB3RHdNOTNZZ0M1czkzT25vLXRENl8zMUtqdC05d0NmZ0EzTHNUZjlMb3NuN2JCM25oUU5Id2UyNS13MHJ1Z1RIdzNMX1Q3OTYyMG93QmE4VEFINFQ4eXU3QmRZd2JCV0NGUml5dC1nOHdjYkp0c0JCYmRteEROMWtXbmZPNjBmRVBrN01R?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Opinion | No one is falling for Trump’s budget-busting ‘dividend’ check gimmick
+          - generic [ref=e4374]:
+            - time [ref=e4376]: 1 hour ago
+            - list [ref=e4377]:
+              - generic [ref=e4378]:
+                - generic:
+                  - button "Save for later" [ref=e4379] [cursor=pointer]
+                  - tooltip [ref=e4384]: Save for later
+              - generic [ref=e4387]:
+                - button "Share" [ref=e4388] [cursor=pointer]
+                - tooltip [ref=e4397]: Share
+              - generic [ref=e4402]:
+                - button "More - Opinion | No one is falling for Trump’s budget-busting ‘dividend’ check gimmick" [ref=e4403] [cursor=pointer]
+                - tooltip [ref=e4407]: More
+        - generic [ref=e4409]:
+          - link [ref=e4410] [cursor=pointer]:
+            - /url: ./read/CBMigwFBVV95cUxNZmhIM2pfYUNDbE5hMndPQW00ZUI5RE4tRUxtRWJiUDRRaG8wQUxkSU1SMW9CMUxidlBxQnJBaC1xemJFRmFaX1FmcmZrd0dtNW80M1NRbzljU0JyT0RpOHVCbDExNnMzVmh4bGVCUEVoam9nLS02b1FCSWNxLWZ3SzJEbw?hl=en-US&gl=US&ceid=US%3Aen
+          - figure [ref=e4411]
+          - generic [ref=e4412]: The New York Times
+          - heading [level=4] [ref=e4415]:
+            - link "Trump Wants to Give Out $5,000 Checks. It Would Cost More Than $1 Trillion. - The New York Times - 10 hours ago - By John Yoon" [ref=e4416] [cursor=pointer]:
+              - /url: ./read/CBMigwFBVV95cUxNZmhIM2pfYUNDbE5hMndPQW00ZUI5RE4tRUxtRWJiUDRRaG8wQUxkSU1SMW9CMUxidlBxQnJBaC1xemJFRmFaX1FmcmZrd0dtNW80M1NRbzljU0JyT0RpOHVCbDExNnMzVmh4bGVCUEVoam9nLS02b1FCSWNxLWZ3SzJEbw?hl=en-US&gl=US&ceid=US%3Aen
+              - text: Trump Wants to Give Out $5,000 Checks. It Would Cost More Than $1 Trillion.
+          - generic [ref=e4417]:
+            - generic [ref=e4418]:
+              - time [ref=e4419]: 10 hours ago
+              - generic [ref=e4420]: • By John Yoon
+            - list [ref=e4421]:
+              - generic [ref=e4422]:
+                - generic:
+                  - button "Save for later" [ref=e4423] [cursor=pointer]
+                  - tooltip [ref=e4428]: Save for later
+              - generic [ref=e4431]:
+                - button "Share" [ref=e4432] [cursor=pointer]
+                - tooltip [ref=e4441]: Share
+              - generic [ref=e4446]:
+                - button "More - Trump Wants to Give Out $5,000 Checks. It Would Cost More Than $1 Trillion." [ref=e4447] [cursor=pointer]
+                - tooltip [ref=e4451]: More

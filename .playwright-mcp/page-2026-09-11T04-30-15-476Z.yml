@@ -1,0 +1,294 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Google News" [ref=e8] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e10]: News
+      - generic [ref=e11]:
+        - search [ref=e13]:
+          - generic [ref=e18]:
+            - combobox "Search for topics, locations & sources" [ref=e20]
+            - status
+          - button [ref=e21] [cursor=pointer]:
+            - generic [ref=e22]:
+              - generic "Advanced search" [ref=e23]
+              - tooltip [ref=e26]: Advanced search
+          - button "Search" [ref=e27] [cursor=pointer]
+        - generic [ref=e31]:
+          - generic [ref=e36]:
+            - button "Help" [ref=e37] [cursor=pointer]
+            - tooltip [ref=e41]: Help
+          - generic [ref=e46]:
+            - button "Settings" [ref=e47] [cursor=pointer]
+            - tooltip [ref=e52]: Settings
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e58] [cursor=pointer]
+        - link "Sign in" [ref=e62] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/home?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+  - main [ref=e67]:
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - heading "Your briefing" [level=1] [ref=e73]
+          - paragraph [ref=e74]: Friday, September 11
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - generic [ref=e80]: Today
+              - generic [ref=e82]:
+                - generic [ref=e83]: 89°
+                - generic [ref=e84]: 78°
+            - generic [ref=e85]:
+              - generic [ref=e86]: Sat
+              - generic [ref=e88]:
+                - generic [ref=e89]: 90°
+                - generic [ref=e90]: 78°
+            - generic [ref=e91]:
+              - generic [ref=e92]: Sun
+              - generic [ref=e94]:
+                - generic [ref=e95]: 89°
+                - generic [ref=e96]: 78°
+            - generic [ref=e97]:
+              - generic [ref=e98]: Mon
+              - generic [ref=e100]:
+                - generic [ref=e101]: 90°
+                - generic [ref=e102]: 78°
+          - generic [ref=e103]:
+            - button "Expand to view forecast" [ref=e104] [cursor=pointer]
+            - generic "St. Petersburg, 80°F, thunderstorms" [ref=e107]:
+              - img "thunderstorms" [ref=e108]
+              - generic [ref=e115]:
+                - generic [ref=e116]:
+                  - generic [ref=e117]: St. Petersburg
+                  - button "Use precise location" [ref=e118] [cursor=pointer]
+                - generic [ref=e121]: 80°F
+                - link "Google Weather" [ref=e122] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch/answer/13687874
+      - generic [ref=e124]:
+        - heading [level=3] [ref=e127]:
+          - link "Top stories" [ref=e128] [cursor=pointer]:
+            - /url: ./topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e134]:
+          - link "Donald Trump speaks at Republican midterm convention in Dallas" [ref=e136] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lUeTlfMUVSRUFIc3V5QmI3eXF5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Donald Trump speaks at Republican midterm convention in Dallas chevron_right
+          - generic [ref=e137]:
+            - generic [ref=e138]:
+              - link [ref=e140] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e141]
+              - generic [ref=e142]:
+                - generic [ref=e143]: npr.org
+                - generic [ref=e149]:
+                  - generic:
+                    - button "More - Vance, Trump issue plea for Americans to vote Republican on last night of convention" [ref=e150] [cursor=pointer]
+                    - tooltip [ref=e154]: More
+              - link "Vance, Trump issue plea for Americans to vote Republican on last night of convention - npr.org - 40 minutes ago - By Tamara Keith" [ref=e155] [cursor=pointer]:
+                - /url: ./read/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Vance, Trump issue plea for Americans to vote Republican on last night of convention
+              - generic [ref=e156]:
+                - time [ref=e157]: 40 minutes ago
+                - separator [ref=e158]
+                - generic [ref=e159]: By Tamara Keith
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - link [ref=e163] [cursor=pointer]:
+                  - /url: ./read/CBMijwFBVV95cUxPcFJQR3NRV2p3anBfdW9ZeVZkT1BSX0dmRWtTV19KN3JYd0IzbGY5bUlKeTR2NkpCai1nMnhtVG1wSWx5VENFcG00ai1MM0VHSUtDcVpBQmFudDhaVHdmak8xQnFWUjBoc3BsYl9lYUV2QlIxQVBtNGRIRWxQdjk2MmxLOVRnbzVRQ2c2NlFGcw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e164]:
+                  - generic [ref=e165]: The Guardian
+                  - generic [ref=e171]:
+                    - generic:
+                      - button "More - JD Vance pitches himself as Trump’s political heir on day two of Republican midterm convention" [ref=e172] [cursor=pointer]
+                      - tooltip [ref=e176]: More
+                - link "JD Vance pitches himself as Trump’s political heir on day two of Republican midterm convention - The Guardian - 36 minutes ago - By Adam Gabbatt" [ref=e177] [cursor=pointer]:
+                  - /url: ./read/CBMijwFBVV95cUxPcFJQR3NRV2p3anBfdW9ZeVZkT1BSX0dmRWtTV19KN3JYd0IzbGY5bUlKeTR2NkpCai1nMnhtVG1wSWx5VENFcG00ai1MM0VHSUtDcVpBQmFudDhaVHdmak8xQnFWUjBoc3BsYl9lYUV2QlIxQVBtNGRIRWxQdjk2MmxLOVRnbzVRQ2c2NlFGcw?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: JD Vance pitches himself as Trump’s political heir on day two of Republican midterm convention
+                - generic [ref=e178]:
+                  - time [ref=e179]: 36 minutes ago
+                  - separator [ref=e180]
+                  - generic [ref=e181]: By Adam Gabbatt
+              - generic [ref=e182]:
+                - link [ref=e184] [cursor=pointer]:
+                  - /url: ./read/CBMingFBVV95cUxQRHBNX1RxTV82US16MFBqcGU3SFJMalNKdkJ3OEJ5QWlISFU0R0dfZEZmV3ozVXluMkdyYnFMYVpsLXRkRFJpcWEzUXZ2Qlh4LTV5aUxPQlBNdDVyc2NtZHFpZ2xWQ3ozeXBqQk1BaHhrbGNOQnRKclNRZGdXQWg2TUlvNmV6NmlpNnpTUVl2TEZlUUpVdTI5MjFOT3N5UQ?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e185]:
+                  - generic [ref=e186]: The New York Times
+                  - generic [ref=e192]:
+                    - generic:
+                      - 'button "More - ‘You Know What Happens if You Don’t Vote’: 7 Takeaways From the G.O.P. Convention" [ref=e193] [cursor=pointer]'
+                      - tooltip [ref=e197]: More
+                - 'link "‘You Know What Happens if You Don’t Vote’: 7 Takeaways From the G.O.P. Convention - The New York Times - 16 minutes ago - By Shane Goldmacher & Lisa Lerer" [ref=e198] [cursor=pointer]':
+                  - /url: ./read/CBMingFBVV95cUxQRHBNX1RxTV82US16MFBqcGU3SFJMalNKdkJ3OEJ5QWlISFU0R0dfZEZmV3ozVXluMkdyYnFMYVpsLXRkRFJpcWEzUXZ2Qlh4LTV5aUxPQlBNdDVyc2NtZHFpZ2xWQ3ozeXBqQk1BaHhrbGNOQnRKclNRZGdXQWg2TUlvNmV6NmlpNnpTUVl2TEZlUUpVdTI5MjFOT3N5UQ?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: "‘You Know What Happens if You Don’t Vote’: 7 Takeaways From the G.O.P. Convention"
+                - generic [ref=e199]:
+                  - time [ref=e200]: 16 minutes ago
+                  - separator [ref=e201]
+                  - generic [ref=e202]: By Shane Goldmacher & Lisa Lerer
+              - generic [ref=e203]:
+                - link [ref=e205] [cursor=pointer]:
+                  - /url: ./read/CBMisgFBVV95cUxOaGVhYXBlX3dUdGdOYzhDVEJkcVQxRkNTRkdpVWZCejNQQVlEZmQ3M0FIZ3BJczRlYXZsMmxRMDRoQ3d6eU9naFotdWJoQzVobmkwOW9mUDhHYVo2Vmo2RC1Mdkt3R1o1R1JOTWRRR21BaUpmNzhqX1dPNXI4cmpZOFdaNTM1NURZVHZqWHBHd1JtUlRVUVd6OHZ2cl90SUlXR09TeG1zc1FXa1FoamE3QnNn?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e206]:
+                  - generic [ref=e207]: dallasnews.com
+                  - generic [ref=e213]:
+                    - generic:
+                      - button "More - Trump blamed bathroom breaks for empty seats at Dallas convention" [ref=e214] [cursor=pointer]
+                      - tooltip [ref=e218]: More
+                - link "Trump blamed bathroom breaks for empty seats at Dallas convention - dallasnews.com - 8 hours ago - By Joseph Morton" [ref=e219] [cursor=pointer]:
+                  - /url: ./read/CBMisgFBVV95cUxOaGVhYXBlX3dUdGdOYzhDVEJkcVQxRkNTRkdpVWZCejNQQVlEZmQ3M0FIZ3BJczRlYXZsMmxRMDRoQ3d6eU9naFotdWJoQzVobmkwOW9mUDhHYVo2Vmo2RC1Mdkt3R1o1R1JOTWRRR21BaUpmNzhqX1dPNXI4cmpZOFdaNTM1NURZVHZqWHBHd1JtUlRVUVd6OHZ2cl90SUlXR09TeG1zc1FXa1FoamE3QnNn?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump blamed bathroom breaks for empty seats at Dallas convention
+                - generic [ref=e220]:
+                  - time [ref=e221]: 8 hours ago
+                  - separator [ref=e222]
+                  - generic [ref=e223]: By Joseph Morton
+          - link "See more headlines & perspectives - Donald Trump speaks at Republican midterm convention in Dallas" [ref=e226] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lUeTlfMUVSRUFIc3V5QmI3eXF5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e229]: See more headlines & perspectives
+        - generic [ref=e233]:
+          - link "Donald Trump promises $5,000 voter dividend at GOP convention" [ref=e235] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSR0dhLUxvaHZWY1Z5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - text: Donald Trump promises $5,000 voter dividend at GOP convention chevron_right
+          - generic [ref=e236]:
+            - generic [ref=e237]:
+              - link [ref=e239] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxOX1FaMEdEeVNNOWttZS1oTUd0ajlkUXQ1ZmRsXy1rb096TUNDQkZKT25KMDNfOXVXVE82MUVXSVZvUVgycFVmd2dBc01aRmRXeDRZWnVrTzVKOVZBSGJpYV9hN25RRkFzc1lEQ3poRGQwbmJDNmItZ2I1YlJvRjJJUmNR?hl=en-US&gl=US&ceid=US%3Aen
+              - figure [ref=e240]
+              - generic [ref=e241]:
+                - generic [ref=e242]: CBS News
+                - generic [ref=e248]:
+                  - generic:
+                    - button "More - Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say" [ref=e249] [cursor=pointer]
+                    - tooltip [ref=e253]: More
+              - link "Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say - CBS News - 8 hours ago - By Aimee Picchi" [ref=e254] [cursor=pointer]:
+                - /url: ./read/CBMiggFBVV95cUxOX1FaMEdEeVNNOWttZS1oTUd0ajlkUXQ1ZmRsXy1rb096TUNDQkZKT25KMDNfOXVXVE82MUVXSVZvUVgycFVmd2dBc01aRmRXeDRZWnVrTzVKOVZBSGJpYV9hN25RRkFzc1lEQ3poRGQwbmJDNmItZ2I1YlJvRjJJUmNR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say
+              - generic [ref=e255]:
+                - time [ref=e256]: 8 hours ago
+                - separator [ref=e257]
+                - generic [ref=e258]: By Aimee Picchi
+            - generic [ref=e259]:
+              - generic [ref=e260]:
+                - link [ref=e262] [cursor=pointer]:
+                  - /url: ./read/CBMiaEFVX3lxTE9wQW1WUnFmY2xSMEMxWFgzeWp6NVlNYm44S2diSWVYY3cxZXdWajVTajAxd1NXODl6WmI3VHlPV2NZN1hIMkwtVlBWMER5YVJxUk5SaUJ4amhxbWpWTnlZaEZCWDQ4RV9l?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e263]:
+                  - generic [ref=e264]: CNN
+                  - generic [ref=e270]:
+                    - generic:
+                      - button "More - Trump officials scramble to manage fallout after his $5K check pledge to all Americans" [ref=e271] [cursor=pointer]
+                      - tooltip [ref=e275]: More
+                - link "Trump officials scramble to manage fallout after his $5K check pledge to all Americans - CNN - 7 hours ago - By Adam Cancryn, Tami Luhby & Alayna Treene" [ref=e276] [cursor=pointer]:
+                  - /url: ./read/CBMiaEFVX3lxTE9wQW1WUnFmY2xSMEMxWFgzeWp6NVlNYm44S2diSWVYY3cxZXdWajVTajAxd1NXODl6WmI3VHlPV2NZN1hIMkwtVlBWMER5YVJxUk5SaUJ4amhxbWpWTnlZaEZCWDQ4RV9l?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump officials scramble to manage fallout after his $5K check pledge to all Americans
+                - generic [ref=e277]:
+                  - time [ref=e278]: 7 hours ago
+                  - separator [ref=e279]
+                  - generic [ref=e280]: By Adam Cancryn, Tami Luhby & Alayna Treene
+              - generic [ref=e281]:
+                - link [ref=e283] [cursor=pointer]:
+                  - /url: ./read/CBMifkFVX3lxTFBEbFJMcEczR1RDa2Q0SnJKTGQycjRyTGIxc1RmcVpPYWlHRTA3X3pKU1dmWnBjamZPVDU5dVg1YU5HdjBjWW1iNUVUY3JLUTE2MndZZE8wOXhneG9CTWkybnRhZ200R1NfOW9MQ2hGUkgxTjhzQzRQWTUwOEE1Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e284]:
+                  - generic [ref=e285]: The Atlantic
+                  - generic [ref=e291]:
+                    - generic:
+                      - button "More - Trump’s Weird Loyalty Pledge" [ref=e292] [cursor=pointer]
+                      - tooltip [ref=e296]: More
+                - link "Trump’s Weird Loyalty Pledge - The Atlantic - 21 minutes ago - By Thomas M. Nichols" [ref=e297] [cursor=pointer]:
+                  - /url: ./read/CBMifkFVX3lxTFBEbFJMcEczR1RDa2Q0SnJKTGQycjRyTGIxc1RmcVpPYWlHRTA3X3pKU1dmWnBjamZPVDU5dVg1YU5HdjBjWW1iNUVUY3JLUTE2MndZZE8wOXhneG9CTWkybnRhZ200R1NfOW9MQ2hGUkgxTjhzQzRQWTUwOEE1Zw?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump’s Weird Loyalty Pledge
+                - generic [ref=e298]:
+                  - time [ref=e299]: 21 minutes ago
+                  - separator [ref=e300]
+                  - generic [ref=e301]: By Thomas M. Nichols
+              - generic [ref=e302]:
+                - link [ref=e304] [cursor=pointer]:
+                  - /url: ./read/CBMickFVX3lxTE5KMGZSZVh6UVUtZDZFcDFneGMwTlJ5WDFSdzRSVlZMWF9Iam1rOGtRRDlDOWs0c1BySjJBYTJnczlJb25PcjJhTWZZUFU1QURXVFZSaC1Ud2RjeDhxdXdSX0Z0Y1BvaW80dlo3ZF80Q3Ewd9IBd0FVX3lxTE1TU0VTcHl1NXMtMjdMdlhmZGQ1VlBIOWxZN0EwS2ZoU0o4em9MMnlaYl94aXgzWWRhblgzMnY2S1NfUHR2eGpyMEdTdi11OHVsRS1NSE5oXzJjMkZPazRzR3pVcUdJNk1uaU5DM2tRZFNON2Q5VTVN?hl=en-US&gl=US&ceid=US%3Aen
+                - generic [ref=e305]:
+                  - generic [ref=e306]: CNBC
+                  - generic [ref=e312]:
+                    - generic:
+                      - button "More - Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback" [ref=e313] [cursor=pointer]
+                      - tooltip [ref=e317]: More
+                - link "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback - CNBC - 19 hours ago - By Kevin Breuninger & Chloe Taylor" [ref=e318] [cursor=pointer]:
+                  - /url: ./read/CBMickFVX3lxTE5KMGZSZVh6UVUtZDZFcDFneGMwTlJ5WDFSdzRSVlZMWF9Iam1rOGtRRDlDOWs0c1BySjJBYTJnczlJb25PcjJhTWZZUFU1QURXVFZSaC1Ud2RjeDhxdXdSX0Z0Y1BvaW80dlo3ZF80Q3Ewd9IBd0FVX3lxTE1TU0VTcHl1NXMtMjdMdlhmZGQ1VlBIOWxZN0EwS2ZoU0o4em9MMnlaYl94aXgzWWRhblgzMnY2S1NfUHR2eGpyMEdTdi11OHVsRS1NSE5oXzJjMkZPazRzR3pVcUdJNk1uaU5DM2tRZFNON2Q5VTVN?hl=en-US&gl=US&ceid=US%3Aen
+                  - text: Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback
+                - generic [ref=e319]:
+                  - time [ref=e320]: 19 hours ago
+                  - separator [ref=e321]
+                  - generic [ref=e322]: By Kevin Breuninger & Chloe Taylor
+          - link "See more headlines & perspectives - Donald Trump promises $5,000 voter dividend at GOP convention" [ref=e325] [cursor=pointer]:
+            - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc2NIN0VSR0dhLUxvaHZWY1Z5Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e328]: See more headlines & perspectives
+        - generic [ref=e332]:
+          - generic [ref=e333]:
+            - link [ref=e335] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e337]:
+              - generic [ref=e338]:
+                - generic [ref=e339]: The Washington Post
+                - generic [ref=e345]:
+                  - generic:
+                    - button "More - Supreme Court again blocks new Missouri congressional map favoring GOP" [ref=e346] [cursor=pointer]
+                    - tooltip [ref=e350]: More
+              - link "Supreme Court again blocks new Missouri congressional map favoring GOP - The Washington Post - 3 hours ago - By Justin Jouvenal" [ref=e351] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Supreme Court again blocks new Missouri congressional map favoring GOP
+            - figure [ref=e352]
+          - generic [ref=e353]:
+            - time [ref=e354]: 3 hours ago
+            - separator [ref=e355]
+            - generic [ref=e356]: By Justin Jouvenal
+            - link "See more headlines & perspectives - Supreme Court again blocks new Missouri congressional map favoring GOP" [ref=e357] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lneHBuMUVSRjd2blBJaGVqUFBTZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e360]: See more
+        - generic [ref=e364]:
+          - generic [ref=e365]:
+            - link [ref=e367] [cursor=pointer]:
+              - /url: ./read/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - generic [ref=e371]: AP News
+                - generic [ref=e377]:
+                  - generic:
+                    - button "More - Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping" [ref=e378] [cursor=pointer]
+                    - tooltip [ref=e382]: More
+              - link "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping - AP News - 5 hours ago - By Fatma Khaled & Ahmed Al" [ref=e383] [cursor=pointer]:
+                - /url: ./read/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping
+            - figure [ref=e384]
+          - generic [ref=e385]:
+            - time [ref=e386]: 5 hours ago
+            - separator [ref=e387]
+            - generic [ref=e388]: By Fatma Khaled & Ahmed Al
+            - link "See more headlines & perspectives - Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping" [ref=e389] [cursor=pointer]:
+              - /url: ./stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2paOGVEdEVSRlR4eDlLVXdOMXNDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen
+              - generic [ref=e392]: See more
+      - heading [level=3] [ref=e398]:
+        - link "Local news" [ref=e399] [cursor=pointer]:
+          - /url: ./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE?hl=en-US&gl=US&ceid=US%3Aen
+  - navigation [ref=e434]:
+    - tablist [ref=e435]:
+      - tab [selected] [ref=e436] [cursor=pointer]:
+        - tab "Home" [selected] [ref=e437]
+      - tab [ref=e438] [cursor=pointer]:
+        - tab "For you" [ref=e439]
+      - tab [ref=e440] [cursor=pointer]:
+        - tab "Following" [ref=e441]
+      - tab [ref=e442] [cursor=pointer]:
+        - tab "Saved stories" [ref=e443]
+      - tab [ref=e444] [cursor=pointer]:
+        - tab "News Showcase" [ref=e445]
+      - tab [ref=e448] [cursor=pointer]:
+        - tab "U.S." [ref=e449]
+      - tab [ref=e450] [cursor=pointer]:
+        - tab "World" [ref=e451]
+      - tab [ref=e452] [cursor=pointer]:
+        - tab "Local" [ref=e453]
+      - tab [ref=e454] [cursor=pointer]:
+        - tab "Business" [ref=e455]
+      - tab [ref=e456] [cursor=pointer]:
+        - tab "Technology" [ref=e457]
+      - tab [ref=e458] [cursor=pointer]:
+        - tab "Entertainment" [ref=e459]
+      - tab [ref=e460] [cursor=pointer]:
+        - tab "Sports" [ref=e461]
+    - generic [ref=e465]:
+      - button "More" [ref=e466] [cursor=pointer]
+      - tooltip [ref=e470]: More
