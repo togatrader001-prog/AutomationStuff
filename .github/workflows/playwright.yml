@@ -1,27 +1,81 @@
 name: Playwright Tests
+
 on:
   push:
-    branches: [ main, master ]
+    branches:
+      - main
+      - master
   pull_request:
-    branches: [ main, master ]
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
 jobs:
   test:
     timeout-minutes: 60
     runs-on: ubuntu-latest
+
+    permissions:
+      id-token: write
+      contents: read
+
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
-      with:
-        node-version: lts/*
-    - name: Install dependencies
-      run: npm ci
-    - name: Install Playwright Browsers
-      run: npx playwright install --with-deps
-    - name: Run Playwright tests
-      run: npx playwright test
-    - uses: actions/upload-artifact@v4
-      if: ${{ !cancelled() }}
-      with:
-        name: playwright-report
-        path: playwright-report/
-        retention-days: 30
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps
+
+      - name: Run Playwright tests
+        run: npx playwright test
+
+      - name: Upload report as GitHub artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 30
+
+      - name: Debug OIDC token claims
+        if: always()
+        run: |
+          IDTOKEN=$(curl -sS -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=sts.amazonaws.com" | jq -r '.value')
+          echo "$IDTOKEN" | cut -d '.' -f2 | base64 -d 2>/dev/null | jq .
+
+      - name: Configure AWS credentials via OIDC
+        if: always()
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::864902168755:role/github-actions-playwright-uploader
+          aws-region: us-east-2
+
+      - name: Upload Playwright report to S3
+        if: always()
+        shell: bash
+        run: |
+          REPORT_PATH="${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          REPORT_BUCKET="playwright-reports-6155a69c"
+          CLOUDFRONT_DOMAIN="d17pugk0ekw81q.cloudfront.net"
+
+          aws s3 sync "playwright-report/" "s3://${REPORT_BUCKET}/${REPORT_PATH}/" --delete
+
+          REPORT_URL="https://${CLOUDFRONT_DOMAIN}/${REPORT_PATH}/index.html"
+
+          {
+            echo "## Playwright Test Report"
+            echo
+            echo "[Open the live Playwright report](${REPORT_URL})"
+          } >> "${GITHUB_STEP_SUMMARY}"
+
+          echo "Report URL: ${REPORT_URL}"
