@@ -12,7 +12,7 @@
 
 // @ts-check
 import { test, expect } from "@playwright/test";
-
+import path from "path"; 
 test("TestCase 6: Contact Us Form", async ({ page }) => {
 	const testEmail = `smellyjapanesegirl${Date.now()}@gmail.com`;
 
