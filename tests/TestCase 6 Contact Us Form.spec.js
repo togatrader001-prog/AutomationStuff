@@ -41,11 +41,9 @@ test("TestCase 6: Contact Us Form", async ({ page }) => {
 
 	//click upload file button and upload a file
 
-	await page
-		.locator('input[name="upload_file"]')
-		.setInputFiles(
-			"C:\\Users\\eugen\\OneDrive\\Desktop\\Learn to Code\\Project 1\\AutomationStuff\\SomethingToSend.txt",
-		);
+await page
+    .locator('input[name="upload_file"]')
+    .setInputFiles("SomethingToSend.txt");
 
 	//click submit button
 	//set up listener for dialog and accept it
