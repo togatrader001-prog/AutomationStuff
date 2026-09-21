@@ -1,8 +1,11 @@
-//This was created by AI but I went through line by line to learn how it did this
-//I would not have thought to use API like this so learned a lot about API form
-//The only main thing I'm unclear about is the "try" and "finally" part of the code but we will revisit
-
-
+// Launch browser
+// 2. Navigate to url 'http://automationexercise.com'
+// 3. Verify that home page is visible successfully
+// 4. Click on 'Signup / Login' button
+// 5. Verify 'New User Signup!' is visible
+// 6. Enter name and already registered email address
+// 7. Click 'Signup' button
+// 8. Verify error 'Email Address already exist!' is visible
 //@ts-check
 import { test, expect } from '@playwright/test';
 
